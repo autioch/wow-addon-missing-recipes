@@ -1,0 +1,10 @@
+## Interface: 11302
+## Title: Missing Recipes
+## Author: Autioch
+## Version: 0.0.1
+## Notes: List missing recipes
+
+db\index.xml
+utils.lua
+core.lua
+main.lua

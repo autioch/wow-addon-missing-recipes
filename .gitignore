@@ -1,0 +1,7 @@
+#ignore thumbnails created by windows
+.idea
+.test-results
+*.zip
+build/*
+node_modules/
+package-lock.json
