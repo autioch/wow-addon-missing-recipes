@@ -1,7 +1,4 @@
-#ignore thumbnails created by windows
-.idea
-.test-results
-*.zip
-build/*
+build/
 node_modules/
 package-lock.json
+examples/

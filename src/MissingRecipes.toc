@@ -6,5 +6,7 @@
 
 db\index.xml
 utils.lua
+openButton.lua
+showModal.lua
 core.lua
 main.lua

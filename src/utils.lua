@@ -29,37 +29,17 @@ local function log(message)
   print('MissingRecipes: '..message)
 end
 
-local function createButton(parentFrame, OnClick)
-  local btnClose = CreateFrame("Button", "MissingRecipesButton", parentFrame, "UIPanelButtonTemplate")
-  btnClose:SetPoint("TOPRIGHT")
-  btnClose:SetSize(24,24)
-  btnClose:SetText("x")
-  btnClose:SetFrameStrata("FULLSCREEN")
-  btnClose:SetScript("OnClick", OnClick)
+local function listenToGlobalEvent(eventName, eventHandler)
+  local eventFrame = CreateFrame("Frame", nil, UIParent);
+  eventFrame:RegisterEvent(eventName);
+  eventFrame:SetScript("OnEvent", eventHandler);
 end
 
-local function createModal(width, height)
-  local modal = CreateFrame("ScrollFrame", "MissingRecipesModal", UIParent, "InputScrollFrameTemplate")
-
-  local function hide ()
-  	modal.EditBox:SetText('')
-    modal.EditBox:ClearFocus()
-    modal:Hide()
-  end
-
-  modal:SetPoint("CENTER")
-  modal.CharCount:Hide()
-  modal:SetSize(width, height)
-
-  createButton(modal, hide)
-
-  modal.EditBox:SetFont("Fonts\\ARIALN.ttf", 13)
-  modal.EditBox:SetWidth(modal:GetWidth())
-  modal.EditBox:SetScript("OnEscapePressed", hide)
-
-  return modal
+local function getProfessionName()
+  return string.lower(GetTradeSkillLine())
 end
 
 NS.log = log
 NS.pairsByKeys = pairsByKeys
-NS.createModal = createModal
+NS.listenToGlobalEvent = listenToGlobalEvent
+NS.getProfessionName = getProfessionName
