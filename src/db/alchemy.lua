@@ -1,6 +1,9 @@
 local A, NS = ...
 
 NS.DB.alchemy = {
+  ["Alchemist's Stone"] = {
+    ["name"] = "Alchemist's Stone"
+  },
   ["Arcane Elixir"] = {
     ["name"] = "Arcane Elixir"
   },
@@ -9,6 +12,9 @@ NS.DB.alchemy = {
   },
   ["Catseye Elixir"] = {
     ["name"] = "Catseye Elixir"
+  },
+  ["Cowardly Flight Potion"] = {
+    ["name"] = "Cowardly Flight Potion"
   },
   ["Discolored Healing Potion"] = {
     ["name"] = "Discolored Healing Potion"
@@ -103,8 +109,14 @@ NS.DB.alchemy = {
   ["Elixir of the Sages"] = {
     ["name"] = "Elixir of the Sages"
   },
+  ["Elixir of Tongues"] = {
+    ["name"] = "Elixir of Tongues"
+  },
   ["Elixir of Water Breathing"] = {
     ["name"] = "Elixir of Water Breathing"
+  },
+  ["Elixir of Waterwalking"] = {
+    ["name"] = "Elixir of Waterwalking"
   },
   ["Elixir of Wisdom"] = {
     ["name"] = "Elixir of Wisdom"
@@ -168,6 +180,9 @@ NS.DB.alchemy = {
   },
   ["Greater Healing Potion"] = {
     ["name"] = "Greater Healing Potion"
+  },
+  ["Greater Holy Protection Potion"] = {
+    ["name"] = "Greater Holy Protection Potion"
   },
   ["Greater Mana Potion"] = {
     ["name"] = "Greater Mana Potion"
@@ -264,6 +279,9 @@ NS.DB.alchemy = {
   },
   ["Rage Potion"] = {
     ["name"] = "Rage Potion"
+  },
+  ["Refined Scale of Onyxia"] = {
+    ["name"] = "Refined Scale of Onyxia"
   },
   ["Restorative Potion"] = {
     ["name"] = "Restorative Potion"

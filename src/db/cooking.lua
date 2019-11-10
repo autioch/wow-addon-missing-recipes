@@ -4,6 +4,9 @@ NS.DB.cooking = {
   ["Baked Salmon"] = {
     ["name"] = "Baked Salmon"
   },
+  ["Barbecued Buzzard Wing"] = {
+    ["name"] = "Barbecued Buzzard Wing"
+  },
   ["Basic Campfire"] = {
     ["name"] = "Basic Campfire"
   },
@@ -15,6 +18,9 @@ NS.DB.cooking = {
   },
   ["Blood Sausage"] = {
     ["name"] = "Blood Sausage"
+  },
+  ["Boiled Clams"] = {
+    ["name"] = "Boiled Clams"
   },
   ["Brilliant Smallfish"] = {
     ["name"] = "Brilliant Smallfish"
@@ -37,8 +43,11 @@ NS.DB.cooking = {
   ["Cooked Glossy Mightfish"] = {
     ["name"] = "Cooked Glossy Mightfish"
   },
-  ["Cooking"] = {
-    ["name"] = "Cooking"
+  ["Coyote Steak"] = {
+    ["name"] = "Coyote Steak"
+  },
+  ["Crab Cake"] = {
+    ["name"] = "Crab Cake"
   },
   ["Crispy Bat Wing"] = {
     ["name"] = "Crispy Bat Wing"
@@ -52,6 +61,9 @@ NS.DB.cooking = {
   ["Crocolisk Steak"] = {
     ["name"] = "Crocolisk Steak"
   },
+  ["Crystal Throat Lozenge"] = {
+    ["name"] = "Crystal Throat Lozenge"
+  },
   ["Curiously Tasty Omelet"] = {
     ["name"] = "Curiously Tasty Omelet"
   },
@@ -63,6 +75,9 @@ NS.DB.cooking = {
   },
   ["Dragonbreath Chili"] = {
     ["name"] = "Dragonbreath Chili"
+  },
+  ["Dry Pork Ribs"] = {
+    ["name"] = "Dry Pork Ribs"
   },
   ["Egg Nog"] = {
     ["name"] = "Egg Nog"
@@ -78,6 +93,9 @@ NS.DB.cooking = {
   },
   ["Gingerbread Cookie"] = {
     ["name"] = "Gingerbread Cookie"
+  },
+  ["Goblin Deviled Clams"] = {
+    ["name"] = "Goblin Deviled Clams"
   },
   ["Goldthorn Tea"] = {
     ["name"] = "Goldthorn Tea"
@@ -201,6 +219,12 @@ NS.DB.cooking = {
   },
   ["Spiced Chili Crab"] = {
     ["name"] = "Spiced Chili Crab"
+  },
+  ["Spiced Wolf Meat"] = {
+    ["name"] = "Spiced Wolf Meat"
+  },
+  ["Spider Sausage"] = {
+    ["name"] = "Spider Sausage"
   },
   ["Spotted Yellowtail"] = {
     ["name"] = "Spotted Yellowtail"
