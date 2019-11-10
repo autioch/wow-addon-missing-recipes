@@ -71,5 +71,250 @@
         "trainingcost": 50000
       }
     ]
+  },
+  {
+    "listId": "trainers",
+    "data": [
+      {
+        "classification": 0,
+        "id": 1292,
+        "location": [
+          1519
+        ],
+        "maxlevel": 35,
+        "minlevel": 35,
+        "name": "Maris Granger",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Skinning Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 6287,
+        "location": [
+          141
+        ],
+        "maxlevel": 19,
+        "minlevel": 19,
+        "name": "Radnaal Maneweaver",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Skinner",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 6288,
+        "location": [
+          331
+        ],
+        "maxlevel": 23,
+        "minlevel": 23,
+        "name": "Jayla",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Skinner",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 6289,
+        "location": [
+          85
+        ],
+        "maxlevel": 13,
+        "minlevel": 13,
+        "name": "Rand Rhobart",
+        "react": [
+          -1,
+          1
+        ],
+        "tag": "Skinner",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 6290,
+        "location": [
+          215
+        ],
+        "maxlevel": 8,
+        "minlevel": 8,
+        "name": "Yonn Deepcut",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Skinner",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 6291,
+        "location": [
+          1537
+        ],
+        "maxlevel": 35,
+        "minlevel": 35,
+        "name": "Balthus Stoneflayer",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Skinning Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 6292,
+        "location": [
+          1657
+        ],
+        "maxlevel": 35,
+        "minlevel": 35,
+        "name": "Eladriel",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Skinning Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 6295,
+        "location": [
+          44
+        ],
+        "maxlevel": 29,
+        "minlevel": 29,
+        "name": "Wilma Ranthal",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Skinning Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 6306,
+        "location": [
+          12
+        ],
+        "maxlevel": 12,
+        "minlevel": 12,
+        "name": "Helene Peltskinner",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Skinner",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 6387,
+        "location": [
+          17
+        ],
+        "maxlevel": 15,
+        "minlevel": 15,
+        "name": "Dranh",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Skinner",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 7087,
+        "location": [
+          1497
+        ],
+        "maxlevel": 35,
+        "minlevel": 35,
+        "name": "Killian Hagey",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Skinning Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 7088,
+        "location": [
+          1637
+        ],
+        "maxlevel": 35,
+        "minlevel": 35,
+        "name": "Thuwd",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Skinning Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 7089,
+        "location": [
+          1638
+        ],
+        "maxlevel": 35,
+        "minlevel": 35,
+        "name": "Mooranta",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Skinning Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 8144,
+        "location": [
+          357
+        ],
+        "maxlevel": 51,
+        "minlevel": 51,
+        "name": "Kulleg Stonehorn",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Skinning Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 12030,
+        "location": [
+          405
+        ],
+        "maxlevel": 30,
+        "minlevel": 30,
+        "name": "Malux",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Skinning Trainer",
+        "type": 7
+      }
+    ]
   }
 ]

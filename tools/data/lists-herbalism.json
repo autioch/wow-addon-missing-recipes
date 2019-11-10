@@ -83,5 +83,347 @@
         "trainingcost": 50000
       }
     ]
+  },
+  {
+    "listId": "trainers",
+    "data": [
+      {
+        "classification": 0,
+        "id": 812,
+        "location": [
+          44
+        ],
+        "maxlevel": 20,
+        "minlevel": 20,
+        "name": "Alma Jainrose",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Herbalism Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 908,
+        "location": [
+          33
+        ],
+        "maxlevel": 44,
+        "minlevel": 44,
+        "name": "Flora Silverwind",
+        "react": [
+          1,
+          1
+        ],
+        "tag": "Superior Herbalist",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 1218,
+        "location": [
+          12
+        ],
+        "maxlevel": 10,
+        "minlevel": 10,
+        "name": "Herbalist Pomeroy",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Herbalism Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 1458,
+        "location": [
+          11
+        ],
+        "maxlevel": 25,
+        "minlevel": 25,
+        "name": "Telurinon Moonshadow",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Herbalism Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 1473,
+        "location": [
+          38
+        ],
+        "maxlevel": 14,
+        "minlevel": 14,
+        "name": "Kali Healtouch",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Herbalist",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 2114,
+        "location": [
+          85
+        ],
+        "maxlevel": 5,
+        "minlevel": 5,
+        "name": "Faruza",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Apprentice Herbalist",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 2390,
+        "location": [
+          267
+        ],
+        "maxlevel": 29,
+        "minlevel": 29,
+        "name": "Aranae Venomblood",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Herbalist",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 2856,
+        "location": [
+          33
+        ],
+        "maxlevel": 40,
+        "minlevel": 40,
+        "name": "Angrun",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Superior Herbalist",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 3013,
+        "location": [
+          1638
+        ],
+        "maxlevel": 35,
+        "minlevel": 35,
+        "name": "Komin Winterhoof",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Herbalism Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 3185,
+        "location": [
+          14
+        ],
+        "maxlevel": 14,
+        "minlevel": 14,
+        "name": "Mishiki",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Herbalist",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 3404,
+        "location": [
+          1637
+        ],
+        "maxlevel": 35,
+        "minlevel": 35,
+        "name": "Jandi",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Herbalism Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 3604,
+        "location": [
+          141
+        ],
+        "maxlevel": 17,
+        "minlevel": 17,
+        "name": "Malorne Bladeleaf",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Herbalist",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 3965,
+        "location": [
+          331
+        ],
+        "maxlevel": 24,
+        "minlevel": 24,
+        "name": "Cylania Rootstalker",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Herbalist",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 4204,
+        "location": [
+          1657
+        ],
+        "maxlevel": 35,
+        "minlevel": 35,
+        "name": "Firodren Mooncaller",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Herbalism Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 4614,
+        "location": [
+          1497
+        ],
+        "maxlevel": 35,
+        "minlevel": 35,
+        "name": "Martha Alliestar",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Herbalism Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 4898,
+        "location": [
+          15
+        ],
+        "maxlevel": 37,
+        "minlevel": 37,
+        "name": "Brant Jasperbloom",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Herbalist",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 5137,
+        "location": [
+          1537
+        ],
+        "maxlevel": 35,
+        "minlevel": 35,
+        "name": "Reyna Stonebranch",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Herbalism Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 5502,
+        "location": [
+          1519
+        ],
+        "maxlevel": 35,
+        "minlevel": 35,
+        "name": "Shylamiir",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Herbalism Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "hasQuests": 1,
+        "id": 5566,
+        "location": [
+          1519
+        ],
+        "maxlevel": 35,
+        "minlevel": 35,
+        "name": "Tannysa",
+        "react": [
+          1,
+          null
+        ],
+        "tag": "Herbalism Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 8146,
+        "location": [
+          357
+        ],
+        "maxlevel": 50,
+        "minlevel": 50,
+        "name": "Ruw",
+        "react": [
+          null,
+          1
+        ],
+        "tag": "Herbalism Trainer",
+        "type": 7
+      },
+      {
+        "classification": 0,
+        "id": 12025,
+        "location": [
+          493
+        ],
+        "maxlevel": 51,
+        "minlevel": 51,
+        "name": "Malvor",
+        "react": [
+          1,
+          1
+        ],
+        "tag": "Herbalist",
+        "type": 7
+      }
+    ]
   }
 ]

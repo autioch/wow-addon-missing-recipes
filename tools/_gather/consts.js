@@ -15,6 +15,18 @@ const PROFESSIONS = {
   FISHING: 'fishing'
 };
 
+const IGNORED_LISTS = {
+  guides: true,
+  comments: true,
+  screenshots: true,
+  quests: true,
+  'required-by': true
+};
+
+const HANG_DELAY = 10000;
+
 module.exports = {
-  PROFESSIONS
+  PROFESSIONS,
+  IGNORED_LISTS,
+  HANG_DELAY
 };

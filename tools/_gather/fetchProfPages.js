@@ -1,13 +1,10 @@
 const request = require('request');
 const fs = require('fs');
-const path = require('path');
-const { PROFESSIONS } = require('./consts');
 
-const HANG_DELAY = 10000;
+const { PROFESSIONS, HANG_DELAY } = require('./consts');
+const { pageUrl, pageFile } = require('./utils');
 
 function fetchPage(url, dest) {
-  console.log('Fetch ', url);
-
   return new Promise((resolve, reject) => {
     request({
       url,
@@ -15,7 +12,6 @@ function fetchPage(url, dest) {
       encoding: null,
       timeout: HANG_DELAY
     }, (err, res, body) => {
-      console.log('Done', url);
       if (err) {
         reject(err);
       } else if (res.statusCode !== 200 && res.statusCode !== 201) { // eslint-disable-line no-magic-numbers
@@ -29,13 +25,18 @@ function fetchPage(url, dest) {
   });
 }
 
-const profUrl = (profName) => `https://classic.wowhead.com/${profName}`;
-const profFile = (profName) => path.join(__dirname, '..', 'pages', `${profName}.html`);
-
 async function fetchRecipesPages() {
-  const promises = Object.values(PROFESSIONS).map((profName) => fetchPage(profUrl(profName), profFile(profName)));
+  for (const prof of Object.values(PROFESSIONS)) {
+    const url = pageUrl(prof);
+    const file = pageFile(prof);
 
-  await Promise.all(promises);
+    if (fs.existsSync(file)) { // eslint-disable-line no-sync
+      console.log(`Cached page found for ${prof}.`);
+    } else {
+      console.log(`Fetch page for ${prof}.`);
+      await fetchPage(url, file);
+    }
+  }
 
   console.log('Done');
 }
