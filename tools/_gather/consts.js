@@ -23,10 +23,22 @@ const IGNORED_LISTS = {
   'required-by': true
 };
 
-const HANG_DELAY = 10000;
+const WH_VAR_NAMES = ['WH', 'Listview', 'Tabs', 'g_users', 'LANG', 'lv_comments0', 'lv_screenshots', 'lv_videos', 'window'];
+
+const TABLES = {
+  '1:4': 'vendors',
+  '2:4': 'worldObjects',
+  '3:4': 'items',
+  '4:4': 'sets',
+  '5:4': 'quests',
+  '6:4': 'spells',
+  '7:4': 'zones',
+  '15:4': 'professions'
+};
 
 module.exports = {
   PROFESSIONS,
   IGNORED_LISTS,
-  HANG_DELAY
+  WH_VAR_NAMES,
+  TABLES
 };

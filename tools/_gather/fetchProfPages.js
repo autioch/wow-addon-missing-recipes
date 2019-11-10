@@ -1,8 +1,8 @@
 const request = require('request');
 const fs = require('fs');
+const path = require('path');
 
-const { PROFESSIONS, HANG_DELAY } = require('./consts');
-const { pageUrl, pageFile } = require('./utils');
+const { PROFESSIONS } = require('./consts');
 
 function fetchPage(url, dest) {
   return new Promise((resolve, reject) => {
@@ -10,7 +10,7 @@ function fetchPage(url, dest) {
       url,
       dest,
       encoding: null,
-      timeout: HANG_DELAY
+      timeout: 10000
     }, (err, res, body) => {
       if (err) {
         reject(err);
@@ -27,8 +27,8 @@ function fetchPage(url, dest) {
 
 async function fetchRecipesPages() {
   for (const prof of Object.values(PROFESSIONS)) {
-    const url = pageUrl(prof);
-    const file = pageFile(prof);
+    const url = `https://classic.wowhead.com/${prof}`;
+    const file = path.join(__dirname, '..', 'pages', `${prof}.html`);
 
     if (fs.existsSync(file)) { // eslint-disable-line no-sync
       console.log(`Cached page found for ${prof}.`);

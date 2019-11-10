@@ -23,5 +23,6 @@ module.exports = {
     'no-inline-comments': ['off'],
     'no-console': ['off'],
     'camelcase': ['off'],
+    'no-magic-numbers': ['off'],
   }
 };
