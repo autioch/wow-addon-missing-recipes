@@ -1,0 +1,185 @@
+[
+  {
+    "id": 1355,
+    "location": [
+      1
+    ],
+    "name": "Cook Ghilm",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Cooking Trainer"
+  },
+  {
+    "id": 1382,
+    "location": [
+      33
+    ],
+    "name": "Mudduk",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Superior Cook"
+  },
+  {
+    "id": 1430,
+    "location": [
+      12
+    ],
+    "name": "Tomas",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Cook"
+  },
+  {
+    "id": 1699,
+    "location": [
+      1
+    ],
+    "name": "Gremlock Pilsnor",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Cooking Trainer"
+  },
+  {
+    "id": 3026,
+    "location": [
+      1638
+    ],
+    "name": "Aska Mistrunner",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Cooking Trainer"
+  },
+  {
+    "id": 3067,
+    "location": [
+      215
+    ],
+    "name": "Pyall Silentstride",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Cook"
+  },
+  {
+    "id": 3087,
+    "location": [
+      44
+    ],
+    "name": "Crystal Boughman",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Cooking Trainer"
+  },
+  {
+    "hasQuests": 1,
+    "id": 3399,
+    "location": [
+      1637
+    ],
+    "name": "Zamja",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Cooking Trainer"
+  },
+  {
+    "id": 4210,
+    "location": [
+      1657
+    ],
+    "name": "Alegorn",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Cooking Trainer"
+  },
+  {
+    "id": 4552,
+    "location": [
+      1497
+    ],
+    "name": "Eunice Burch",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Cooking Trainer"
+  },
+  {
+    "hasQuests": 1,
+    "id": 5159,
+    "location": [
+      1537
+    ],
+    "name": "Daryl Riknussun",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Cooking Trainer"
+  },
+  {
+    "id": 5482,
+    "location": [
+      1519
+    ],
+    "name": "Stephen Ryback",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Cooking Trainer"
+  },
+  {
+    "hasQuests": 1,
+    "id": 6286,
+    "location": [
+      141
+    ],
+    "name": "Zarrin",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Cook"
+  },
+  {
+    "id": 8306,
+    "location": [
+      17
+    ],
+    "name": "Duhng",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Cook"
+  },
+  {
+    "id": 2818,
+    "location": [
+      45
+    ],
+    "name": "Slagg",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Superior Butcher"
+  }
+]

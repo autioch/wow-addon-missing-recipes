@@ -1,0 +1,87 @@
+[
+  {
+    "listId": "spells",
+    "data": [
+      {
+        "cat": 11,
+        "id": 2366,
+        "learnedat": 9999,
+        "level": 0,
+        "name": "@Herb Gathering",
+        "nskillup": 1,
+        "rank": "Apprentice",
+        "schools": 1,
+        "skill": [
+          182
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 10
+      },
+      {
+        "cat": 11,
+        "id": 2368,
+        "learnedat": 50,
+        "level": 0,
+        "name": "@Herb Gathering",
+        "nskillup": 1,
+        "rank": "Journeyman",
+        "schools": 1,
+        "skill": [
+          182
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 500
+      },
+      {
+        "cat": 11,
+        "id": 2383,
+        "learnedat": 9999,
+        "level": 3,
+        "name": "@Find Herbs",
+        "nskillup": 1,
+        "schools": 1,
+        "skill": [
+          182
+        ]
+      },
+      {
+        "cat": 11,
+        "id": 3570,
+        "learnedat": 125,
+        "level": 0,
+        "name": "@Herb Gathering",
+        "nskillup": 1,
+        "rank": "Expert",
+        "schools": 1,
+        "skill": [
+          182
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 5000
+      },
+      {
+        "cat": 11,
+        "id": 11993,
+        "learnedat": 200,
+        "level": 0,
+        "name": "@Herb Gathering",
+        "nskillup": 1,
+        "rank": "Artisan",
+        "schools": 1,
+        "skill": [
+          182
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 50000
+      }
+    ]
+  }
+]

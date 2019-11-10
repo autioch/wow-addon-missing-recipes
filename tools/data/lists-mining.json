@@ -1,0 +1,363 @@
+[
+  {
+    "listId": "crafted-items",
+    "data": [
+      {
+        "classs": 7,
+        "displayid": 7391,
+        "flags2": 8192,
+        "id": 2840,
+        "level": 10,
+        "name": "7Copper Bar",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 7390,
+        "flags2": 8192,
+        "id": 2841,
+        "level": 20,
+        "name": "7Bronze Bar",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ingot_bronze",
+            "n": "Smelt Bronze",
+            "s": 186,
+            "t": 6,
+            "ti": 2659
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 7355,
+        "flags2": 8192,
+        "id": 2842,
+        "level": 10,
+        "name": "6Silver Bar",
+        "reqlevel": 10,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          4,
+          21
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ingot_01",
+            "n": "Smelt Silver",
+            "s": 186,
+            "t": 6,
+            "ti": 2658
+          },
+          {
+            "c": 40,
+            "c2": 0,
+            "n": "Captain Sander's Hidden Treasure",
+            "t": 5,
+            "ti": 140
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 7376,
+        "flags2": 8192,
+        "id": 3575,
+        "level": 30,
+        "name": "7Iron Bar",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ingot_iron",
+            "n": "Smelt Iron",
+            "s": 186,
+            "t": 6,
+            "ti": 3307
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 18086,
+        "flags2": 8192,
+        "id": 3576,
+        "level": 20,
+        "name": "7Tin Bar",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ingot_05",
+            "n": "Smelt Tin",
+            "s": 186,
+            "t": 6,
+            "ti": 3304
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 7392,
+        "flags2": 8192,
+        "id": 3859,
+        "level": 35,
+        "name": "7Steel Bar",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ingot_steel",
+            "n": "Smelt Steel",
+            "s": 186,
+            "t": 6,
+            "ti": 3569
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 20659,
+        "flags2": 8192,
+        "id": 3860,
+        "level": 40,
+        "name": "7Mithril Bar",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ingot_06",
+            "n": "Smelt Mithril",
+            "s": 186,
+            "t": 6,
+            "ti": 10097
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 7389,
+        "flags2": 8192,
+        "id": 11371,
+        "level": 50,
+        "name": "7Dark Iron Bar",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ingot_mithril",
+            "n": "Smelt Dark Iron",
+            "s": 186,
+            "t": 6,
+            "ti": 14891
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 22444,
+        "flags2": 8192,
+        "id": 12359,
+        "level": 50,
+        "name": "7Thorium Bar",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ingot_07",
+            "n": "Smelt Thorium",
+            "s": 186,
+            "t": 6,
+            "ti": 16153
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 29946,
+        "flags2": 8192,
+        "id": 17771,
+        "level": 60,
+        "name": "3Elementium Bar",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ingot_thorium",
+            "n": "Smelt Elementium",
+            "s": 186,
+            "t": 6,
+            "ti": 22967
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 7352,
+        "flags2": 8192,
+        "id": 3577,
+        "level": 30,
+        "name": "6Gold Bar",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 20656,
+        "flags2": 8192,
+        "id": 6037,
+        "level": 50,
+        "name": "6Truesilver Bar",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "subclass": 7
+      }
+    ]
+  },
+  {
+    "listId": "spells",
+    "data": [
+      {
+        "cat": 11,
+        "id": 2580,
+        "learnedat": 9999,
+        "level": 1,
+        "name": "@Find Minerals",
+        "nskillup": 1,
+        "schools": 1,
+        "skill": [
+          186
+        ]
+      },
+      {
+        "cat": 11,
+        "id": 2575,
+        "learnedat": 9999,
+        "level": 0,
+        "name": "@Mining",
+        "nskillup": 1,
+        "rank": "Apprentice",
+        "schools": 1,
+        "skill": [
+          186
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 10
+      },
+      {
+        "cat": 11,
+        "id": 2576,
+        "learnedat": 50,
+        "level": 0,
+        "name": "@Mining",
+        "nskillup": 1,
+        "rank": "Journeyman",
+        "schools": 1,
+        "skill": [
+          186
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 500
+      },
+      {
+        "cat": 11,
+        "id": 2656,
+        "learnedat": 9999,
+        "level": 0,
+        "name": "@Smelting",
+        "nskillup": 1,
+        "schools": 1,
+        "skill": [
+          186
+        ]
+      },
+      {
+        "cat": 11,
+        "id": 3564,
+        "learnedat": 125,
+        "level": 0,
+        "name": "@Mining",
+        "nskillup": 1,
+        "rank": "Expert",
+        "schools": 1,
+        "skill": [
+          186
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 5000
+      },
+      {
+        "cat": 11,
+        "id": 10248,
+        "learnedat": 200,
+        "level": 0,
+        "name": "@Mining",
+        "nskillup": 1,
+        "rank": "Artisan",
+        "schools": 1,
+        "skill": [
+          186
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 50000
+      }
+    ]
+  }
+]

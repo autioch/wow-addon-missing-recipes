@@ -1,0 +1,377 @@
+[
+  {
+    "id": 223,
+    "location": [
+      1497
+    ],
+    "name": "Dan Golthas",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Journeyman Leatherworker"
+  },
+  {
+    "id": 1385,
+    "location": [
+      33
+    ],
+    "name": "Brawn",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Expert Leatherworker"
+  },
+  {
+    "id": 1466,
+    "location": [
+      1537
+    ],
+    "name": "Gretta Finespindle",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Journeyman Leatherworker"
+  },
+  {
+    "id": 1632,
+    "location": [
+      12
+    ],
+    "name": "Adele Fielder",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Journeyman Leatherworker"
+  },
+  {
+    "id": 3007,
+    "location": [
+      1638
+    ],
+    "name": "Una",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Artisan Leatherworker"
+  },
+  {
+    "id": 3008,
+    "location": [
+      1638
+    ],
+    "name": "Mak",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Journeyman Leatherworker"
+  },
+  {
+    "id": 3069,
+    "location": [
+      215
+    ],
+    "name": "Chaw Stronghide",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Journeyman Leatherworker"
+  },
+  {
+    "id": 3365,
+    "location": [
+      1637
+    ],
+    "name": "Karolek",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Expert Leatherworker"
+  },
+  {
+    "id": 3549,
+    "location": [
+      85
+    ],
+    "name": "Shelene Rhobart",
+    "react": [
+      -1,
+      1
+    ],
+    "tag": "Journeyman Leatherworker"
+  },
+  {
+    "id": 3605,
+    "location": [
+      141
+    ],
+    "name": "Nadyia Maneweaver",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Journeyman Leatherworker"
+  },
+  {
+    "id": 3703,
+    "location": [
+      17
+    ],
+    "name": "Krulmoo Fullmoon",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Expert Leatherworker"
+  },
+  {
+    "id": 3967,
+    "location": [
+      331
+    ],
+    "name": "Aayndia Floralwind",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Expert Leatherworker"
+  },
+  {
+    "id": 4212,
+    "location": [
+      1657
+    ],
+    "name": "Telonis",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Artisan Leatherworker"
+  },
+  {
+    "id": 4588,
+    "location": [
+      1497
+    ],
+    "name": "Arthur Moore",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Expert Leatherworker"
+  },
+  {
+    "id": 5127,
+    "location": [
+      1537
+    ],
+    "name": "Fimble Finespindle",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Expert Leatherworker"
+  },
+  {
+    "id": 5564,
+    "location": [
+      1519
+    ],
+    "name": "Simon Tanner",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Expert Leatherworker"
+  },
+  {
+    "id": 5784,
+    "name": "Waldor",
+    "react": [
+      1,
+      1
+    ],
+    "tag": "Journeyman Leatherworker"
+  },
+  {
+    "id": 5811,
+    "location": [
+      1637
+    ],
+    "name": "Kamari",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Journeyman Leatherworker"
+  },
+  {
+    "id": 8153,
+    "location": [
+      405
+    ],
+    "name": "Narv Hidecrafter",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Expert Leathercrafter"
+  },
+  {
+    "id": 11081,
+    "location": [
+      1657
+    ],
+    "name": "Faldron",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Expert Leatherworker"
+  },
+  {
+    "id": 11083,
+    "location": [
+      1657
+    ],
+    "name": "Darianna",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Journeyman Leatherworker"
+  },
+  {
+    "id": 11084,
+    "location": [
+      1638
+    ],
+    "name": "Tarn",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Expert Leatherworker"
+  },
+  {
+    "id": 11096,
+    "location": [
+      1519
+    ],
+    "name": "Randal Worth",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Journeyman Leatherworker"
+  },
+  {
+    "id": 11097,
+    "location": [
+      47
+    ],
+    "name": "Drakk Stonehand",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Master Leatherworking Trainer"
+  },
+  {
+    "id": 11098,
+    "location": [
+      357
+    ],
+    "name": "Hahrana Ironhide",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Master Leatherworker"
+  },
+  {
+    "hasQuests": 1,
+    "id": 7866,
+    "location": [
+      16
+    ],
+    "name": "Peter Galen",
+    "react": [
+      1,
+      -1
+    ],
+    "tag": "Master Dragonscale Leatherworker"
+  },
+  {
+    "hasQuests": 1,
+    "id": 7867,
+    "location": [
+      3
+    ],
+    "name": "Thorkaf Dragoneye",
+    "react": [
+      -1,
+      1
+    ],
+    "tag": "Master Dragonscale Leatherworker"
+  },
+  {
+    "hasQuests": 1,
+    "id": 7870,
+    "location": [
+      357
+    ],
+    "name": "Caryssia Moonhunter",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Tribal Leatherworking Trainer"
+  },
+  {
+    "hasQuests": 1,
+    "id": 7871,
+    "location": [
+      33
+    ],
+    "name": "Se'Jib",
+    "react": [
+      -1,
+      1
+    ],
+    "tag": "Master Tribal Leatherworker"
+  },
+  {
+    "hasQuests": 1,
+    "id": 7868,
+    "location": [
+      51
+    ],
+    "name": "Sarah Tanner",
+    "react": [
+      1,
+      -1
+    ],
+    "tag": "Master Elemental Leatherworker"
+  },
+  {
+    "hasQuests": 1,
+    "id": 7869,
+    "location": [
+      45
+    ],
+    "name": "Brumn Winterhoof",
+    "react": [
+      -1,
+      1
+    ],
+    "tag": "Master Elemental Leatherworker"
+  }
+]

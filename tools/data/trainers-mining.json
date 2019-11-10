@@ -1,0 +1,159 @@
+[
+  {
+    "hasQuests": 1,
+    "id": 1681,
+    "location": [
+      38
+    ],
+    "name": "Brock Stoneseeker",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 1701,
+    "location": [
+      1
+    ],
+    "name": "Dank Drizzlecut",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 3001,
+    "location": [
+      1638
+    ],
+    "name": "Brek Stonehoof",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 3137,
+    "location": [
+      10
+    ],
+    "name": "Matt Johnson",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 3175,
+    "location": [
+      14
+    ],
+    "name": "Krunn",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Miner"
+  },
+  {
+    "id": 3357,
+    "location": [
+      1637
+    ],
+    "name": "Makaru",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 3555,
+    "location": [
+      130
+    ],
+    "name": "Johan Focht",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Miner"
+  },
+  {
+    "id": 4254,
+    "location": [
+      1537
+    ],
+    "name": "Geofram Bouldertoe",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 4598,
+    "location": [
+      1497
+    ],
+    "name": "Brom Killian",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 5392,
+    "location": [
+      1
+    ],
+    "name": "Yarr Hammerstone",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 5513,
+    "location": [
+      1519
+    ],
+    "name": "Gelman Stonehand",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 6297,
+    "location": [
+      148
+    ],
+    "name": "Kurdram Stonehammer",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 8128,
+    "location": [
+      440
+    ],
+    "name": "Pikkle",
+    "react": [
+      1,
+      1
+    ],
+    "tag": "Miner"
+  }
+]

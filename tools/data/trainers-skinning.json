@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1292,
+    "location": [
+      1519
+    ],
+    "name": "Maris Granger",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Skinning Trainer"
+  },
+  {
+    "id": 6287,
+    "location": [
+      141
+    ],
+    "name": "Radnaal Maneweaver",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Skinner"
+  },
+  {
+    "id": 6288,
+    "location": [
+      331
+    ],
+    "name": "Jayla",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Skinner"
+  },
+  {
+    "id": 6289,
+    "location": [
+      85
+    ],
+    "name": "Rand Rhobart",
+    "react": [
+      -1,
+      1
+    ],
+    "tag": "Skinner"
+  },
+  {
+    "id": 6290,
+    "location": [
+      215
+    ],
+    "name": "Yonn Deepcut",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Skinner"
+  },
+  {
+    "id": 6291,
+    "location": [
+      1537
+    ],
+    "name": "Balthus Stoneflayer",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Skinning Trainer"
+  },
+  {
+    "id": 6292,
+    "location": [
+      1657
+    ],
+    "name": "Eladriel",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Skinning Trainer"
+  },
+  {
+    "id": 6295,
+    "location": [
+      44
+    ],
+    "name": "Wilma Ranthal",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Skinning Trainer"
+  },
+  {
+    "id": 6306,
+    "location": [
+      12
+    ],
+    "name": "Helene Peltskinner",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Skinner"
+  },
+  {
+    "id": 6387,
+    "location": [
+      17
+    ],
+    "name": "Dranh",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Skinner"
+  },
+  {
+    "id": 7087,
+    "location": [
+      1497
+    ],
+    "name": "Killian Hagey",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Skinning Trainer"
+  },
+  {
+    "id": 7088,
+    "location": [
+      1637
+    ],
+    "name": "Thuwd",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Skinning Trainer"
+  },
+  {
+    "id": 7089,
+    "location": [
+      1638
+    ],
+    "name": "Mooranta",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Skinning Trainer"
+  },
+  {
+    "id": 8144,
+    "location": [
+      357
+    ],
+    "name": "Kulleg Stonehorn",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Skinning Trainer"
+  },
+  {
+    "id": 12030,
+    "location": [
+      405
+    ],
+    "name": "Malux",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Skinning Trainer"
+  }
+]

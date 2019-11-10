@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1651,
+    "location": [
+      12
+    ],
+    "name": "Lee Brown",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Fisherman"
+  },
+  {
+    "id": 1680,
+    "location": [
+      44
+    ],
+    "name": "Matthew Hooper",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Fishing Trainer"
+  },
+  {
+    "id": 1683,
+    "location": [
+      38
+    ],
+    "name": "Warg Deepwater",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Fisherman"
+  },
+  {
+    "id": 1700,
+    "location": [
+      1
+    ],
+    "name": "Paxton Ganter",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Fisherman"
+  },
+  {
+    "id": 2367,
+    "location": [
+      267
+    ],
+    "name": "Donald Rabonne",
+    "react": [
+      1,
+      -1
+    ],
+    "tag": "Fisherman"
+  },
+  {
+    "id": 2834,
+    "location": [
+      33
+    ],
+    "name": "Myizz Luckycatch",
+    "react": [
+      1,
+      1
+    ],
+    "tag": "Superior Fisherman"
+  },
+  {
+    "id": 3028,
+    "location": [
+      1638
+    ],
+    "name": "Kah Mistrunner",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Fishing Trainer"
+  },
+  {
+    "id": 3179,
+    "location": [
+      11
+    ],
+    "name": "Harold Riggs",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Fishing Trainer"
+  },
+  {
+    "hasQuests": 1,
+    "id": 3332,
+    "location": [
+      1637
+    ],
+    "name": "Lumak",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Fishing Trainer"
+  },
+  {
+    "id": 3607,
+    "location": [
+      141
+    ],
+    "name": "Androl Oakhand",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Fisherman"
+  },
+  {
+    "id": 4156,
+    "location": [
+      1657
+    ],
+    "name": "Astaia",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Fishing Trainer"
+  },
+  {
+    "id": 4573,
+    "location": [
+      1497
+    ],
+    "name": "Armand Cromwell",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Fishing Trainer"
+  },
+  {
+    "hasQuests": 1,
+    "id": 5161,
+    "location": [
+      1537
+    ],
+    "name": "Grimnur Stonebrand",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Fishing Trainer"
+  },
+  {
+    "id": 5493,
+    "location": [
+      1519
+    ],
+    "name": "Arnold Leland",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Fishing Trainer"
+  },
+  {
+    "id": 5690,
+    "location": [
+      85
+    ],
+    "name": "Clyde Kellen",
+    "react": [
+      -1,
+      1
+    ],
+    "tag": "Fisherman"
+  },
+  {
+    "id": 5938,
+    "location": [
+      215
+    ],
+    "name": "Uthan Stillwater",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Fisherman"
+  },
+  {
+    "id": 5941,
+    "location": [
+      14
+    ],
+    "name": "Lau'Tiki",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Fisherman"
+  },
+  {
+    "id": 7946,
+    "location": [
+      357
+    ],
+    "name": "Brannock",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Fisherman"
+  },
+  {
+    "id": 12032,
+    "location": [
+      405
+    ],
+    "name": "Lui'Mala",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Fisherman"
+  },
+  {
+    "id": 12961,
+    "location": [
+      331
+    ],
+    "name": "Kil'Hiwana",
+    "react": [
+      -1,
+      1
+    ],
+    "tag": "Fisherman"
+  },
+  {
+    "hasQuests": 1,
+    "id": 14740,
+    "location": [
+      47
+    ],
+    "name": "Katoom the Angler",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Fishing Trainer & Supplies"
+  }
+]

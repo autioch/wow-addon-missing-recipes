@@ -1,6 +1,12 @@
 {
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "glob-promise": "^3.4.0",
-    "recursive-copy": "^2.0.10"
+    "recursive-copy": "^2.0.10",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-qb": "^1.0.0"
   }
 }

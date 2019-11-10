@@ -1,0 +1,5634 @@
+[
+  {
+    "listId": "recipe-items",
+    "data": [
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 4408,
+        "level": 15,
+        "name": "6Schematic: Mechanical Squirrel",
+        "skill": 75,
+        "slot": 0,
+        "source": [
+          2,
+          16,
+          21
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 4409,
+        "level": 20,
+        "name": "6Schematic: Small Seaforium Charge",
+        "skill": 100,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 4410,
+        "level": 24,
+        "name": "6Schematic: Shadow Goggles",
+        "skill": 120,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 4411,
+        "level": 25,
+        "name": "6Schematic: Flame Deflector",
+        "skill": 125,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "dd": -1,
+            "n": "Mekgineer Thermaplugg",
+            "t": 1,
+            "ti": 7800,
+            "z": 721
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 4412,
+        "level": 29,
+        "name": "6Schematic: Moonsight Rifle",
+        "skill": 145,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 4413,
+        "level": 32,
+        "name": "6Schematic: Discombobulator Ray",
+        "skill": 160,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "dd": -1,
+            "n": "Mekgineer Thermaplugg",
+            "t": 1,
+            "ti": 7800,
+            "z": 721
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 4414,
+        "level": 33,
+        "name": "6Schematic: Portable Bronze Mortar",
+        "skill": 165,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 4415,
+        "level": 37,
+        "name": "5Schematic: Craftsman's Monocle",
+        "skill": 185,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 4416,
+        "level": 39,
+        "name": "6Schematic: Goblin Land Mine",
+        "skill": 195,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 4417,
+        "level": 40,
+        "name": "6Schematic: Large Seaforium Charge",
+        "skill": 200,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 6672,
+        "level": 37,
+        "name": "6Schematic: Flash Bomb",
+        "skill": 185,
+        "slot": 0,
+        "source": [
+          2,
+          4
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "dd": -1,
+            "n": "Mekgineer Thermaplugg",
+            "t": 1,
+            "ti": 7800,
+            "z": 721
+          },
+          {
+            "c": -201,
+            "c2": 5,
+            "n": "Flash Bomb Recipe",
+            "t": 5,
+            "ti": 1559
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 6716,
+        "level": 20,
+        "name": "6Schematic: EZ-Thro Dynamite",
+        "skill": 100,
+        "slot": 0,
+        "source": [
+          2,
+          21
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 7192,
+        "level": 26,
+        "name": "6Schematic: Goblin Rocket Boots",
+        "skill": 130,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "dd": -1,
+            "n": "Mekgineer Thermaplugg",
+            "t": 1,
+            "ti": 7800,
+            "z": 721
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 7560,
+        "level": 25,
+        "name": "7Schematic: Gnomish Universal Remote",
+        "skill": 125,
+        "slot": 0,
+        "source": [
+          2,
+          5
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "dd": -1,
+            "n": "Mekgineer Thermaplugg",
+            "t": 1,
+            "ti": 7800,
+            "z": 721
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 7561,
+        "level": 33,
+        "name": "7Schematic: Goblin Jumper Cables",
+        "skill": 165,
+        "slot": 0,
+        "source": [
+          2,
+          5
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "dd": -1,
+            "n": "Mekgineer Thermaplugg",
+            "t": 1,
+            "ti": 7800,
+            "z": 721
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 7742,
+        "level": 40,
+        "name": "7Schematic: Gnomish Cloaking Device",
+        "skill": 200,
+        "slot": 0,
+        "source": [
+          2,
+          5
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "dd": -1,
+            "n": "Mekgineer Thermaplugg",
+            "t": 1,
+            "ti": 7800,
+            "z": 721
+          },
+          {
+            "bd": 1,
+            "n": "Zan Shivsproket",
+            "t": 1,
+            "ti": 6777,
+            "z": 36
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 10601,
+        "level": 35,
+        "name": "6Schematic: Bright-Eye Goggles",
+        "skill": 175,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 10602,
+        "level": 42,
+        "name": "7Schematic: Deadly Scope",
+        "skill": 210,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 10603,
+        "level": 44,
+        "name": "6Schematic: Catseye Ultra Goggles",
+        "skill": 220,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 10604,
+        "level": 44,
+        "name": "6Schematic: Mithril Heavy-bore Rifle",
+        "skill": 220,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 10605,
+        "level": 45,
+        "name": "5Schematic: Spellpower Goggles Xtreme",
+        "skill": 225,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 10606,
+        "level": 45,
+        "name": "6Schematic: Parachute Cloak",
+        "skill": 225,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 10607,
+        "level": 46,
+        "name": "7Schematic: Deepdive Helmet",
+        "skill": 230,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Jubie Gadgetspring",
+            "t": 1,
+            "ti": 8678,
+            "z": 16
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 10608,
+        "level": 48,
+        "name": "5Schematic: Sniper Scope",
+        "skill": 240,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 10609,
+        "level": 50,
+        "name": "7Schematic: Mithril Mechanical Dragonling",
+        "skill": 250,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Ruppo Zipcoil",
+            "t": 1,
+            "ti": 2688,
+            "z": 47
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 11827,
+        "level": 40,
+        "name": "6Schematic: Lil' Smoky",
+        "skill": 205,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "icon": "inv_misc_gift_05",
+            "n": "Gnome Engineer's Renewal Gift",
+            "q": 1,
+            "t": 3,
+            "ti": 11423
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 11828,
+        "level": 41,
+        "name": "6Schematic: Pet Bombling",
+        "skill": 205,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 13308,
+        "level": 31,
+        "name": "7Schematic: Ice Deflector",
+        "skill": 155,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Rizz Loosebolt",
+            "t": 1,
+            "ti": 2684,
+            "z": 36
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 13309,
+        "level": 24,
+        "name": "7Schematic: Lovingly Crafted Boomstick",
+        "skill": 120,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 13310,
+        "level": 36,
+        "name": "7Schematic: Accurate Scope",
+        "skill": 180,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Mazk Snipeshot",
+            "t": 1,
+            "ti": 2685,
+            "z": 33
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 13311,
+        "level": 40,
+        "name": "7Schematic: Mechanical Dragonling",
+        "skill": 200,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Gnaz Blunderflame",
+            "t": 1,
+            "ti": 2687,
+            "z": 33
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 14639,
+        "level": 28,
+        "name": "7Schematic: Minor Recombobulator",
+        "skill": 140,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "z": 11
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 16041,
+        "level": 52,
+        "name": "7Schematic: Thorium Grenade",
+        "skill": 260,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 16042,
+        "level": 52,
+        "name": "7Schematic: Thorium Widget",
+        "skill": 260,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 16043,
+        "level": 52,
+        "name": "6Schematic: Thorium Rifle",
+        "skill": 260,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 16044,
+        "level": 53,
+        "name": "6Schematic: Lifelike Mechanical Toad",
+        "skill": 265,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 16045,
+        "level": 54,
+        "name": "6Schematic: Spellpower Goggles Xtreme Plus",
+        "skill": 270,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Spitelash Siren",
+            "t": 1,
+            "ti": 6195,
+            "z": 16
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 16046,
+        "level": 55,
+        "name": "7Schematic: Masterwork Target Dummy",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Xizzer Fizzbolt",
+            "t": 1,
+            "ti": 11185,
+            "z": 618
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 16047,
+        "level": 55,
+        "name": "7Schematic: Thorium Tube",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Xizzer Fizzbolt",
+            "t": 1,
+            "ti": 11185,
+            "z": 618
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 16048,
+        "level": 55,
+        "name": "6Schematic: Dark Iron Rifle",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Doomforge Craftsman",
+            "t": 1,
+            "ti": 8897
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 16049,
+        "level": 57,
+        "name": "6Schematic: Dark Iron Bomb",
+        "skill": 285,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Weapon Technician",
+            "t": 1,
+            "ti": 8920
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 16050,
+        "level": 57,
+        "name": "7Schematic: Delicate Arcanite Converter",
+        "skill": 285,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Xizzer Fizzbolt",
+            "t": 1,
+            "ti": 11185,
+            "z": 618
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 16051,
+        "level": 57,
+        "name": "6Schematic: Thorium Shells",
+        "skill": 285,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 16052,
+        "level": 58,
+        "name": "6Schematic: Voice Amplification Modulator",
+        "skill": 290,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Crimson Inquisitor",
+            "t": 1,
+            "ti": 10426,
+            "z": 2017
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 16053,
+        "level": 58,
+        "name": "6Schematic: Master Engineer's Goggles",
+        "skill": 290,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Doomforge Arcanasmith",
+            "t": 1,
+            "ti": 8900
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 16054,
+        "level": 60,
+        "name": "6Schematic: Arcanite Dragonling",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Cobalt Mageweaver",
+            "t": 1,
+            "ti": 7437,
+            "z": 618
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 16055,
+        "level": 60,
+        "name": "6Schematic: Arcane Bomb",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 16056,
+        "level": 61,
+        "name": "6Schematic: Flawless Arcanite Rifle",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Mossflayer Shadowhunter",
+            "t": 1,
+            "ti": 8561,
+            "z": 139
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 17720,
+        "level": 38,
+        "name": "6Schematic: Snowmaster 9000",
+        "skill": 190,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 18235,
+        "level": 60,
+        "name": "7Schematic: Field Repair Bot 74A",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 6270,
+        "flags2": 8192,
+        "id": 18290,
+        "level": 60,
+        "name": "5Schematic: Biznicks 247x128 Accurascope",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "z": 2717
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 6270,
+        "flags2": 8192,
+        "id": 18291,
+        "level": 65,
+        "name": "5Schematic: Force Reactive Disk",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "z": 2717
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 6270,
+        "flags2": 8192,
+        "id": 18292,
+        "level": 65,
+        "name": "5Schematic: Core Marksman Rifle",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "z": 2717
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 18647,
+        "level": 30,
+        "name": "7Schematic: Red Firework",
+        "skill": 150,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Sovik",
+            "t": 1,
+            "ti": 3413,
+            "z": 1637
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 18648,
+        "level": 30,
+        "name": "7Schematic: Green Firework",
+        "skill": 150,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 18649,
+        "level": 30,
+        "name": "7Schematic: Blue Firework",
+        "skill": 150,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 18650,
+        "level": 40,
+        "name": "7Schematic: EZ-Thro Dynamite II",
+        "skill": 200,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Blizrik Buckshot",
+            "t": 1,
+            "ti": 8131,
+            "z": 440
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 18651,
+        "level": 52,
+        "name": "7Schematic: Truesilver Transformer",
+        "skill": 260,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Mazk Snipeshot",
+            "t": 1,
+            "ti": 2685,
+            "z": 33
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 18652,
+        "level": 52,
+        "name": "7Schematic: Gyrofreeze Ice Reflector",
+        "skill": 260,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Xizzer Fizzbolt",
+            "t": 1,
+            "ti": 11185,
+            "z": 618
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 18653,
+        "level": 53,
+        "name": "6Schematic: Goblin Jumper Cables XL",
+        "skill": 265,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Plugger Spazzring",
+            "t": 1,
+            "ti": 9499
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 18654,
+        "level": 53,
+        "name": "6Schematic: Gnomish Alarm-O-Bot",
+        "skill": 265,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Weapon Technician",
+            "t": 1,
+            "ti": 8920
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 18655,
+        "level": 55,
+        "name": "6Schematic: Major Recombobulator",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "dd": -1,
+            "n": "Gordok Tribute",
+            "t": 2,
+            "ti": 179564,
+            "z": 2557
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 18656,
+        "level": 55,
+        "name": "7Schematic: Powerful Seaforium Charge",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Xizzer Fizzbolt",
+            "t": 1,
+            "ti": 11185,
+            "z": 618
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 18657,
+        "level": 58,
+        "name": "6Schematic: Hyper-Radiant Flame Reflector",
+        "skill": 290,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Solakar Flamewreath",
+            "t": 1,
+            "ti": 10264,
+            "z": 1583
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 18658,
+        "level": 60,
+        "name": "6Schematic: Ultra-Flash Shadow Reflector",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Crimson Inquisitor",
+            "t": 1,
+            "ti": 10426,
+            "z": 2017
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 18661,
+        "level": 52,
+        "name": "6Schematic: World Enlarger",
+        "skill": 260,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Weapon Technician",
+            "t": 1,
+            "ti": 8920
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 19027,
+        "level": 50,
+        "name": "7Schematic: Snake Burst Firework",
+        "skill": 250,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Zorbin Fandazzle",
+            "t": 1,
+            "ti": 14637,
+            "z": 357
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1325,
+        "flags2": 8192,
+        "id": 20000,
+        "level": 65,
+        "name": "7Schematic: Bloodvine Goggles",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1325,
+        "flags2": 8192,
+        "id": 20001,
+        "level": 65,
+        "name": "7Schematic: Bloodvine Lens",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21724,
+        "level": 25,
+        "name": "6Schematic: Small Blue Rocket",
+        "skill": 125,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21725,
+        "level": 25,
+        "name": "6Schematic: Small Green Rocket",
+        "skill": 125,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21726,
+        "level": 25,
+        "name": "6Schematic: Small Red Rocket",
+        "skill": 125,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21727,
+        "level": 35,
+        "name": "6Schematic: Large Blue Rocket",
+        "skill": 175,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21728,
+        "level": 35,
+        "name": "6Schematic: Large Green Rocket",
+        "skill": 175,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21729,
+        "level": 35,
+        "name": "6Schematic: Large Red Rocket",
+        "skill": 175,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21730,
+        "level": 45,
+        "name": "6Schematic: Blue Rocket Cluster",
+        "skill": 225,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21731,
+        "level": 45,
+        "name": "6Schematic: Green Rocket Cluster",
+        "skill": 225,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21732,
+        "level": 45,
+        "name": "6Schematic: Red Rocket Cluster",
+        "skill": 225,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21733,
+        "level": 55,
+        "name": "6Schematic: Large Blue Rocket Cluster",
+        "skill": 275,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21734,
+        "level": 55,
+        "name": "6Schematic: Large Green Rocket Cluster",
+        "skill": 275,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21735,
+        "level": 55,
+        "name": "6Schematic: Large Red Rocket Cluster",
+        "skill": 275,
+        "slot": 0,
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21737,
+        "level": 55,
+        "name": "6Schematic: Cluster Launcher",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": -366,
+            "c2": 9,
+            "n": "Cluster Launcher",
+            "t": 5,
+            "ti": 8882
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21738,
+        "level": 45,
+        "name": "6Schematic: Firework Launcher",
+        "skill": 225,
+        "slot": 0,
+        "source": [
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": -366,
+            "c2": 9,
+            "n": "Firework Launcher",
+            "t": 5,
+            "ti": 8877
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 22729,
+        "level": 55,
+        "name": "7Schematic: Steam Tonk Controller",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": -364,
+            "c2": 9,
+            "n": "40 Tickets - Schematic: Steam Tonk Controller",
+            "t": 5,
+            "ti": 9249
+          }
+        ],
+        "subclass": 3
+      }
+    ]
+  },
+  {
+    "listId": "crafted-items",
+    "data": [
+      {
+        "classs": 7,
+        "displayid": 7137,
+        "flags2": 8192,
+        "id": 4357,
+        "level": 5,
+        "name": "7Rough Blasting Powder",
+        "slot": 0,
+        "source": [
+          1,
+          5
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_dust_01",
+            "n": "Rough Blasting Powder",
+            "s": 202,
+            "t": 6,
+            "ti": 3918
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 18062,
+        "flags2": 8192,
+        "id": 4358,
+        "level": 10,
+        "name": "7Rough Dynamite",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_06",
+            "n": "Rough Dynamite",
+            "s": 202,
+            "t": 6,
+            "ti": 3919
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 10700,
+        "flags2": 8192,
+        "id": 4359,
+        "level": 8,
+        "name": "7Handful of Copper Bolts",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_gear_06",
+            "n": "Handful of Copper Bolts",
+            "s": 202,
+            "t": 6,
+            "ti": 3922
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 25483,
+        "flags2": 8192,
+        "id": 4360,
+        "level": 14,
+        "name": "7Rough Copper Bomb",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_09",
+            "n": "Rough Copper Bomb",
+            "s": 202,
+            "t": 6,
+            "ti": 3923
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 18174,
+        "flags2": 8192,
+        "id": 4361,
+        "level": 10,
+        "name": "7Copper Tube",
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          5
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_pipe_02",
+            "n": "Copper Tube",
+            "s": 202,
+            "t": 6,
+            "ti": 3924
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 2,
+        "displayid": 6600,
+        "dps": 4.13,
+        "flags2": 8192,
+        "id": 4362,
+        "level": 10,
+        "name": "6Rough Boomstick",
+        "reqlevel": 5,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_weapon_rifle_03",
+            "n": "Rough Boomstick",
+            "s": 202,
+            "t": 6,
+            "ti": 3925
+          }
+        ],
+        "speed": 2.3,
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 7839,
+        "flags2": 8192,
+        "id": 4363,
+        "level": 13,
+        "name": "7Copper Modulator",
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          5,
+          16
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_03",
+            "n": "Copper Modulator",
+            "s": 202,
+            "t": 6,
+            "ti": 3926
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 6396,
+        "flags2": 8192,
+        "id": 4364,
+        "level": 15,
+        "name": "7Coarse Blasting Powder",
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          5,
+          16
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_dust_02",
+            "n": "Coarse Blasting Powder",
+            "s": 202,
+            "t": 6,
+            "ti": 3929
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 18062,
+        "flags2": 8192,
+        "id": 4365,
+        "level": 20,
+        "name": "7Coarse Dynamite",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_06",
+            "n": "Coarse Dynamite",
+            "s": 202,
+            "t": 6,
+            "ti": 3931
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 7918,
+        "flags2": 8192,
+        "id": 4366,
+        "level": 17,
+        "name": "7Target Dummy",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_crate_06",
+            "n": "Target Dummy",
+            "s": 202,
+            "t": 6,
+            "ti": 3932
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 6393,
+        "flags2": 8192,
+        "id": 4367,
+        "level": 20,
+        "name": "7Small Seaforium Charge",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_urn_01",
+            "n": "Small Seaforium Charge",
+            "s": 202,
+            "t": 6,
+            "ti": 3933
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "armor": 27,
+        "classs": 4,
+        "displayid": 13236,
+        "flags2": 8192,
+        "id": 4368,
+        "level": 20,
+        "name": "6Flying Tiger Goggles",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_47",
+            "n": "Flying Tiger Goggles",
+            "s": 202,
+            "t": 6,
+            "ti": 3934
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 2,
+        "displayid": 20743,
+        "dps": 8.27,
+        "flags2": 8192,
+        "id": 4369,
+        "level": 21,
+        "name": "6Deadly Blunderbuss",
+        "reqlevel": 16,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_weapon_rifle_07",
+            "n": "Deadly Blunderbuss",
+            "s": 202,
+            "t": 6,
+            "ti": 3936
+          }
+        ],
+        "speed": 2.6,
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 7624,
+        "flags2": 8192,
+        "id": 4370,
+        "level": 26,
+        "name": "7Large Copper Bomb",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_01",
+            "n": "Large Copper Bomb",
+            "s": 202,
+            "t": 6,
+            "ti": 3937
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 19482,
+        "flags2": 8192,
+        "id": 4371,
+        "level": 21,
+        "name": "7Bronze Tube",
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          5,
+          16
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_pipe_01",
+            "n": "Bronze Tube",
+            "s": 202,
+            "t": 6,
+            "ti": 3938
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 2,
+        "displayid": 6594,
+        "dps": 9.72,
+        "flags2": 8192,
+        "id": 4372,
+        "level": 24,
+        "name": "6Lovingly Crafted Boomstick",
+        "reqlevel": 19,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_weapon_rifle_07",
+            "n": "Lovingly Crafted Boomstick",
+            "s": 202,
+            "t": 6,
+            "ti": 3939
+          }
+        ],
+        "speed": 1.8,
+        "subclass": 3
+      },
+      {
+        "armor": 31,
+        "classs": 4,
+        "displayid": 26619,
+        "flags2": 8192,
+        "id": 4373,
+        "level": 24,
+        "name": "6Shadow Goggles",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_47",
+            "n": "Shadow Goggles",
+            "s": 202,
+            "t": 6,
+            "ti": 3940
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 25483,
+        "flags2": 8192,
+        "id": 4374,
+        "level": 29,
+        "name": "7Small Bronze Bomb",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_09",
+            "n": "Small Bronze Bomb",
+            "s": 202,
+            "t": 6,
+            "ti": 3941
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 7840,
+        "flags2": 8192,
+        "id": 4375,
+        "level": 25,
+        "name": "7Whirring Bronze Gizmo",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_02",
+            "n": "Whirring Bronze Gizmo",
+            "s": 202,
+            "t": 6,
+            "ti": 3942
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 7841,
+        "flags2": 8192,
+        "id": 4376,
+        "level": 25,
+        "name": "7Flame Deflector",
+        "reqlevel": 15,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_01",
+            "n": "Flame Deflector",
+            "s": 202,
+            "t": 6,
+            "ti": 3944
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 31325,
+        "flags2": 8192,
+        "id": 4377,
+        "level": 25,
+        "name": "7Heavy Blasting Powder",
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          16
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "classic_inv_misc_dust_06",
+            "n": "Heavy Blasting Powder",
+            "s": 202,
+            "t": 6,
+            "ti": 3945
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 18062,
+        "flags2": 8192,
+        "id": 4378,
+        "level": 30,
+        "name": "7Heavy Dynamite",
+        "slot": 0,
+        "source": [
+          1,
+          5
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_06",
+            "n": "Heavy Dynamite",
+            "s": 202,
+            "t": 6,
+            "ti": 3946
+          },
+          {
+            "n": "Dark Iron Entrepreneur",
+            "t": 1,
+            "ti": 3180,
+            "z": 11
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 2,
+        "displayid": 15835,
+        "dps": 10.37,
+        "flags2": 8192,
+        "id": 4379,
+        "level": 26,
+        "name": "6Silver-plated Shotgun",
+        "reqlevel": 21,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_weapon_rifle_07",
+            "n": "Silver-plated Shotgun",
+            "s": 202,
+            "t": 6,
+            "ti": 3949
+          }
+        ],
+        "speed": 2.7,
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 7626,
+        "flags2": 8192,
+        "id": 4380,
+        "level": 33,
+        "name": "7Big Bronze Bomb",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_05",
+            "n": "Big Bronze Bomb",
+            "s": 202,
+            "t": 6,
+            "ti": 3950
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 22293,
+        "flags2": 8192,
+        "id": 4381,
+        "level": 28,
+        "name": "6Minor Recombobulator",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_07",
+            "n": "Minor Recombobulator",
+            "s": 202,
+            "t": 6,
+            "ti": 3952
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "classs": 7,
+        "displayid": 20624,
+        "flags2": 8192,
+        "id": 4382,
+        "level": 29,
+        "name": "7Bronze Framework",
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          5
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_bronzeframework_01",
+            "n": "Bronze Framework",
+            "s": 202,
+            "t": 6,
+            "ti": 3953
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 2,
+        "displayid": 8257,
+        "dps": 11.76,
+        "flags2": 8192,
+        "id": 4383,
+        "level": 29,
+        "name": "6Moonsight Rifle",
+        "reqlevel": 24,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_weapon_rifle_06",
+            "n": "Moonsight Rifle",
+            "s": 202,
+            "t": 6,
+            "ti": 3954
+          }
+        ],
+        "speed": 1.7,
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 7361,
+        "flags2": 8192,
+        "id": 4384,
+        "level": 30,
+        "name": "7Explosive Sheep",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_nature_polymorph",
+            "n": "Explosive Sheep",
+            "s": 202,
+            "t": 6,
+            "ti": 3955
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "armor": 35,
+        "classs": 4,
+        "displayid": 22422,
+        "flags2": 8192,
+        "id": 4385,
+        "level": 30,
+        "name": "6Green Tinted Goggles",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_47",
+            "n": "Green Tinted Goggles",
+            "s": 202,
+            "t": 6,
+            "ti": 3956
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 7841,
+        "flags2": 8192,
+        "id": 4386,
+        "level": 31,
+        "name": "7Ice Deflector",
+        "reqlevel": 21,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_01",
+            "n": "Ice Deflector",
+            "s": 202,
+            "t": 6,
+            "ti": 3957
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 7377,
+        "flags2": 8192,
+        "id": 4387,
+        "level": 32,
+        "name": "7Iron Strut",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_spear_05",
+            "n": "Iron Strut",
+            "s": 202,
+            "t": 6,
+            "ti": 3958
+          },
+          {
+            "dd": -1,
+            "z": 33
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 7358,
+        "flags2": 8192,
+        "id": 4388,
+        "level": 32,
+        "name": "7Discombobulator Ray",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_spyglass_02",
+            "n": "Discombobulator Ray",
+            "s": 202,
+            "t": 6,
+            "ti": 3959
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 7371,
+        "flags2": 8192,
+        "id": 4389,
+        "level": 34,
+        "name": "7Gyrochronatom",
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          5
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_pocketwatch_02",
+            "n": "Gyrochronatom",
+            "s": 202,
+            "t": 6,
+            "ti": 3961
+          },
+          {
+            "z": 33
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 25482,
+        "flags2": 8192,
+        "id": 4390,
+        "level": 35,
+        "name": "7Iron Grenade",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_08",
+            "n": "Iron Grenade",
+            "s": 202,
+            "t": 6,
+            "ti": 3962
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 21652,
+        "flags2": 8192,
+        "id": 4391,
+        "level": 35,
+        "name": "7Compact Harvest Reaper Kit",
+        "reqlevel": 30,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_08",
+            "n": "Compact Harvest Reaper Kit",
+            "s": 202,
+            "t": 6,
+            "ti": 3963
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 9151,
+        "flags2": 8192,
+        "id": 4392,
+        "level": 37,
+        "name": "7Advanced Target Dummy",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_crate_05",
+            "n": "Advanced Target Dummy",
+            "s": 202,
+            "t": 6,
+            "ti": 3965
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "armor": 40,
+        "classs": 4,
+        "displayid": 13215,
+        "flags2": 8192,
+        "id": 4393,
+        "level": 37,
+        "name": "6Craftsman's Monocle",
+        "reqlevel": 32,
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_44",
+            "n": "Craftsman's Monocle",
+            "s": 202,
+            "t": 6,
+            "ti": 3966
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 7624,
+        "flags2": 8192,
+        "id": 4394,
+        "level": 43,
+        "name": "7Big Iron Bomb",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_01",
+            "n": "Big Iron Bomb",
+            "s": 202,
+            "t": 6,
+            "ti": 3967
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 7367,
+        "flags2": 8192,
+        "id": 4395,
+        "level": 39,
+        "name": "7Goblin Land Mine",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_shield_08",
+            "n": "Goblin Land Mine",
+            "s": 202,
+            "t": 6,
+            "ti": 3968
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 21632,
+        "flags2": 8192,
+        "id": 4396,
+        "level": 40,
+        "name": "7Mechanical Dragonling",
+        "reqlevel": 30,
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_head_dragon_01",
+            "n": "Mechanical Dragonling",
+            "s": 202,
+            "t": 6,
+            "ti": 3969
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 7841,
+        "flags2": 8192,
+        "id": 4397,
+        "level": 40,
+        "name": "7Gnomish Cloaking Device",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_01",
+            "n": "Gnomish Cloaking Device",
+            "s": 202,
+            "t": 6,
+            "ti": 3971
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "classs": 7,
+        "displayid": 6393,
+        "flags2": 8192,
+        "id": 4398,
+        "level": 40,
+        "name": "7Large Seaforium Charge",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_urn_01",
+            "n": "Large Seaforium Charge",
+            "s": 202,
+            "t": 6,
+            "ti": 3972
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 16536,
+        "flags2": 8192,
+        "id": 4401,
+        "level": 15,
+        "name": "7Mechanical Squirrel Box",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_crate_01",
+            "n": "Mechanical Squirrel",
+            "s": 202,
+            "t": 6,
+            "ti": 3928
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 7397,
+        "flags2": 8192,
+        "id": 4403,
+        "level": 33,
+        "name": "7Portable Bronze Mortar",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_musket_01",
+            "n": "Portable Bronze Mortar",
+            "s": 202,
+            "t": 6,
+            "ti": 3960
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 7404,
+        "flags2": 8192,
+        "id": 4404,
+        "level": 18,
+        "name": "7Silver Contact",
+        "slot": 0,
+        "source": [
+          1,
+          5
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ingot_04",
+            "n": "Silver Contact",
+            "s": 202,
+            "t": 6,
+            "ti": 3973
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 7326,
+        "flags2": 8192,
+        "id": 4405,
+        "level": 12,
+        "name": "7Crude Scope",
+        "reqlevel": 5,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_spyglass_02",
+            "n": "Crude Scope",
+            "s": 202,
+            "t": 6,
+            "ti": 3977
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 0,
+        "displayid": 7326,
+        "flags2": 8192,
+        "id": 4406,
+        "level": 22,
+        "name": "7Standard Scope",
+        "reqlevel": 10,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_spyglass_02",
+            "n": "Standard Scope",
+            "s": 202,
+            "t": 6,
+            "ti": 3978
+          },
+          {
+            "n": "Box of Assorted Parts",
+            "t": 2,
+            "ti": 19020,
+            "z": 17
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 0,
+        "displayid": 7326,
+        "flags2": 8192,
+        "id": 4407,
+        "level": 36,
+        "name": "7Accurate Scope",
+        "reqlevel": 20,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_spyglass_02",
+            "n": "Accurate Scope",
+            "s": 202,
+            "t": 6,
+            "ti": 3979
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 7,
+        "displayid": 6378,
+        "flags2": 8192,
+        "id": 4852,
+        "level": 37,
+        "name": "7Flash Bomb",
+        "reqlevel": 27,
+        "slot": 0,
+        "source": [
+          1,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_ammo_bullet_01",
+            "n": "Flash Bomb",
+            "s": 202,
+            "t": 6,
+            "ti": 8243
+          },
+          {
+            "c": 3,
+            "c2": 0,
+            "n": "Pearl Diving",
+            "t": 5,
+            "ti": 705
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 7365,
+        "flags2": 8192,
+        "id": 5507,
+        "level": 27,
+        "name": "7Ornate Spyglass",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_spyglass_01",
+            "n": "Ornate Spyglass",
+            "s": 202,
+            "t": 6,
+            "ti": 6458
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 2,
+        "displayid": 7494,
+        "dps": 2.71,
+        "flags2": 8192,
+        "id": 6219,
+        "level": 10,
+        "name": "7Arclight Spanner",
+        "slot": 21,
+        "slotbak": 21,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_wrench_01",
+            "n": "Arclight Spanner",
+            "s": 202,
+            "t": 6,
+            "ti": 7430
+          }
+        ],
+        "speed": 2.4,
+        "subclass": 14
+      },
+      {
+        "classs": 0,
+        "displayid": 12425,
+        "flags2": 8192,
+        "id": 6533,
+        "level": 30,
+        "name": "7Aquadynamic Fish Attractor",
+        "slot": 0,
+        "source": [
+          1,
+          5
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_food_26",
+            "n": "Aquadynamic Fish Attractor",
+            "s": 202,
+            "t": 6,
+            "ti": 9271
+          }
+        ],
+        "subclass": -3
+      },
+      {
+        "classs": 15,
+        "displayid": 12925,
+        "flags2": 8192,
+        "id": 6712,
+        "level": 20,
+        "name": "7Practice Lock",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_box_01",
+            "n": "Practice Lock",
+            "s": 202,
+            "t": 6,
+            "ti": 8334
+          },
+          {
+            "n": "Rusty Chest",
+            "t": 2,
+            "ti": 19021,
+            "z": 331
+          }
+        ],
+        "subclass": 4
+      },
+      {
+        "classs": 7,
+        "displayid": 18062,
+        "flags2": 8192,
+        "id": 6714,
+        "level": 25,
+        "name": "7Ez-Thro Dynamite",
+        "reqlevel": 10,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_06",
+            "n": "EZ-Thro Dynamite",
+            "s": 202,
+            "t": 6,
+            "ti": 8339
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 31201,
+        "flags2": 8192,
+        "id": 7148,
+        "level": 33,
+        "name": "7Goblin Jumper Cables",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_enggizmos_10",
+            "n": "Goblin Jumper Cables",
+            "s": 202,
+            "t": 6,
+            "ti": 9273
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "armor": 41,
+        "classs": 4,
+        "displayid": 20622,
+        "flags2": 8192,
+        "id": 7189,
+        "level": 45,
+        "name": "6Goblin Rocket Boots",
+        "slot": 8,
+        "slotbak": 8,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_rocketboot_01",
+            "n": "Goblin Rocket Boots",
+            "s": 202,
+            "t": 6,
+            "ti": 8895
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 15150,
+        "flags2": 8192,
+        "id": 7506,
+        "level": 25,
+        "name": "6Gnomish Universal Remote",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_pocketwatch_01",
+            "n": "Gnomish Universal Remote",
+            "s": 202,
+            "t": 6,
+            "ti": 9269
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "classs": 6,
+        "displayid": 5998,
+        "dps": 2,
+        "flags2": 8192,
+        "id": 8067,
+        "level": 10,
+        "name": "7Crafted Light Shot",
+        "reqlevel": 5,
+        "slot": 24,
+        "slotbak": 24,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ammo_bullet_02",
+            "n": "Crafted Light Shot",
+            "s": 202,
+            "t": 6,
+            "ti": 3920
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 6,
+        "displayid": 5998,
+        "dps": 4.5,
+        "flags2": 8192,
+        "id": 8068,
+        "level": 20,
+        "name": "7Crafted Heavy Shot",
+        "reqlevel": 15,
+        "slot": 24,
+        "slotbak": 24,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ammo_bullet_02",
+            "n": "Crafted Heavy Shot",
+            "s": 202,
+            "t": 6,
+            "ti": 3930
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 6,
+        "displayid": 5998,
+        "dps": 8.5,
+        "flags2": 8192,
+        "id": 8069,
+        "level": 35,
+        "name": "7Crafted Solid Shot",
+        "reqlevel": 30,
+        "slot": 24,
+        "slotbak": 24,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ammo_bullet_02",
+            "n": "Crafted Solid Shot",
+            "s": 202,
+            "t": 6,
+            "ti": 3947
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 0,
+        "displayid": 18066,
+        "flags2": 8192,
+        "id": 9312,
+        "level": 20,
+        "name": "7Blue Firework",
+        "slot": 0,
+        "source": [
+          1,
+          5
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_ice_magicdamage",
+            "n": "Blue Firework",
+            "s": 202,
+            "t": 6,
+            "ti": 23067
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 18067,
+        "flags2": 8192,
+        "id": 9313,
+        "level": 20,
+        "name": "7Green Firework",
+        "slot": 0,
+        "source": [
+          1,
+          5
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_nature_abolishmagic",
+            "n": "Green Firework",
+            "s": 202,
+            "t": 6,
+            "ti": 23068
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 8733,
+        "flags2": 8192,
+        "id": 9318,
+        "level": 20,
+        "name": "7Red Firework",
+        "slot": 0,
+        "source": [
+          1,
+          5
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_fire_fireball02",
+            "n": "Red Firework",
+            "s": 202,
+            "t": 6,
+            "ti": 23066
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 7,
+        "displayid": 19394,
+        "flags2": 8192,
+        "id": 10498,
+        "level": 35,
+        "name": "7Gyromatic Micro-Adjustor",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_screwdriver_02",
+            "n": "Gyromatic Micro-Adjustor",
+            "s": 202,
+            "t": 6,
+            "ti": 12590
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "armor": 38,
+        "classs": 4,
+        "displayid": 19397,
+        "flags2": 8192,
+        "id": 10499,
+        "level": 35,
+        "name": "6Bright-Eye Goggles",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_47",
+            "n": "Bright-Eye Goggles",
+            "s": 202,
+            "t": 6,
+            "ti": 12587
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "armor": 44,
+        "classs": 4,
+        "displayid": 19399,
+        "flags2": 8192,
+        "id": 10500,
+        "level": 41,
+        "name": "6Fire Goggles",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_47",
+            "n": "Fire Goggles",
+            "s": 202,
+            "t": 6,
+            "ti": 12594
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "armor": 47,
+        "classs": 4,
+        "displayid": 19402,
+        "flags2": 8192,
+        "id": 10501,
+        "level": 44,
+        "name": "6Catseye Ultra Goggles",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_47",
+            "n": "Catseye Ultra Goggles",
+            "s": 202,
+            "t": 6,
+            "ti": 12607
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "armor": 46,
+        "classs": 4,
+        "displayid": 19409,
+        "flags2": 8192,
+        "id": 10502,
+        "level": 43,
+        "name": "6Spellpower Goggles Xtreme",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_47",
+            "n": "Spellpower Goggles Xtreme",
+            "s": 202,
+            "t": 6,
+            "ti": 12615
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "armor": 49,
+        "classs": 4,
+        "displayid": 22423,
+        "flags2": 8192,
+        "id": 10503,
+        "level": 46,
+        "name": "6Rose Colored Goggles",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_47",
+            "n": "Rose Colored Goggles",
+            "s": 202,
+            "t": 6,
+            "ti": 12618
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "armor": 57,
+        "classs": 4,
+        "displayid": 19563,
+        "flags2": 8192,
+        "id": 10504,
+        "level": 49,
+        "name": "5Green Lens",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_44",
+            "n": "Green Lens",
+            "s": 202,
+            "t": 6,
+            "ti": 12622
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 31324,
+        "flags2": 8192,
+        "id": 10505,
+        "level": 35,
+        "name": "7Solid Blasting Powder",
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          16
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_powder_black",
+            "n": "Solid Blasting Powder",
+            "s": 202,
+            "t": 6,
+            "ti": 12585
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "armor": 49,
+        "classs": 4,
+        "displayid": 23161,
+        "flags2": 8192,
+        "id": 10506,
+        "level": 46,
+        "name": "6Deepdive Helmet",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_49",
+            "n": "Deepdive Helmet",
+            "s": 202,
+            "t": 6,
+            "ti": 12617
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 18062,
+        "flags2": 8192,
+        "id": 10507,
+        "level": 35,
+        "name": "7Solid Dynamite",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_06",
+            "n": "Solid Dynamite",
+            "s": 202,
+            "t": 6,
+            "ti": 12586
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 2,
+        "displayid": 18298,
+        "dps": 17.93,
+        "flags2": 8192,
+        "id": 10508,
+        "level": 41,
+        "name": "6Mithril Blunderbuss",
+        "reqlevel": 36,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_weapon_rifle_07",
+            "n": "Mithril Blunderbuss",
+            "s": 202,
+            "t": 6,
+            "ti": 12595
+          }
+        ],
+        "speed": 2.9,
+        "subclass": 3
+      },
+      {
+        "classs": 2,
+        "displayid": 20744,
+        "dps": 20.17,
+        "flags2": 8192,
+        "id": 10510,
+        "level": 44,
+        "name": "6Mithril Heavy-bore Rifle",
+        "reqlevel": 39,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_weapon_rifle_07",
+            "n": "Mithril Heavy-bore Rifle",
+            "s": 202,
+            "t": 6,
+            "ti": 12614
+          }
+        ],
+        "speed": 2.9,
+        "subclass": 3
+      },
+      {
+        "classs": 6,
+        "displayid": 19422,
+        "dps": 12.5,
+        "flags2": 8192,
+        "id": 10512,
+        "level": 42,
+        "name": "6Hi-Impact Mithril Slugs",
+        "reqlevel": 37,
+        "slot": 24,
+        "slotbak": 24,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ammo_bullet_01",
+            "n": "Hi-Impact Mithril Slugs",
+            "s": 202,
+            "t": 6,
+            "ti": 12596
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 6,
+        "displayid": 19422,
+        "dps": 15,
+        "flags2": 8192,
+        "id": 10513,
+        "level": 49,
+        "name": "6Mithril Gyro-Shot",
+        "reqlevel": 44,
+        "slot": 24,
+        "slotbak": 24,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ammo_bullet_01",
+            "n": "Mithril Gyro-Shot",
+            "s": 202,
+            "t": 6,
+            "ti": 12621
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 7889,
+        "flags2": 8192,
+        "id": 10514,
+        "level": 43,
+        "name": "7Mithril Frag Bomb",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_02",
+            "n": "Mithril Frag Bomb",
+            "s": 202,
+            "t": 6,
+            "ti": 12603
+          },
+          {
+            "icon": "inv_misc_gift_04",
+            "n": "Goblin Engineer's Renewal Gift",
+            "q": 1,
+            "t": 3,
+            "ti": 11422
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "armor": 30,
+        "classs": 4,
+        "displayid": 23129,
+        "flags2": 8192,
+        "id": 10518,
+        "level": 45,
+        "name": "6Parachute Cloak",
+        "slot": 16,
+        "slotbak": 16,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_cape_11",
+            "n": "Parachute Cloak",
+            "s": 202,
+            "t": 6,
+            "ti": 12616
+          }
+        ],
+        "subclass": -6
+      },
+      {
+        "armor": 190,
+        "classs": 4,
+        "displayid": 20813,
+        "flags2": 8192,
+        "id": 10542,
+        "level": 41,
+        "name": "6Goblin Mining Helmet",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_25",
+            "n": "Goblin Mining Helmet",
+            "s": 202,
+            "t": 6,
+            "ti": 12717
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "armor": 44,
+        "classs": 4,
+        "displayid": 20814,
+        "flags2": 8192,
+        "id": 10543,
+        "level": 41,
+        "name": "6Goblin Construction Helmet",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_60",
+            "n": "Goblin Construction Helmet",
+            "s": 202,
+            "t": 6,
+            "ti": 12718
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "armor": 45,
+        "classs": 4,
+        "displayid": 22420,
+        "flags2": 8192,
+        "id": 10545,
+        "level": 42,
+        "name": "6Gnomish Goggles",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_47",
+            "n": "Gnomish Goggles",
+            "s": 202,
+            "t": 6,
+            "ti": 12897
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 7326,
+        "flags2": 8192,
+        "id": 10546,
+        "level": 42,
+        "name": "7Deadly Scope",
+        "reqlevel": 30,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_spyglass_02",
+            "n": "Deadly Scope",
+            "s": 202,
+            "t": 6,
+            "ti": 12597
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 0,
+        "displayid": 7326,
+        "flags2": 8192,
+        "id": 10548,
+        "level": 48,
+        "name": "7Sniper Scope",
+        "reqlevel": 40,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_spyglass_02",
+            "n": "Sniper Scope",
+            "s": 202,
+            "t": 6,
+            "ti": 12620
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 7,
+        "displayid": 19477,
+        "flags2": 8192,
+        "id": 10558,
+        "level": 30,
+        "name": "7Gold Power Core",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_battery_02",
+            "n": "Gold Power Core",
+            "s": 202,
+            "t": 6,
+            "ti": 12584
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 19487,
+        "flags2": 8192,
+        "id": 10559,
+        "level": 39,
+        "name": "7Mithril Tube",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_musket_01",
+            "n": "Mithril Tube",
+            "s": 202,
+            "t": 6,
+            "ti": 12589
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 19479,
+        "flags2": 8192,
+        "id": 10560,
+        "level": 40,
+        "name": "7Unstable Trigger",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_battery_01",
+            "n": "Unstable Trigger",
+            "s": 202,
+            "t": 6,
+            "ti": 12591
+          },
+          {
+            "icon": "inv_misc_gift_05",
+            "n": "Gnome Engineer's Renewal Gift",
+            "q": 1,
+            "t": 3,
+            "ti": 11423
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 20620,
+        "flags2": 8192,
+        "id": 10561,
+        "level": 43,
+        "name": "7Mithril Casing",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_mithrilcasing_01",
+            "n": "Mithril Casing",
+            "s": 202,
+            "t": 6,
+            "ti": 12599
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 25484,
+        "flags2": 8192,
+        "id": 10562,
+        "level": 47,
+        "name": "7Hi-Explosive Bomb",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_07",
+            "n": "Hi-Explosive Bomb",
+            "s": 202,
+            "t": 6,
+            "ti": 12619
+          },
+          {
+            "icon": "inv_misc_gift_04",
+            "n": "Goblin Engineer's Renewal Gift",
+            "q": 1,
+            "t": 3,
+            "ti": 11422
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 21632,
+        "flags2": 8192,
+        "id": 10576,
+        "level": 50,
+        "name": "7Mithril Mechanical Dragonling",
+        "reqlevel": 40,
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_head_dragon_01",
+            "n": "Mithril Mechanical Dragonling",
+            "s": 202,
+            "t": 6,
+            "ti": 12624
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 7397,
+        "flags2": 8192,
+        "id": 10577,
+        "level": 41,
+        "name": "7Goblin Mortar",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "subclass": -4
+      },
+      {
+        "classs": 7,
+        "displayid": 7888,
+        "flags2": 8192,
+        "id": 10586,
+        "level": 45,
+        "name": "7The Big One",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_04",
+            "n": "The Big One",
+            "s": 202,
+            "t": 6,
+            "ti": 12754
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 20627,
+        "flags2": 8192,
+        "id": 10587,
+        "level": 46,
+        "name": "7Goblin Bomb Dispenser",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_06",
+            "n": "Goblin Bomb Dispenser",
+            "s": 202,
+            "t": 6,
+            "ti": 12755
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "armor": 50,
+        "classs": 4,
+        "displayid": 23166,
+        "flags2": 8192,
+        "id": 10588,
+        "level": 47,
+        "name": "6Goblin Rocket Helmet",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_49",
+            "n": "Goblin Rocket Helmet",
+            "s": 202,
+            "t": 6,
+            "ti": 12758
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 10644,
+        "level": 42,
+        "name": "7Recipe: Goblin Rocket Fuel",
+        "skill": 210,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_scroll_03",
+            "n": "Goblin Rocket Fuel Recipe",
+            "s": 202,
+            "t": 6,
+            "ti": 12715
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 20626,
+        "flags2": 8192,
+        "id": 10645,
+        "level": 48,
+        "name": "7Gnomish Death Ray",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_08",
+            "n": "Gnomish Death Ray",
+            "s": 202,
+            "t": 6,
+            "ti": 12759
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "classs": 7,
+        "displayid": 20535,
+        "flags2": 8192,
+        "id": 10646,
+        "level": 41,
+        "name": "7Goblin Sapper Charge",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_fire_selfdestruct",
+            "n": "Goblin Sapper Charge",
+            "s": 202,
+            "t": 6,
+            "ti": 12760
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 9,
+        "displayid": 6270,
+        "flags2": 8192,
+        "id": 10713,
+        "level": 40,
+        "name": "7Plans: Inlaid Mithril Cylinder",
+        "skill": 200,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_scroll_05",
+            "n": "Inlaid Mithril Cylinder Plans",
+            "s": 202,
+            "t": 6,
+            "ti": 12895
+          }
+        ],
+        "subclass": 4
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 20625,
+        "flags2": 8192,
+        "id": 10716,
+        "level": 41,
+        "name": "7Gnomish Shrink Ray",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_09",
+            "n": "Gnomish Shrink Ray",
+            "s": 202,
+            "t": 6,
+            "ti": 12899
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 19662,
+        "flags2": 8192,
+        "id": 10720,
+        "level": 42,
+        "name": "7Gnomish Net-o-Matic Projector",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_net_01",
+            "n": "Gnomish Net-o-Matic Projector",
+            "s": 202,
+            "t": 6,
+            "ti": 12902
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "armor": 66,
+        "classs": 4,
+        "displayid": 14832,
+        "flags2": 8192,
+        "id": 10721,
+        "level": 43,
+        "name": "6Gnomish Harm Prevention Belt",
+        "slot": 6,
+        "slotbak": 6,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_belt_06",
+            "n": "Gnomish Harm Prevention Belt",
+            "s": 202,
+            "t": 6,
+            "ti": 12903
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "armor": 41,
+        "classs": 4,
+        "displayid": 19665,
+        "flags2": 8192,
+        "id": 10724,
+        "level": 45,
+        "name": "6Gnomish Rocket Boots",
+        "slot": 8,
+        "slotbak": 8,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_boots_02",
+            "n": "Gnomish Rocket Boots",
+            "s": 202,
+            "t": 6,
+            "ti": 12905
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 19666,
+        "flags2": 8192,
+        "id": 10725,
+        "level": 46,
+        "name": "7Gnomish Battle Chicken",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_magic_polymorphchicken",
+            "n": "Gnomish Battle Chicken",
+            "s": 202,
+            "t": 6,
+            "ti": 12906
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "armor": 50,
+        "classs": 4,
+        "displayid": 19667,
+        "flags2": 8192,
+        "id": 10726,
+        "level": 47,
+        "name": "6Gnomish Mind Control Cap",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_49",
+            "n": "Gnomish Mind Control Cap",
+            "s": 202,
+            "t": 6,
+            "ti": 12907
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 20539,
+        "flags2": 8192,
+        "id": 10727,
+        "level": 48,
+        "name": "7Goblin Dragon Gun",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_fire_flamebolt",
+            "n": "Goblin Dragon Gun",
+            "s": 202,
+            "t": 6,
+            "ti": 12908
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "classs": 7,
+        "displayid": 7842,
+        "flags2": 8192,
+        "id": 11590,
+        "level": 40,
+        "name": "7Mechanical Repair Kit",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_03",
+            "n": "Mechanical Repair Kit",
+            "s": 202,
+            "t": 6,
+            "ti": 15255
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 21833,
+        "flags2": 8192,
+        "id": 11825,
+        "level": 41,
+        "name": "7Pet Bombling",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_04",
+            "n": "Pet Bombling",
+            "s": 202,
+            "t": 6,
+            "ti": 15628
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 9730,
+        "flags2": 8192,
+        "id": 11826,
+        "level": 41,
+        "name": "7Lil' Smoky",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_idol_02",
+            "n": "Lil' Smoky",
+            "s": 202,
+            "t": 6,
+            "ti": 15633
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 18632,
+        "flags2": 8192,
+        "id": 15846,
+        "level": 50,
+        "name": "7Salt Shaker",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_egg_05",
+            "n": "Salt Shaker",
+            "s": 202,
+            "t": 6,
+            "ti": 19567
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 6379,
+        "flags2": 8192,
+        "id": 15992,
+        "level": 50,
+        "name": "7Dense Blasting Powder",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_ammo_gunpowder_01",
+            "n": "Dense Blasting Powder",
+            "s": 202,
+            "t": 6,
+            "ti": 19788
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 25482,
+        "flags2": 8192,
+        "id": 15993,
+        "level": 52,
+        "name": "7Thorium Grenade",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_08",
+            "n": "Thorium Grenade",
+            "s": 202,
+            "t": 6,
+            "ti": 19790
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 26611,
+        "flags2": 8192,
+        "id": 15994,
+        "level": 52,
+        "name": "7Thorium Widget",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_04",
+            "n": "Thorium Widget",
+            "s": 202,
+            "t": 6,
+            "ti": 19791
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 2,
+        "displayid": 26616,
+        "dps": 24.2,
+        "flags2": 8192,
+        "id": 15995,
+        "level": 52,
+        "name": "6Thorium Rifle",
+        "reqlevel": 47,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_weapon_rifle_07",
+            "n": "Thorium Rifle",
+            "s": 202,
+            "t": 6,
+            "ti": 19792
+          }
+        ],
+        "speed": 2.5,
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 26612,
+        "flags2": 8192,
+        "id": 15996,
+        "level": 53,
+        "name": "7Lifelike Mechanical Toad",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_monsterhead_03",
+            "n": "Lifelike Mechanical Toad",
+            "s": 202,
+            "t": 6,
+            "ti": 19793
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 6,
+        "displayid": 26613,
+        "dps": 17.5,
+        "flags2": 8192,
+        "id": 15997,
+        "level": 57,
+        "name": "6Thorium Shells",
+        "reqlevel": 52,
+        "slot": 24,
+        "slotbak": 24,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ammo_bullet_03",
+            "n": "Thorium Shells",
+            "s": 202,
+            "t": 6,
+            "ti": 19800
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "armor": 57,
+        "classs": 4,
+        "displayid": 26614,
+        "flags2": 8192,
+        "id": 15999,
+        "level": 54,
+        "name": "6Spellpower Goggles Xtreme Plus",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_47",
+            "n": "Spellpower Goggles Xtreme Plus",
+            "s": 202,
+            "t": 6,
+            "ti": 19794
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 19481,
+        "flags2": 8192,
+        "id": 16000,
+        "level": 39,
+        "name": "7Thorium Tube",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_pipe_04",
+            "n": "Thorium Tube",
+            "s": 202,
+            "t": 6,
+            "ti": 19795
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 2,
+        "displayid": 26737,
+        "dps": 28.33,
+        "flags2": 8192,
+        "id": 16004,
+        "level": 55,
+        "name": "5Dark Iron Rifle",
+        "reqlevel": 50,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_weapon_rifle_08",
+            "n": "Dark Iron Rifle",
+            "s": 202,
+            "t": 6,
+            "ti": 19796
+          }
+        ],
+        "speed": 2.7,
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 7626,
+        "flags2": 8192,
+        "id": 16005,
+        "level": 57,
+        "name": "7Dark Iron Bomb",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_05",
+            "n": "Dark Iron Bomb",
+            "s": 202,
+            "t": 6,
+            "ti": 19799
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 26618,
+        "flags2": 8192,
+        "id": 16006,
+        "level": 58,
+        "name": "7Delicate Arcanite Converter",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_gizmo_07",
+            "n": "Delicate Arcanite Converter",
+            "s": 202,
+            "t": 6,
+            "ti": 19815
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 2,
+        "displayid": 24721,
+        "dps": 31.17,
+        "flags2": 8192,
+        "id": 16007,
+        "level": 61,
+        "name": "5Flawless Arcanite Rifle",
+        "reqlevel": 56,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_weapon_rifle_03",
+            "n": "Flawless Arcanite Rifle",
+            "s": 202,
+            "t": 6,
+            "ti": 19833
+          }
+        ],
+        "speed": 3,
+        "subclass": 3
+      },
+      {
+        "armor": 61,
+        "classs": 4,
+        "displayid": 26621,
+        "flags2": 8192,
+        "id": 16008,
+        "level": 58,
+        "name": "6Master Engineer's Goggles",
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_47",
+            "n": "Master Engineer's Goggles",
+            "s": 202,
+            "t": 6,
+            "ti": 19825
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 6497,
+        "flags2": 8192,
+        "id": 16009,
+        "level": 58,
+        "name": "6Voice Amplification Modulator",
+        "slot": 2,
+        "slotbak": 2,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_jewelry_amulet_07",
+            "n": "Voice Amplification Modulator",
+            "s": 202,
+            "t": 6,
+            "ti": 19819
+          }
+        ],
+        "subclass": -3
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 21632,
+        "flags2": 8192,
+        "id": 16022,
+        "level": 60,
+        "name": "5Arcanite Dragonling",
+        "reqlevel": 50,
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_head_dragon_01",
+            "n": "Arcanite Dragonling",
+            "s": 202,
+            "t": 6,
+            "ti": 19830
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "classs": 7,
+        "displayid": 7913,
+        "flags2": 8192,
+        "id": 16023,
+        "level": 55,
+        "name": "7Masterwork Target Dummy",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_crate_02",
+            "n": "Masterwork Target Dummy",
+            "s": 202,
+            "t": 6,
+            "ti": 19814
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 27453,
+        "flags2": 8192,
+        "id": 16040,
+        "level": 60,
+        "name": "7Arcane Bomb",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_shadow_mindbomb",
+            "n": "Arcane Bomb",
+            "s": 202,
+            "t": 6,
+            "ti": 19831
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 29895,
+        "flags2": 8192,
+        "id": 17716,
+        "level": 38,
+        "name": "7SnowMaster 9000",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_frost_windwalkon",
+            "n": "SnowMaster 9000",
+            "s": 202,
+            "t": 6,
+            "ti": 21940
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "armor": 2548,
+        "classs": 4,
+        "displayid": 30561,
+        "flags2": 8192,
+        "id": 18168,
+        "level": 65,
+        "name": "4Force Reactive Disk",
+        "reqlevel": 60,
+        "slot": 14,
+        "slotbak": 14,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_arcane_portaldarnassus",
+            "n": "Force Reactive Disk",
+            "s": 202,
+            "t": 6,
+            "ti": 22797
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 7,
+        "displayid": 19503,
+        "flags2": 8192,
+        "id": 18232,
+        "level": 60,
+        "name": "7Field Repair Bot 74A",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_egg_05",
+            "n": "Field Repair Bot 74A",
+            "s": 202,
+            "t": 6,
+            "ti": 22704
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 2,
+        "displayid": 31210,
+        "dps": 36.8,
+        "flags2": 8192,
+        "id": 18282,
+        "level": 65,
+        "name": "4Core Marksman Rifle",
+        "reqlevel": 60,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_weapon_rifle_05",
+            "n": "Core Marksman Rifle",
+            "s": 202,
+            "t": 6,
+            "ti": 22795
+          }
+        ],
+        "speed": 2.5,
+        "subclass": 3
+      },
+      {
+        "classs": 0,
+        "displayid": 7326,
+        "flags2": 8192,
+        "id": 18283,
+        "level": 60,
+        "name": "5Biznicks 247x128 Accurascope",
+        "reqlevel": 50,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_spyglass_02",
+            "n": "Biznicks 247x128 Accurascope",
+            "s": 202,
+            "t": 6,
+            "ti": 22793
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 31203,
+        "flags2": 8192,
+        "id": 18587,
+        "level": 53,
+        "name": "7Goblin Jumper Cables XL",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_enggizmos_11",
+            "n": "Goblin Jumper Cables XL",
+            "s": 202,
+            "t": 6,
+            "ti": 23078
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "classs": 7,
+        "displayid": 18063,
+        "flags2": 8192,
+        "id": 18588,
+        "level": 40,
+        "name": "7Ez-Thro Dynamite II",
+        "reqlevel": 30,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_03",
+            "n": "EZ-Thro Dynamite II",
+            "s": 202,
+            "t": 6,
+            "ti": 23069
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 30999,
+        "flags2": 8192,
+        "id": 18594,
+        "level": 55,
+        "name": "7Powerful Seaforium Charge",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_shadow_detectinvisibility",
+            "n": "Powerful Seaforium Charge",
+            "s": 202,
+            "t": 6,
+            "ti": 23080
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 30995,
+        "flags2": 8192,
+        "id": 18631,
+        "level": 50,
+        "name": "7Truesilver Transformer",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_staff_18",
+            "n": "Truesilver Transformer",
+            "s": 202,
+            "t": 6,
+            "ti": 23071
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 31199,
+        "flags2": 8192,
+        "id": 18634,
+        "level": 52,
+        "name": "5Gyrofreeze Ice Reflector",
+        "reqlevel": 47,
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_enggizmos_02",
+            "n": "Gyrofreeze Ice Reflector",
+            "s": 202,
+            "t": 6,
+            "ti": 23077
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 31204,
+        "flags2": 8192,
+        "id": 18637,
+        "level": 55,
+        "name": "6Major Recombobulator",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_enggizmos_09",
+            "n": "Major Recombobulator",
+            "s": 202,
+            "t": 6,
+            "ti": 23079
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 31198,
+        "flags2": 8192,
+        "id": 18638,
+        "level": 58,
+        "name": "5Hyper-Radiant Flame Reflector",
+        "reqlevel": 53,
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_enggizmos_04",
+            "n": "Hyper-Radiant Flame Reflector",
+            "s": 202,
+            "t": 6,
+            "ti": 23081
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 31200,
+        "flags2": 8192,
+        "id": 18639,
+        "level": 60,
+        "name": "5Ultra-Flash Shadow Reflector",
+        "reqlevel": 55,
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_enggizmos_16",
+            "n": "Ultra-Flash Shadow Reflector",
+            "s": 202,
+            "t": 6,
+            "ti": 23082
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "classs": 7,
+        "displayid": 18062,
+        "flags2": 8192,
+        "id": 18641,
+        "level": 45,
+        "name": "7Dense Dynamite",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_bomb_06",
+            "n": "Dense Dynamite",
+            "s": 202,
+            "t": 6,
+            "ti": 23070
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "classs": 7,
+        "displayid": 31202,
+        "flags2": 8192,
+        "id": 18645,
+        "level": 53,
+        "name": "7Gnomish Alarm-O-Bot",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_enggizmos_13",
+            "n": "Alarm-O-Bot",
+            "s": 202,
+            "t": 6,
+            "ti": 23096
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 7,
+        "displayid": 31205,
+        "flags2": 8192,
+        "id": 18660,
+        "level": 50,
+        "name": "6World Enlarger",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_enggizmos_08",
+            "n": "World Enlarger",
+            "s": 202,
+            "t": 6,
+            "ti": 23129
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 31423,
+        "flags2": 8192,
+        "id": 18984,
+        "level": 55,
+        "name": "6Dimensional Ripper - Everlook",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_enggizmos_07",
+            "n": "Dimensional Ripper - Everlook",
+            "s": 202,
+            "t": 6,
+            "ti": 23486
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "armor": 0,
+        "classs": 4,
+        "displayid": 31425,
+        "flags2": 8192,
+        "id": 18986,
+        "level": 52,
+        "name": "6Ultrasafe Transporter: Gadgetzan",
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_enggizmos_12",
+            "n": "Ultrasafe Transporter - Gadgetzan",
+            "s": 202,
+            "t": 6,
+            "ti": 23489
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "classs": 0,
+        "displayid": 18070,
+        "flags2": 8192,
+        "id": 19026,
+        "level": 50,
+        "name": "7Snake Burst Firework",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_holy_holybolt",
+            "n": "Snake Burst Firework",
+            "s": 202,
+            "t": 6,
+            "ti": 23507
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "armor": 147,
+        "classs": 4,
+        "displayid": 32536,
+        "flags2": 8192,
+        "id": 19998,
+        "level": 65,
+        "name": "5Bloodvine Lens",
+        "reqlevel": 60,
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_44",
+            "n": "Bloodvine Lens",
+            "s": 202,
+            "t": 6,
+            "ti": 24357
+          }
+        ],
+        "subclass": 2
+      },
+      {
+        "armor": 75,
+        "classs": 4,
+        "displayid": 26614,
+        "flags2": 8192,
+        "id": 19999,
+        "level": 65,
+        "name": "5Bloodvine Goggles",
+        "reqlevel": 60,
+        "slot": 1,
+        "slotbak": 1,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_helmet_47",
+            "n": "Bloodvine Goggles",
+            "s": 202,
+            "t": 6,
+            "ti": 24356
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 34050,
+        "flags2": 8192,
+        "id": 21277,
+        "level": 60,
+        "name": "7Tranquil Mechanical Yeti",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "ability_hunter_pet_gorilla",
+            "n": "Tranquil Mechanical Yeti",
+            "s": 202,
+            "t": 6,
+            "ti": 26011
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 0,
+        "displayid": 34281,
+        "flags2": 8192,
+        "id": 21557,
+        "level": 1,
+        "name": "7Small Red Rocket",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_missilesmall_red",
+            "n": "Small Red Rocket",
+            "s": 202,
+            "t": 6,
+            "ti": 26418
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 34279,
+        "flags2": 8192,
+        "id": 21558,
+        "level": 1,
+        "name": "7Small Blue Rocket",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_missilesmall_blue",
+            "n": "Small Blue Rocket",
+            "s": 202,
+            "t": 6,
+            "ti": 26416
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 34280,
+        "flags2": 8192,
+        "id": 21559,
+        "level": 1,
+        "name": "7Small Green Rocket",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_missilesmall_green",
+            "n": "Small Green Rocket",
+            "s": 202,
+            "t": 6,
+            "ti": 26417
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 31401,
+        "flags2": 8192,
+        "id": 21569,
+        "level": 1,
+        "name": "7Firework Launcher",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_musket_04",
+            "n": "Firework Launcher",
+            "s": 202,
+            "t": 6,
+            "ti": 26442
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 34121,
+        "flags2": 8192,
+        "id": 21570,
+        "level": 1,
+        "name": "7Cluster Launcher",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_enggizmos_03",
+            "n": "Firework Cluster Launcher",
+            "s": 202,
+            "t": 6,
+            "ti": 26443
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 34271,
+        "flags2": 8192,
+        "id": 21571,
+        "level": 1,
+        "name": "7Blue Rocket Cluster",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_missilesmallcluster_blue",
+            "n": "Blue Rocket Cluster",
+            "s": 202,
+            "t": 6,
+            "ti": 26423
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 34272,
+        "flags2": 8192,
+        "id": 21574,
+        "level": 1,
+        "name": "7Green Rocket Cluster",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_missilesmallcluster_green",
+            "n": "Green Rocket Cluster",
+            "s": 202,
+            "t": 6,
+            "ti": 26424
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 34275,
+        "flags2": 8192,
+        "id": 21576,
+        "level": 1,
+        "name": "7Red Rocket Cluster",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_missilesmallcluster_red",
+            "n": "Red Rocket Cluster",
+            "s": 202,
+            "t": 6,
+            "ti": 26425
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 34285,
+        "flags2": 8192,
+        "id": 21589,
+        "level": 1,
+        "name": "7Large Blue Rocket",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_missilelarge_blue",
+            "n": "Large Blue Rocket",
+            "s": 202,
+            "t": 6,
+            "ti": 26420
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 34286,
+        "flags2": 8192,
+        "id": 21590,
+        "level": 1,
+        "name": "7Large Green Rocket",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_missilelarge_green",
+            "n": "Large Green Rocket",
+            "s": 202,
+            "t": 6,
+            "ti": 26421
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 34289,
+        "flags2": 8192,
+        "id": 21592,
+        "level": 1,
+        "name": "7Large Red Rocket",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_missilelarge_red",
+            "n": "Large Red Rocket",
+            "s": 202,
+            "t": 6,
+            "ti": 26422
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 34354,
+        "flags2": 8192,
+        "id": 21714,
+        "level": 1,
+        "name": "7Large Blue Rocket Cluster",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_missilelargecluster_blue",
+            "n": "Large Blue Rocket Cluster",
+            "s": 202,
+            "t": 6,
+            "ti": 26426
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 34356,
+        "flags2": 8192,
+        "id": 21716,
+        "level": 1,
+        "name": "7Large Green Rocket Cluster",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_missilelargecluster_green",
+            "n": "Large Green Rocket Cluster",
+            "s": 202,
+            "t": 6,
+            "ti": 26427
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 34358,
+        "flags2": 8192,
+        "id": 21718,
+        "level": 1,
+        "name": "7Large Red Rocket Cluster",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_missilelargecluster_red",
+            "n": "Large Red Rocket Cluster",
+            "s": 202,
+            "t": 6,
+            "ti": 26428
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 7,
+        "displayid": 35133,
+        "flags2": 8192,
+        "id": 22728,
+        "level": 55,
+        "name": "7Steam Tonk Controller",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_enggizmos_20",
+            "n": "Steam Tonk Controller",
+            "s": 202,
+            "t": 6,
+            "ti": 28327
+          }
+        ],
+        "subclass": 3
+      }
+    ]
+  },
+  {
+    "listId": "spells",
+    "data": [
+      {
+        "cat": 11,
+        "id": 4036,
+        "learnedat": 9999,
+        "level": 0,
+        "name": "@Engineering",
+        "nskillup": 1,
+        "rank": "Apprentice",
+        "schools": 1,
+        "skill": [
+          202
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 10
+      },
+      {
+        "cat": 11,
+        "id": 4037,
+        "learnedat": 50,
+        "level": 0,
+        "name": "@Engineering",
+        "nskillup": 1,
+        "rank": "Journeyman",
+        "schools": 1,
+        "skill": [
+          202
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 500
+      },
+      {
+        "cat": 11,
+        "id": 4038,
+        "learnedat": 125,
+        "level": 0,
+        "name": "@Engineering",
+        "nskillup": 1,
+        "rank": "Expert",
+        "schools": 1,
+        "skill": [
+          202
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 5000
+      },
+      {
+        "cat": 11,
+        "id": 12656,
+        "learnedat": 200,
+        "level": 0,
+        "name": "@Engineering",
+        "nskillup": 1,
+        "rank": "Artisan",
+        "schools": 1,
+        "skill": [
+          202
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 50000
+      },
+      {
+        "cat": 11,
+        "id": 20222,
+        "learnedat": 9999,
+        "level": 0,
+        "name": "@Goblin Engineer",
+        "nskillup": 1,
+        "schools": 1,
+        "skill": [
+          202
+        ],
+        "specialization": 20222
+      },
+      {
+        "cat": 11,
+        "id": 20219,
+        "learnedat": 9999,
+        "level": 0,
+        "name": "@Gnomish Engineer",
+        "nskillup": 1,
+        "schools": 1,
+        "skill": [
+          202
+        ],
+        "specialization": 20219
+      }
+    ]
+  }
+]

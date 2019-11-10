@@ -1,0 +1,483 @@
+[
+  {
+    "listId": "recipe-items",
+    "data": [
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 8117,
+        "flags2": 8192,
+        "id": 6454,
+        "level": 26,
+        "name": "6Manual: Strong Anti-Venom",
+        "skill": 130,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 9,
+        "displayid": 6270,
+        "flags2": 8192,
+        "id": 8547,
+        "level": 50,
+        "name": "6Formula: Powerful Smelling Salts ",
+        "skill": 250,
+        "slot": 0,
+        "subclass": 7
+      },
+      {
+        "classs": 9,
+        "displayid": 1155,
+        "flags2": 8192,
+        "id": 16084,
+        "level": 30,
+        "name": "7Expert First Aid - Under Wraps",
+        "skill": 125,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 9,
+        "displayid": 1134,
+        "flags2": 8192,
+        "id": 16085,
+        "level": 45,
+        "name": "7Artisan First Aid - Heal Thyself",
+        "skill": 200,
+        "slot": 0,
+        "subclass": 7
+      },
+      {
+        "classs": 9,
+        "displayid": 8117,
+        "flags2": 8192,
+        "id": 16112,
+        "level": 36,
+        "name": "7Manual: Heavy Silk Bandage",
+        "skill": 180,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 9,
+        "displayid": 8117,
+        "flags2": 8192,
+        "id": 16113,
+        "level": 42,
+        "name": "7Manual: Mageweave Bandage",
+        "skill": 210,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 19442,
+        "level": 58,
+        "name": "7Formula: Powerful Anti-Venom",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 7
+      },
+      {
+        "classs": 9,
+        "displayid": 8117,
+        "flags2": 8192,
+        "id": 23689,
+        "level": 60,
+        "name": "7Manual: Crystal Infused Bandage",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          4
+        ],
+        "subclass": 7
+      }
+    ]
+  },
+  {
+    "listId": "crafted-items",
+    "data": [
+      {
+        "classs": 0,
+        "displayid": 11907,
+        "flags2": 8192,
+        "id": 1251,
+        "level": 1,
+        "name": "7Linen Bandage",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 9,
+            "icon": "inv_misc_bandage_15",
+            "n": "Linen Bandage",
+            "s": 129,
+            "t": 6,
+            "ti": 3275
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 0,
+        "displayid": 11908,
+        "flags2": 8192,
+        "id": 2581,
+        "level": 1,
+        "name": "7Heavy Linen Bandage",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 9,
+            "icon": "inv_misc_bandage_18",
+            "n": "Heavy Linen Bandage",
+            "s": 129,
+            "t": 6,
+            "ti": 3276
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 0,
+        "displayid": 11909,
+        "flags2": 8192,
+        "id": 3530,
+        "level": 1,
+        "name": "7Wool Bandage",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 9,
+            "icon": "inv_misc_bandage_14",
+            "n": "Wool Bandage",
+            "s": 129,
+            "t": 6,
+            "ti": 3277
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 0,
+        "displayid": 11910,
+        "flags2": 8192,
+        "id": 3531,
+        "level": 1,
+        "name": "7Heavy Wool Bandage",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 9,
+            "icon": "inv_misc_bandage_17",
+            "n": "Heavy Wool Bandage",
+            "s": 129,
+            "t": 6,
+            "ti": 3278
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 0,
+        "displayid": 8603,
+        "flags2": 8192,
+        "id": 6450,
+        "level": 1,
+        "name": "7Silk Bandage",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 9,
+            "icon": "inv_misc_bandage_01",
+            "n": "Silk Bandage",
+            "s": 129,
+            "t": 6,
+            "ti": 7928
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 0,
+        "displayid": 11926,
+        "flags2": 8192,
+        "id": 6451,
+        "level": 1,
+        "name": "7Heavy Silk Bandage",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 9,
+            "icon": "inv_misc_bandage_02",
+            "n": "Heavy Silk Bandage",
+            "s": 129,
+            "t": 6,
+            "ti": 7929
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 15,
+        "displayid": 2885,
+        "flags2": 8192,
+        "id": 6452,
+        "level": 16,
+        "name": "7Anti-Venom",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 9,
+            "icon": "inv_misc_slime_01",
+            "n": "Anti-Venom",
+            "s": 129,
+            "t": 6,
+            "ti": 7934
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 15,
+        "displayid": 2885,
+        "flags2": 8192,
+        "id": 6453,
+        "level": 26,
+        "name": "7Strong Anti-Venom",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 9,
+            "icon": "inv_misc_slime_01",
+            "n": "Strong Anti-Venom",
+            "s": 129,
+            "t": 6,
+            "ti": 7935
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 17457,
+        "flags2": 8192,
+        "id": 8544,
+        "level": 1,
+        "name": "7Mageweave Bandage",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 9,
+            "icon": "inv_misc_bandage_19",
+            "n": "Mageweave Bandage",
+            "s": 129,
+            "t": 6,
+            "ti": 10840
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 0,
+        "displayid": 17458,
+        "flags2": 8192,
+        "id": 8545,
+        "level": 1,
+        "name": "7Heavy Mageweave Bandage",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 9,
+            "icon": "inv_misc_bandage_20",
+            "n": "Heavy Mageweave Bandage",
+            "s": 129,
+            "t": 6,
+            "ti": 10841
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 0,
+        "displayid": 25146,
+        "flags2": 8192,
+        "id": 14529,
+        "level": 52,
+        "name": "7Runecloth Bandage",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 9,
+            "icon": "inv_misc_bandage_11",
+            "n": "Runecloth Bandage",
+            "s": 129,
+            "t": 6,
+            "ti": 18629
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 0,
+        "displayid": 25147,
+        "flags2": 8192,
+        "id": 14530,
+        "level": 58,
+        "name": "7Heavy Runecloth Bandage",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 9,
+            "icon": "inv_misc_bandage_12",
+            "n": "Heavy Runecloth Bandage",
+            "s": 129,
+            "t": 6,
+            "ti": 18630
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 15,
+        "displayid": 21845,
+        "flags2": 8192,
+        "id": 19440,
+        "level": 58,
+        "name": "7Powerful Anti-Venom",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 9,
+            "icon": "inv_drink_14",
+            "n": "Powerful Anti-Venom",
+            "s": 129,
+            "t": 6,
+            "ti": 23787
+          }
+        ],
+        "subclass": 1
+      }
+    ]
+  },
+  {
+    "listId": "spells",
+    "data": [
+      {
+        "cat": 9,
+        "id": 3273,
+        "learnedat": 9999,
+        "level": 0,
+        "name": "@First Aid",
+        "nskillup": 1,
+        "rank": "Apprentice",
+        "schools": 1,
+        "skill": [
+          129
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 100
+      },
+      {
+        "cat": 9,
+        "id": 3274,
+        "learnedat": 50,
+        "level": 0,
+        "name": "@First Aid",
+        "nskillup": 1,
+        "rank": "Journeyman",
+        "schools": 1,
+        "skill": [
+          129
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 500
+      },
+      {
+        "cat": 9,
+        "id": 7924,
+        "learnedat": 9999,
+        "level": 0,
+        "name": "@First Aid",
+        "nskillup": 1,
+        "rank": "Expert",
+        "schools": 1,
+        "skill": [
+          129
+        ]
+      },
+      {
+        "cat": 9,
+        "id": 10846,
+        "learnedat": 9999,
+        "level": 0,
+        "name": "@First Aid",
+        "nskillup": 1,
+        "rank": "Artisan",
+        "schools": 1,
+        "skill": [
+          129
+        ],
+        "source": [
+          4
+        ]
+      }
+    ]
+  }
+]

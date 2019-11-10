@@ -1,0 +1,461 @@
+[
+  {
+    "id": 1215,
+    "location": [
+      12
+    ],
+    "name": "Alchemist Mallory",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Journeyman Alchemist"
+  },
+  {
+    "id": 1246,
+    "location": [
+      1537
+    ],
+    "name": "Vosur Brakthel",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Journeyman Alchemist"
+  },
+  {
+    "id": 1386,
+    "location": [
+      8
+    ],
+    "name": "Rogvar",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Master Alchemist"
+  },
+  {
+    "hasQuests": 1,
+    "id": 1470,
+    "location": [
+      38
+    ],
+    "name": "Ghak Healtouch",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Journeyman Alchemist"
+  },
+  {
+    "id": 2132,
+    "location": [
+      85
+    ],
+    "name": "Carolai Anise",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Journeyman Alchemist"
+  },
+  {
+    "hasQuests": 1,
+    "id": 2391,
+    "location": [
+      267
+    ],
+    "name": "Serge Hinott",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Expert Alchemist"
+  },
+  {
+    "id": 2837,
+    "location": [
+      33
+    ],
+    "name": "Jaxin Chong",
+    "react": [
+      1,
+      1
+    ],
+    "tag": "Expert Alchemist"
+  },
+  {
+    "id": 3009,
+    "location": [
+      1638
+    ],
+    "name": "Bena Winterhoof",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Expert Alchemist"
+  },
+  {
+    "id": 3184,
+    "location": [
+      14
+    ],
+    "name": "Miao'zan",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Journeyman Alchemist"
+  },
+  {
+    "id": 3347,
+    "location": [
+      1637
+    ],
+    "name": "Yelmak",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Expert Alchemist"
+  },
+  {
+    "id": 3603,
+    "location": [
+      141
+    ],
+    "name": "Cyndra Kindwhisper",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Journeyman Alchemist"
+  },
+  {
+    "id": 3964,
+    "location": [
+      331
+    ],
+    "name": "Kylanna",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Expert Alchemist"
+  },
+  {
+    "id": 4160,
+    "location": [
+      1657
+    ],
+    "name": "Ainethil",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Artisan Alchemist"
+  },
+  {
+    "id": 4609,
+    "location": [
+      1497
+    ],
+    "name": "Doctor Marsh",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Expert Alchemist"
+  },
+  {
+    "id": 4611,
+    "location": [
+      1497
+    ],
+    "name": "Doctor Herbert Halsey",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Artisan Alchemist"
+  },
+  {
+    "id": 4900,
+    "location": [
+      15
+    ],
+    "name": "Alchemist Narett",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Expert Alchemist"
+  },
+  {
+    "id": 5177,
+    "location": [
+      1537
+    ],
+    "name": "Tally Berryfizz",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Expert Alchemist"
+  },
+  {
+    "id": 5499,
+    "location": [
+      1519
+    ],
+    "name": "Lilyssia Nightbreeze",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Expert Alchemist"
+  },
+  {
+    "id": 5500,
+    "location": [
+      1519
+    ],
+    "name": "Tel'Athir",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Journeyman Alchemist"
+  },
+  {
+    "id": 7948,
+    "location": [
+      357
+    ],
+    "name": "Kylanna Windwhisper",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Master Alchemist"
+  },
+  {
+    "id": 11041,
+    "location": [
+      1657
+    ],
+    "name": "Milla Fairancora",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Journeyman Alchemist"
+  },
+  {
+    "id": 11042,
+    "location": [
+      1657
+    ],
+    "name": "Sylvanna Forestmoon",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Expert Alchemist"
+  },
+  {
+    "id": 11044,
+    "location": [
+      1497
+    ],
+    "name": "Doctor Martin Felben",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Journeyman Alchemist Trainer"
+  },
+  {
+    "id": 11046,
+    "location": [
+      1637
+    ],
+    "name": "Whuut",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Journeyman Alchemist"
+  },
+  {
+    "id": 11047,
+    "location": [
+      1638
+    ],
+    "name": "Kray",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Journeyman Alchemist"
+  },
+  {
+    "hasQuests": 1,
+    "id": 1681,
+    "location": [
+      38
+    ],
+    "name": "Brock Stoneseeker",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 1701,
+    "location": [
+      1
+    ],
+    "name": "Dank Drizzlecut",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 3001,
+    "location": [
+      1638
+    ],
+    "name": "Brek Stonehoof",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 3137,
+    "location": [
+      10
+    ],
+    "name": "Matt Johnson",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 3175,
+    "location": [
+      14
+    ],
+    "name": "Krunn",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Miner"
+  },
+  {
+    "id": 3357,
+    "location": [
+      1637
+    ],
+    "name": "Makaru",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 3555,
+    "location": [
+      130
+    ],
+    "name": "Johan Focht",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Miner"
+  },
+  {
+    "id": 4254,
+    "location": [
+      1537
+    ],
+    "name": "Geofram Bouldertoe",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 4598,
+    "location": [
+      1497
+    ],
+    "name": "Brom Killian",
+    "react": [
+      null,
+      1
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 5392,
+    "location": [
+      1
+    ],
+    "name": "Yarr Hammerstone",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 5513,
+    "location": [
+      1519
+    ],
+    "name": "Gelman Stonehand",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 6297,
+    "location": [
+      148
+    ],
+    "name": "Kurdram Stonehammer",
+    "react": [
+      1,
+      null
+    ],
+    "tag": "Mining Trainer"
+  },
+  {
+    "id": 8128,
+    "location": [
+      440
+    ],
+    "name": "Pikkle",
+    "react": [
+      1,
+      1
+    ],
+    "tag": "Miner"
+  }
+]

@@ -1,0 +1,4204 @@
+[
+  {
+    "listId": "recipe-items",
+    "data": [
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 2553,
+        "level": 12,
+        "name": "6Recipe: Elixir of Minor Agility",
+        "skill": 50,
+        "slot": 0,
+        "source": [
+          2,
+          16,
+          21
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 2555,
+        "level": 15,
+        "name": "6Recipe: Swiftness Potion",
+        "skill": 60,
+        "slot": 0,
+        "source": [
+          2,
+          21
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 2556,
+        "level": 15,
+        "name": "7Recipe: Elixir of Tongues",
+        "skill": 70,
+        "slot": 0,
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 3393,
+        "level": 22,
+        "name": "7Recipe: Minor Magic Resistance Potion",
+        "skill": 110,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 3394,
+        "level": 24,
+        "name": "7Recipe: Elixir of Poison Resistance",
+        "skill": 120,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 3395,
+        "level": 50,
+        "name": "6Recipe: Limited Invulnerability Potion",
+        "skill": 250,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 3396,
+        "level": 28,
+        "name": "6Recipe: Elixir of Lesser Agility",
+        "skill": 140,
+        "slot": 0,
+        "source": [
+          2,
+          16
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 3830,
+        "level": 35,
+        "name": "7Recipe: Elixir of Fortitude",
+        "skill": 175,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 3831,
+        "level": 36,
+        "name": "7Recipe: Mighty Troll's Blood Potion",
+        "skill": 180,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 3832,
+        "level": 39,
+        "name": "6Recipe: Elixir of Detect Lesser Invisibility",
+        "skill": 195,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 4597,
+        "level": 10,
+        "name": "6Recipe: Discolored Healing Potion",
+        "skill": 50,
+        "slot": 0,
+        "source": [
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 130,
+            "c2": 0,
+            "n": "Wild Hearts",
+            "t": 5,
+            "ti": 429
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 4624,
+        "level": 43,
+        "name": "7Recipe: Lesser Stoneshield Potion",
+        "skill": 215,
+        "slot": 0,
+        "source": [
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 3,
+            "c2": 0,
+            "n": "Liquid Stone",
+            "t": 5,
+            "ti": 715
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 5640,
+        "level": 14,
+        "name": "7Recipe: Rage Potion",
+        "skill": 60,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 5641,
+        "level": 25,
+        "name": "7Recipe: Cowardly Flight Potion",
+        "skill": 125,
+        "slot": 0,
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 5642,
+        "level": 30,
+        "name": "7Recipe: Free Action Potion",
+        "skill": 150,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 5643,
+        "level": 35,
+        "name": "7Recipe: Great Rage Potion",
+        "skill": 175,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 6053,
+        "level": 20,
+        "name": "7Recipe: Holy Protection Potion",
+        "skill": 100,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 6054,
+        "level": 27,
+        "name": "7Recipe: Shadow Protection Potion",
+        "skill": 135,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 6055,
+        "level": 33,
+        "name": "7Recipe: Fire Protection Potion",
+        "skill": 165,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 6056,
+        "level": 38,
+        "name": "7Recipe: Frost Protection Potion",
+        "skill": 190,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 6057,
+        "level": 38,
+        "name": "7Recipe: Nature Protection Potion",
+        "skill": 190,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 6068,
+        "level": 33,
+        "name": "7Recipe: Shadow Oil",
+        "skill": 165,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 6211,
+        "level": 30,
+        "name": "7Recipe: Elixir of Ogre's Strength",
+        "skill": 150,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 6663,
+        "level": 18,
+        "name": "6Recipe: Elixir of Giant Growth",
+        "skill": 90,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "z": 17
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 9293,
+        "level": 42,
+        "name": "6Recipe: Magic Resistance Potion",
+        "skill": 210,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 9294,
+        "level": 45,
+        "name": "6Recipe: Wildvine Potion",
+        "skill": 225,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 9295,
+        "level": 47,
+        "name": "6Recipe: Invisibility Potion",
+        "skill": 235,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 6270,
+        "flags2": 8192,
+        "id": 9296,
+        "level": 48,
+        "name": "6Recipe: Gift of Arthas",
+        "skill": 240,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "z": 28
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 9297,
+        "level": 48,
+        "name": "6Recipe: Elixir of Dream Vision",
+        "skill": 240,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 9298,
+        "level": 49,
+        "name": "6Recipe: Elixir of Giants",
+        "skill": 245,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 9300,
+        "level": 50,
+        "name": "7Recipe: Elixir of Demonslaying",
+        "skill": 250,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 9301,
+        "level": 50,
+        "name": "6Recipe: Elixir of Shadow Power",
+        "skill": 250,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 6270,
+        "flags2": 8192,
+        "id": 9302,
+        "level": 49,
+        "name": "7Recipe: Ghost Dye",
+        "skill": 245,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "z": 357
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 9303,
+        "level": 45,
+        "name": "7Recipe: Philosopher's Stone",
+        "skill": 225,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Alchemist Pestlezugg",
+            "t": 1,
+            "ti": 5594,
+            "z": 440
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 9304,
+        "level": 45,
+        "name": "7Recipe: Transmute Iron to Gold",
+        "skill": 225,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Alchemist Pestlezugg",
+            "t": 1,
+            "ti": 5594,
+            "z": 440
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 9305,
+        "level": 45,
+        "name": "7Recipe: Transmute Mithril to Truesilver",
+        "skill": 225,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Alchemist Pestlezugg",
+            "t": 1,
+            "ti": 5594,
+            "z": 440
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 10644,
+        "level": 42,
+        "name": "7Recipe: Goblin Rocket Fuel",
+        "skill": 210,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_scroll_03",
+            "n": "Goblin Rocket Fuel Recipe",
+            "s": 202,
+            "t": 6,
+            "ti": 12715
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 12958,
+        "level": 55,
+        "name": "7Recipe: Transmute Arcanite",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Alchemist Pestlezugg",
+            "t": 1,
+            "ti": 5594,
+            "z": 440
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13476,
+        "level": 51,
+        "name": "6Recipe: Mighty Rage Potion",
+        "skill": 255,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Blackrock Slayer",
+            "t": 1,
+            "ti": 7027,
+            "z": 46
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 13477,
+        "level": 52,
+        "name": "7Recipe: Superior Mana Potion",
+        "skill": 260,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 13478,
+        "level": 53,
+        "name": "7Recipe: Elixir of Superior Defense",
+        "skill": 265,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13479,
+        "level": 54,
+        "name": "6Recipe: Elixir of the Sages",
+        "skill": 270,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "z": 139
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 13480,
+        "level": 55,
+        "name": "7Recipe: Major Healing Potion",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Evie Whirlbrew",
+            "t": 1,
+            "ti": 11188,
+            "z": 618
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13481,
+        "level": 55,
+        "name": "6Recipe: Elixir of Brute Force",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "icon": "inv_misc_gift_05",
+            "n": "Small Brown-wrapped Package",
+            "q": 1,
+            "t": 3,
+            "ti": 15699
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13482,
+        "level": 55,
+        "name": "6Recipe: Transmute Air to Fire",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13483,
+        "level": 55,
+        "name": "6Recipe: Transmute Fire to Earth",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Plugger Spazzring",
+            "t": 1,
+            "ti": 9499
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13484,
+        "level": 55,
+        "name": "6Recipe: Transmute Earth to Water",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Meilosh",
+            "t": 1,
+            "ti": 11557,
+            "z": 361
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13485,
+        "level": 55,
+        "name": "6Recipe: Transmute Water to Air",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Magnus Frostwake",
+            "t": 1,
+            "ti": 11278,
+            "z": 28
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13486,
+        "level": 55,
+        "name": "6Recipe: Transmute Undeath to Water",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13487,
+        "level": 55,
+        "name": "6Recipe: Transmute Water to Undeath",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13488,
+        "level": 55,
+        "name": "6Recipe: Transmute Life to Earth",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13489,
+        "level": 55,
+        "name": "6Recipe: Transmute Earth to Life",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13490,
+        "level": 56,
+        "name": "6Recipe: Greater Stoneshield Potion",
+        "skill": 280,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13491,
+        "level": 56,
+        "name": "6Recipe: Elixir of the Mongoose",
+        "skill": 280,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13492,
+        "level": 57,
+        "name": "6Recipe: Purification Potion",
+        "skill": 285,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13493,
+        "level": 57,
+        "name": "6Recipe: Greater Arcane Elixir",
+        "skill": 285,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13494,
+        "level": 58,
+        "name": "6Recipe: Greater Fire Protection Potion",
+        "skill": 290,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "z": 1583
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13495,
+        "level": 58,
+        "name": "6Recipe: Greater Frost Protection Potion",
+        "skill": 290,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Frostmaul Giant",
+            "t": 1,
+            "ti": 7428,
+            "z": 618
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13496,
+        "level": 58,
+        "name": "6Recipe: Greater Nature Protection Potion",
+        "skill": 290,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "z": 28
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13497,
+        "level": 58,
+        "name": "6Recipe: Greater Arcane Protection Potion",
+        "skill": 290,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Cobalt Mageweaver",
+            "t": 1,
+            "ti": 7437,
+            "z": 618
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13499,
+        "level": 58,
+        "name": "6Recipe: Greater Shadow Protection Potion",
+        "skill": 290,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "z": 139
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13500,
+        "level": 58,
+        "name": "6Recipe: Greater Holy Protection Potion",
+        "skill": 290,
+        "slot": 0,
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13501,
+        "level": 59,
+        "name": "6Recipe: Major Mana Potion",
+        "skill": 295,
+        "slot": 0,
+        "source": [
+          2,
+          5
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Darkmaster Gandling",
+            "t": 1,
+            "ti": 1853,
+            "z": 2057
+          },
+          {
+            "n": "Magnus Frostwake",
+            "t": 1,
+            "ti": 11278,
+            "z": 28
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 13517,
+        "level": 60,
+        "name": "7Recipe: Alchemists' Stone",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13518,
+        "level": 60,
+        "name": "6Recipe: Flask of Petrification",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13519,
+        "level": 60,
+        "name": "6Recipe: Flask of the Titans",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "General Drakkisath",
+            "t": 1,
+            "ti": 10363,
+            "z": 1583
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13520,
+        "level": 60,
+        "name": "6Recipe: Flask of Distilled Wisdom",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "z": 2017
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13521,
+        "level": 60,
+        "name": "6Recipe: Flask of Supreme Power",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Ras Frostwhisper",
+            "t": 1,
+            "ti": 10508,
+            "z": 2057
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 13522,
+        "level": 60,
+        "name": "6Recipe: Flask of Chromatic Resistance",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Gyth",
+            "t": 1,
+            "ti": 10339,
+            "z": 1583
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 14634,
+        "level": 40,
+        "name": "6Recipe: Frost Oil",
+        "skill": 200,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Bro'kin",
+            "t": 1,
+            "ti": 2480,
+            "z": 36
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 17709,
+        "level": 38,
+        "name": "7Recipe: Elixir of Frost Power",
+        "skill": 190,
+        "slot": 0,
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 6270,
+        "flags2": 8192,
+        "id": 18257,
+        "level": 60,
+        "name": "5Recipe: Major Rejuvenation Potion",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "z": 2717
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 20011,
+        "level": 55,
+        "name": "7Recipe: Mageblood Potion",
+        "skill": 275,
+        "slot": 0,
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 20012,
+        "level": 55,
+        "name": "7Recipe: Greater Dreamless Sleep",
+        "skill": 275,
+        "slot": 0,
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 20013,
+        "level": 57,
+        "name": "7Recipe: Living Action Potion",
+        "skill": 285,
+        "slot": 0,
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1301,
+        "flags2": 8192,
+        "id": 20014,
+        "level": 58,
+        "name": "7Recipe: Major Troll's Blood Potion",
+        "skill": 290,
+        "slot": 0,
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 1102,
+        "flags2": 8192,
+        "id": 20761,
+        "level": 60,
+        "name": "7Recipe: Transmute Elemental Fire",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 6
+      },
+      {
+        "classs": 9,
+        "displayid": 15274,
+        "flags2": 8192,
+        "id": 21547,
+        "level": 50,
+        "name": "6Recipe: Elixir of Greater Firepower",
+        "skill": 250,
+        "slot": 0,
+        "subclass": 6
+      }
+    ]
+  },
+  {
+    "listId": "crafted-items",
+    "data": [
+      {
+        "classs": 0,
+        "commondrop": true,
+        "displayid": 15710,
+        "flags2": 8192,
+        "id": 118,
+        "level": 5,
+        "name": "7Minor Healing Potion",
+        "reqlevel": 10,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          4,
+          16,
+          19,
+          21
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_49",
+            "n": "Minor Healing Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 2330
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "commondrop": true,
+        "displayid": 15711,
+        "flags2": 8192,
+        "id": 858,
+        "level": 13,
+        "name": "7Lesser Healing Potion",
+        "reqlevel": 3,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          4,
+          5,
+          16,
+          21
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_50",
+            "n": "Lesser Healing Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 2337
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "commondrop": true,
+        "displayid": 15712,
+        "flags2": 8192,
+        "id": 929,
+        "level": 22,
+        "name": "7Healing Potion",
+        "reqlevel": 12,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          4,
+          5,
+          16,
+          21
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_51",
+            "n": "Healing Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 3447
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "commondrop": true,
+        "displayid": 15713,
+        "flags2": 8192,
+        "id": 1710,
+        "level": 31,
+        "name": "7Greater Healing Potion",
+        "reqlevel": 21,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          5,
+          16,
+          21
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_52",
+            "n": "Greater Healing Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 7181
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15733,
+        "flags2": 8192,
+        "id": 2454,
+        "level": 5,
+        "name": "7Elixir of Lion's Strength",
+        "reqlevel": 3,
+        "slot": 0,
+        "source": [
+          1,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_56",
+            "n": "Elixir of Lion's Strength",
+            "s": 171,
+            "t": 6,
+            "ti": 2329
+          },
+          {
+            "c": 12,
+            "c2": 0,
+            "n": "Shipment to Stormwind",
+            "t": 5,
+            "ti": 61
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "commondrop": true,
+        "displayid": 15715,
+        "flags2": 8192,
+        "id": 2455,
+        "level": 15,
+        "name": "7Minor Mana Potion",
+        "reqlevel": 5,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          4,
+          5,
+          16
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_70",
+            "n": "Minor Mana Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 2331
+          },
+          {
+            "c": 40,
+            "c2": 0,
+            "n": "Keeper of the Flame",
+            "t": 5,
+            "ti": 103
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 2345,
+        "flags2": 8192,
+        "id": 2456,
+        "level": 15,
+        "name": "7Minor Rejuvenation Potion",
+        "reqlevel": 5,
+        "slot": 0,
+        "source": [
+          1,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_02",
+            "n": "Minor Rejuvenation Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 2332
+          },
+          {
+            "c": 17,
+            "c2": 1,
+            "n": "Apothecary Zamah",
+            "t": 5,
+            "ti": 853
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15738,
+        "flags2": 8192,
+        "id": 2457,
+        "level": 12,
+        "name": "7Elixir of Minor Agility",
+        "reqlevel": 2,
+        "slot": 0,
+        "source": [
+          1,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_91",
+            "n": "Elixir of Minor Agility",
+            "s": 171,
+            "t": 6,
+            "ti": 3230
+          },
+          {
+            "c": 17,
+            "c2": 1,
+            "n": "Apothecary Zamah",
+            "t": 5,
+            "ti": 853
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15792,
+        "flags2": 8192,
+        "id": 2458,
+        "level": 12,
+        "name": "7Elixir of Minor Fortitude",
+        "reqlevel": 2,
+        "slot": 0,
+        "source": [
+          1,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_42",
+            "n": "Elixir of Minor Fortitude",
+            "s": 171,
+            "t": 6,
+            "ti": 2334
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 15742,
+        "flags2": 8192,
+        "id": 2459,
+        "level": 15,
+        "name": "7Swiftness Potion",
+        "reqlevel": 5,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_95",
+            "n": "Swiftness Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 2335
+          },
+          {
+            "bd": 1,
+            "dd": -1,
+            "n": "Eric \"The Swift\"",
+            "t": 1,
+            "ti": 6907,
+            "z": 1337
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15734,
+        "flags2": 8192,
+        "id": 3382,
+        "level": 8,
+        "name": "7Weak Troll's Blood Potion",
+        "reqlevel": 6,
+        "slot": 0,
+        "source": [
+          1,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_77",
+            "n": "Weak Troll's Blood Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 3170
+          },
+          {
+            "c": 85,
+            "c2": 0,
+            "n": "A New Plague",
+            "t": 5,
+            "ti": 367
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 15745,
+        "flags2": 8192,
+        "id": 3383,
+        "level": 20,
+        "name": "7Elixir of Wisdom",
+        "reqlevel": 10,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_06",
+            "n": "Elixir of Wisdom",
+            "s": 171,
+            "t": 6,
+            "ti": 3171
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 292,
+        "flags2": 8192,
+        "id": 3384,
+        "level": 22,
+        "name": "7Minor Magic Resistance Potion",
+        "reqlevel": 12,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_08",
+            "n": "Minor Magic Resistance Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 3172
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "commondrop": true,
+        "displayid": 15716,
+        "flags2": 8192,
+        "id": 3385,
+        "level": 24,
+        "name": "7Lesser Mana Potion",
+        "reqlevel": 14,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          5,
+          16
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_71",
+            "n": "Lesser Mana Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 3173
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15750,
+        "flags2": 8192,
+        "id": 3386,
+        "level": 55,
+        "name": "7Elixir of Poison Resistance",
+        "reqlevel": 14,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_12",
+            "n": "Elixir of Poison Resistance",
+            "s": 171,
+            "t": 6,
+            "ti": 3174
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 24213,
+        "flags2": 8192,
+        "id": 3387,
+        "level": 50,
+        "name": "7Limited Invulnerability Potion",
+        "reqlevel": 45,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_62",
+            "n": "Limited Invulnerability Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 3175
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15770,
+        "flags2": 8192,
+        "id": 3388,
+        "level": 25,
+        "name": "7Strong Troll's Blood Potion",
+        "reqlevel": 15,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_78",
+            "n": "Strong Troll's Blood Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 3176
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 15773,
+        "flags2": 8192,
+        "id": 3389,
+        "level": 26,
+        "name": "7Elixir of Defense",
+        "reqlevel": 16,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_64",
+            "n": "Elixir of Defense",
+            "s": 171,
+            "t": 6,
+            "ti": 3177
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 15787,
+        "flags2": 8192,
+        "id": 3390,
+        "level": 28,
+        "name": "7Elixir of Lesser Agility",
+        "reqlevel": 18,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_92",
+            "n": "Elixir of Lesser Agility",
+            "s": 171,
+            "t": 6,
+            "ti": 2333
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15789,
+        "flags2": 8192,
+        "id": 3391,
+        "level": 30,
+        "name": "7Elixir of Ogre's Strength",
+        "reqlevel": 20,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_57",
+            "n": "Elixir of Ogre's Strength",
+            "s": 171,
+            "t": 6,
+            "ti": 3188
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 2354,
+        "flags2": 8192,
+        "id": 3823,
+        "level": 33,
+        "name": "7Lesser Invisibility Potion",
+        "reqlevel": 23,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_18",
+            "n": "Lesser Invisibility Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 3448
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 17469,
+        "flags2": 8192,
+        "id": 3824,
+        "level": 34,
+        "name": "7Shadow Oil",
+        "reqlevel": 24,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_23",
+            "n": "Shadow Oil",
+            "s": 171,
+            "t": 6,
+            "ti": 3449
+          }
+        ],
+        "subclass": -3
+      },
+      {
+        "classs": 0,
+        "displayid": 15790,
+        "flags2": 8192,
+        "id": 3825,
+        "level": 35,
+        "name": "7Elixir of Fortitude",
+        "reqlevel": 25,
+        "slot": 0,
+        "source": [
+          1,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_43",
+            "n": "Elixir of Fortitude",
+            "s": 171,
+            "t": 6,
+            "ti": 3450
+          },
+          {
+            "z": 15
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 15793,
+        "flags2": 8192,
+        "id": 3826,
+        "level": 36,
+        "name": "7Mighty Troll's Blood Potion",
+        "reqlevel": 26,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_79",
+            "n": "Mighty Troll's Blood Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 3451
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 15717,
+        "flags2": 8192,
+        "id": 3827,
+        "level": 32,
+        "name": "7Mana Potion",
+        "reqlevel": 22,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          5,
+          16
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_72",
+            "n": "Mana Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 3452
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 4137,
+        "flags2": 8192,
+        "id": 3828,
+        "level": 39,
+        "name": "7Elixir of Detect Lesser Invisibility",
+        "reqlevel": 29,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_01",
+            "n": "Elixir of Detect Lesser Invisibility",
+            "s": 171,
+            "t": 6,
+            "ti": 3453
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 15794,
+        "flags2": 8192,
+        "id": 3829,
+        "level": 40,
+        "name": "7Frost Oil",
+        "reqlevel": 30,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_20",
+            "n": "Frost Oil",
+            "s": 171,
+            "t": 6,
+            "ti": 3454
+          },
+          {
+            "dd": -1,
+            "z": 1377
+          }
+        ],
+        "subclass": -3
+      },
+      {
+        "classs": 0,
+        "displayid": 15714,
+        "flags2": 8192,
+        "id": 3928,
+        "level": 45,
+        "name": "7Superior Healing Potion",
+        "reqlevel": 35,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          4,
+          5,
+          16,
+          21
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_53",
+            "n": "Superior Healing Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 11457
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15736,
+        "flags2": 8192,
+        "id": 4596,
+        "level": 15,
+        "name": "7Discolored Healing Potion",
+        "reqlevel": 5,
+        "slot": 0,
+        "source": [
+          1,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_35",
+            "n": "Discolored Healing Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 4508
+          },
+          {
+            "c": 130,
+            "c2": 0,
+            "n": "Wild Hearts",
+            "t": 5,
+            "ti": 429
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 24215,
+        "flags2": 8192,
+        "id": 4623,
+        "level": 43,
+        "name": "7Lesser Stoneshield Potion",
+        "reqlevel": 33,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_67",
+            "n": "Lesser Stoneshield Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 4942
+          },
+          {
+            "dd": -1,
+            "z": 1657
+          },
+          {
+            "c": 3,
+            "c2": 0,
+            "n": "Liquid Stone",
+            "t": 5,
+            "ti": 715
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15741,
+        "flags2": 8192,
+        "id": 5631,
+        "level": 14,
+        "name": "7Rage Potion",
+        "reqclass": 1,
+        "reqlevel": 4,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_24",
+            "n": "Rage Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 6617
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15791,
+        "flags2": 8192,
+        "id": 5633,
+        "level": 35,
+        "name": "7Great Rage Potion",
+        "reqclass": 1,
+        "reqlevel": 25,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_21",
+            "n": "Great Rage Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 6618
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 8453,
+        "flags2": 8192,
+        "id": 5634,
+        "level": 30,
+        "name": "7Free Action Potion",
+        "reqlevel": 20,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_04",
+            "n": "Free Action Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 6624
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 4836,
+        "flags2": 8192,
+        "id": 5996,
+        "level": 18,
+        "name": "7Elixir of Water Breathing",
+        "reqlevel": 8,
+        "slot": 0,
+        "source": [
+          1,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_17",
+            "n": "Elixir of Water Breathing",
+            "s": 171,
+            "t": 6,
+            "ti": 7179
+          },
+          {
+            "c": 148,
+            "c2": 1,
+            "n": "Gyromast's Revenge",
+            "t": 5,
+            "ti": 2078
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 15732,
+        "flags2": 8192,
+        "id": 5997,
+        "level": 5,
+        "name": "7Elixir of Minor Defense",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_63",
+            "n": "Elixir of Minor Defense",
+            "s": 171,
+            "t": 6,
+            "ti": 7183
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 15774,
+        "flags2": 8192,
+        "id": 6048,
+        "level": 27,
+        "name": "7Shadow Protection Potion",
+        "reqlevel": 17,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_44",
+            "n": "Shadow Protection Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 7256
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 9639,
+        "flags2": 8192,
+        "id": 6049,
+        "level": 33,
+        "name": "7Fire Protection Potion",
+        "reqlevel": 23,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_16",
+            "n": "Fire Protection Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 7257
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 9058,
+        "flags2": 8192,
+        "id": 6050,
+        "level": 38,
+        "name": "7Frost Protection Potion",
+        "reqlevel": 28,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_13",
+            "n": "Frost Protection Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 7258
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15747,
+        "flags2": 8192,
+        "id": 6051,
+        "level": 20,
+        "name": "7Holy Protection Potion",
+        "reqlevel": 10,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_09",
+            "n": "Holy Protection Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 7255
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 4135,
+        "flags2": 8192,
+        "id": 6052,
+        "level": 38,
+        "name": "7Nature Protection Potion",
+        "reqlevel": 28,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_06",
+            "n": "Nature Protection Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 7259
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15718,
+        "flags2": 8192,
+        "id": 6149,
+        "level": 41,
+        "name": "7Greater Mana Potion",
+        "reqlevel": 31,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          4,
+          5,
+          16
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_73",
+            "n": "Greater Mana Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 11448
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 15,
+        "displayid": 18114,
+        "flags2": 8192,
+        "id": 6370,
+        "level": 15,
+        "name": "7Blackmouth Oil",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_drink_12",
+            "n": "Blackmouth Oil",
+            "s": 171,
+            "t": 6,
+            "ti": 7836
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 15,
+        "displayid": 15771,
+        "flags2": 8192,
+        "id": 6371,
+        "level": 25,
+        "name": "7Fire Oil",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_38",
+            "n": "Fire Oil",
+            "s": 171,
+            "t": 6,
+            "ti": 7837
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15748,
+        "flags2": 8192,
+        "id": 6372,
+        "level": 20,
+        "name": "7Swim Speed Potion",
+        "reqlevel": 10,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_13",
+            "n": "Swim Speed Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 7841
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15788,
+        "flags2": 8192,
+        "id": 6373,
+        "level": 28,
+        "name": "7Elixir of Firepower",
+        "reqlevel": 18,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_33",
+            "n": "Elixir of Firepower",
+            "s": 171,
+            "t": 6,
+            "ti": 7845
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 11462,
+        "flags2": 8192,
+        "id": 6662,
+        "level": 18,
+        "name": "7Elixir of Giant Growth",
+        "reqlevel": 8,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_10",
+            "n": "Elixir of Giant Growth",
+            "s": 171,
+            "t": 6,
+            "ti": 8240
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 20874,
+        "flags2": 8192,
+        "id": 7068,
+        "level": 25,
+        "name": "7Elemental Fire",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_fire_fire",
+            "n": "Transmute: Elemental Fire",
+            "s": 171,
+            "t": 6,
+            "ti": 25146
+          }
+        ],
+        "subclass": 10
+      },
+      {
+        "classs": 7,
+        "displayid": 23754,
+        "flags2": 8192,
+        "id": 7076,
+        "level": 55,
+        "name": "6Essence of Earth",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "subclass": 10
+      },
+      {
+        "classs": 7,
+        "displayid": 23287,
+        "flags2": 8192,
+        "id": 7078,
+        "level": 55,
+        "name": "6Essence of Fire",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_fire_volcano",
+            "n": "Transmute: Air to Fire",
+            "s": 171,
+            "t": 6,
+            "ti": 17559
+          }
+        ],
+        "subclass": 10
+      },
+      {
+        "classs": 7,
+        "displayid": 13689,
+        "flags2": 8192,
+        "id": 7080,
+        "level": 55,
+        "name": "6Essence of Water",
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          16
+        ],
+        "subclass": 10
+      },
+      {
+        "classs": 7,
+        "displayid": 23284,
+        "flags2": 8192,
+        "id": 7082,
+        "level": 55,
+        "name": "6Essence of Air",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_nature_earthbind",
+            "n": "Transmute: Water to Air",
+            "s": 171,
+            "t": 6,
+            "ti": 17562
+          },
+          {
+            "dd": -1,
+            "z": 1377
+          }
+        ],
+        "subclass": 10
+      },
+      {
+        "classs": 0,
+        "displayid": 17882,
+        "flags2": 8192,
+        "id": 8949,
+        "level": 37,
+        "name": "7Elixir of Agility",
+        "reqlevel": 27,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_93",
+            "n": "Elixir of Agility",
+            "s": 171,
+            "t": 6,
+            "ti": 11449
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 17883,
+        "flags2": 8192,
+        "id": 8951,
+        "level": 39,
+        "name": "7Elixir of Greater Defense",
+        "reqlevel": 29,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_65",
+            "n": "Elixir of Greater Defense",
+            "s": 171,
+            "t": 6,
+            "ti": 11450
+          },
+          {
+            "dd": -1,
+            "z": 1637
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 2351,
+        "flags2": 8192,
+        "id": 8956,
+        "level": 41,
+        "name": "7Oil of Immolation",
+        "reqlevel": 31,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_11",
+            "n": "Oil of Immolation",
+            "s": 171,
+            "t": 6,
+            "ti": 11451
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 926,
+        "flags2": 8192,
+        "id": 9030,
+        "level": 42,
+        "name": "7Restorative Potion",
+        "reqlevel": 32,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_01",
+            "n": "Restorative Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 11452
+          },
+          {
+            "icon": "inv_misc_bag_20",
+            "n": "Cenarion Circle Cache",
+            "q": 1,
+            "t": 3,
+            "ti": 11887
+          },
+          {
+            "z": 1337
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 1215,
+        "flags2": 8192,
+        "id": 9036,
+        "level": 42,
+        "name": "7Magic Resistance Potion",
+        "reqlevel": 32,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_16",
+            "n": "Magic Resistance Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 11453
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 15,
+        "displayid": 7921,
+        "flags2": 8192,
+        "id": 9061,
+        "level": 42,
+        "name": "7Goblin Rocket Fuel",
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          16
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_cask_02",
+            "n": "Goblin Rocket Fuel",
+            "s": 171,
+            "t": 6,
+            "ti": 11456
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 17889,
+        "flags2": 8192,
+        "id": 9088,
+        "level": 48,
+        "name": "7Gift of Arthas",
+        "reqlevel": 38,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_28",
+            "n": "Gift of Arthas",
+            "s": 171,
+            "t": 6,
+            "ti": 11466
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 17893,
+        "flags2": 8192,
+        "id": 9144,
+        "level": 45,
+        "name": "7Wildvine Potion",
+        "reqlevel": 35,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_34",
+            "n": "Wildvine Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 11458
+          },
+          {
+            "icon": "inv_misc_bag_20",
+            "n": "Cenarion Circle Cache",
+            "q": 1,
+            "t": 3,
+            "ti": 11887
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 8025,
+        "flags2": 8192,
+        "id": 9149,
+        "level": 45,
+        "name": "7Philosopher's Stone",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_orb_01",
+            "n": "Philosophers' Stone",
+            "s": 171,
+            "t": 6,
+            "ti": 11459
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 15714,
+        "flags2": 8192,
+        "id": 9154,
+        "level": 46,
+        "name": "7Elixir of Detect Undead",
+        "reqlevel": 36,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_53",
+            "n": "Elixir of Detect Undead",
+            "s": 171,
+            "t": 6,
+            "ti": 11460
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 17896,
+        "flags2": 8192,
+        "id": 9155,
+        "level": 47,
+        "name": "7Arcane Elixir",
+        "reqlevel": 37,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_30",
+            "n": "Arcane Elixir",
+            "s": 171,
+            "t": 6,
+            "ti": 11461
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 17898,
+        "flags2": 8192,
+        "id": 9172,
+        "level": 47,
+        "name": "7Invisibility Potion",
+        "reqlevel": 37,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_25",
+            "n": "Invisibility Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 11464
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 3664,
+        "flags2": 8192,
+        "id": 9179,
+        "level": 47,
+        "name": "7Elixir of Greater Intellect",
+        "reqlevel": 37,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_10",
+            "n": "Elixir of Greater Intellect",
+            "s": 171,
+            "t": 6,
+            "ti": 11465
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 17902,
+        "flags2": 8192,
+        "id": 9187,
+        "level": 48,
+        "name": "7Elixir of Greater Agility",
+        "reqlevel": 38,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_94",
+            "n": "Elixir of Greater Agility",
+            "s": 171,
+            "t": 6,
+            "ti": 11467
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 4134,
+        "flags2": 8192,
+        "id": 9197,
+        "level": 48,
+        "name": "7Elixir of Dream Vision",
+        "reqlevel": 38,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_14",
+            "n": "Elixir of Dream Vision",
+            "s": 171,
+            "t": 6,
+            "ti": 11468
+          },
+          {
+            "dd": -1,
+            "z": 1497
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 17904,
+        "flags2": 8192,
+        "id": 9206,
+        "level": 48,
+        "name": "7Elixir of Giants",
+        "reqlevel": 38,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_61",
+            "n": "Elixir of Giants",
+            "s": 171,
+            "t": 6,
+            "ti": 11472
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 9731,
+        "flags2": 8192,
+        "id": 9210,
+        "level": 49,
+        "name": "7Ghost Dye",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_poison_mindnumbing",
+            "n": "Ghost Dye",
+            "s": 171,
+            "t": 6,
+            "ti": 11473
+          }
+        ],
+        "subclass": 11
+      },
+      {
+        "classs": 0,
+        "displayid": 16325,
+        "flags2": 8192,
+        "id": 9224,
+        "level": 50,
+        "name": "7Elixir of Demonslaying",
+        "reqlevel": 40,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_27",
+            "n": "Elixir of Demonslaying",
+            "s": 171,
+            "t": 6,
+            "ti": 11477
+          },
+          {
+            "dd": -1,
+            "z": 1377
+          },
+          {
+            "c": 1583,
+            "c2": 2,
+            "n": "The Demon Forge",
+            "t": 5,
+            "ti": 5127
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15714,
+        "flags2": 8192,
+        "id": 9233,
+        "level": 50,
+        "name": "7Elixir of Detect Demon",
+        "reqlevel": 40,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_53",
+            "n": "Elixir of Detect Demon",
+            "s": 171,
+            "t": 6,
+            "ti": 11478
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 24216,
+        "flags2": 8192,
+        "id": 9264,
+        "level": 50,
+        "name": "7Elixir of Shadow Power",
+        "reqlevel": 40,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_46",
+            "n": "Elixir of Shadow Power",
+            "s": 171,
+            "t": 6,
+            "ti": 11476
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 19520,
+        "flags2": 8192,
+        "id": 10592,
+        "level": 40,
+        "name": "7Catseye Elixir",
+        "reqlevel": 30,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_36",
+            "n": "Catseye Elixir",
+            "s": 171,
+            "t": 6,
+            "ti": 12609
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 17403,
+        "flags2": 8192,
+        "id": 12190,
+        "level": 45,
+        "name": "7Dreamless Sleep Potion",
+        "reqlevel": 35,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_83",
+            "n": "Dreamless Sleep Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 15833
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 14993,
+        "flags2": 8192,
+        "id": 12360,
+        "level": 55,
+        "name": "6Arcanite Bar",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_stonetablet_05",
+            "n": "Transmute: Arcanite",
+            "s": 171,
+            "t": 6,
+            "ti": 17187
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 23285,
+        "flags2": 8192,
+        "id": 12803,
+        "level": 55,
+        "name": "6Living Essence",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_nature_abolishmagic",
+            "n": "Transmute: Earth to Life",
+            "s": 171,
+            "t": 6,
+            "ti": 17566
+          }
+        ],
+        "subclass": 10
+      },
+      {
+        "classs": 7,
+        "displayid": 23291,
+        "flags2": 8192,
+        "id": 12808,
+        "level": 55,
+        "name": "6Essence of Undeath",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "spell_shadow_shadetruesight",
+            "n": "Transmute: Water to Undeath",
+            "s": 171,
+            "t": 6,
+            "ti": 17564
+          }
+        ],
+        "subclass": 10
+      },
+      {
+        "classs": 15,
+        "displayid": 24132,
+        "flags2": 8192,
+        "id": 13423,
+        "level": 50,
+        "name": "7Stonescale Oil",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_68",
+            "n": "Stonescale Oil",
+            "s": 171,
+            "t": 6,
+            "ti": 17551
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 19547,
+        "flags2": 8192,
+        "id": 13442,
+        "level": 51,
+        "name": "7Mighty Rage Potion",
+        "reqclass": 1,
+        "reqlevel": 46,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_41",
+            "n": "Mighty Rage Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 17552
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 24151,
+        "flags2": 8192,
+        "id": 13443,
+        "level": 51,
+        "name": "7Superior Mana Potion",
+        "reqlevel": 41,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          16
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_74",
+            "n": "Superior Mana Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 17553
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "commondrop": true,
+        "displayid": 21672,
+        "flags2": 8192,
+        "id": 13444,
+        "level": 59,
+        "name": "7Major Mana Potion",
+        "reqlevel": 49,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          4
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_76",
+            "n": "Major Mana Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 17580
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 16321,
+        "flags2": 8192,
+        "id": 13445,
+        "level": 53,
+        "name": "7Elixir of Superior Defense",
+        "reqlevel": 43,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_66",
+            "n": "Elixir of Superior Defense",
+            "s": 171,
+            "t": 6,
+            "ti": 17554
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "commondrop": true,
+        "displayid": 24152,
+        "flags2": 8192,
+        "id": 13446,
+        "level": 55,
+        "name": "7Major Healing Potion",
+        "reqlevel": 45,
+        "slot": 0,
+        "source": [
+          1,
+          2,
+          4,
+          16
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_54",
+            "n": "Major Healing Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 17556
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 24211,
+        "flags2": 8192,
+        "id": 13447,
+        "level": 54,
+        "name": "7Elixir of the Sages",
+        "reqlevel": 44,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_29",
+            "n": "Elixir of the Sages",
+            "s": 171,
+            "t": 6,
+            "ti": 17555
+          },
+          {
+            "n": "Commander Eligor Dawnbringer",
+            "t": 1,
+            "ti": 16115
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 16836,
+        "flags2": 8192,
+        "id": 13452,
+        "level": 56,
+        "name": "7Elixir of the Mongoose",
+        "reqlevel": 46,
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_32",
+            "n": "Elixir of the Mongoose",
+            "s": 171,
+            "t": 6,
+            "ti": 17571
+          },
+          {
+            "n": "Commander Eligor Dawnbringer",
+            "t": 1,
+            "ti": 16115
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 24212,
+        "flags2": 8192,
+        "id": 13453,
+        "level": 55,
+        "name": "7Elixir of Brute Force",
+        "reqlevel": 45,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_40",
+            "n": "Elixir of Brute Force",
+            "s": 171,
+            "t": 6,
+            "ti": 17557
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 17898,
+        "flags2": 8192,
+        "id": 13454,
+        "level": 57,
+        "name": "7Greater Arcane Elixir",
+        "reqlevel": 47,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_25",
+            "n": "Greater Arcane Elixir",
+            "s": 171,
+            "t": 6,
+            "ti": 17573
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 17974,
+        "flags2": 8192,
+        "id": 13455,
+        "level": 56,
+        "name": "7Greater Stoneshield Potion",
+        "reqlevel": 46,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_69",
+            "n": "Greater Stoneshield Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 17570
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15794,
+        "flags2": 8192,
+        "id": 13456,
+        "level": 58,
+        "name": "7Greater Frost Protection Potion",
+        "reqlevel": 48,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_20",
+            "n": "Greater Frost Protection Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 17575
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 15741,
+        "flags2": 8192,
+        "id": 13457,
+        "level": 58,
+        "name": "7Greater Fire Protection Potion",
+        "reqlevel": 48,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_24",
+            "n": "Greater Fire Protection Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 17574
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 23739,
+        "flags2": 8192,
+        "id": 13458,
+        "level": 58,
+        "name": "7Greater Nature Protection Potion",
+        "reqlevel": 48,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_22",
+            "n": "Greater Nature Protection Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 17576
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 17469,
+        "flags2": 8192,
+        "id": 13459,
+        "level": 58,
+        "name": "7Greater Shadow Protection Potion",
+        "reqlevel": 48,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_23",
+            "n": "Greater Shadow Protection Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 17578
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 17403,
+        "flags2": 8192,
+        "id": 13461,
+        "level": 58,
+        "name": "7Greater Arcane Protection Potion",
+        "reqlevel": 48,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_83",
+            "n": "Greater Arcane Protection Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 17577
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 24156,
+        "flags2": 8192,
+        "id": 13462,
+        "level": 57,
+        "name": "7Purification Potion",
+        "reqlevel": 47,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_31",
+            "n": "Purification Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 17572
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 26865,
+        "flags2": 8192,
+        "id": 13506,
+        "level": 60,
+        "name": "7Flask of Petrification",
+        "reqlevel": 50,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_26",
+            "n": "Flask of Petrification",
+            "s": 171,
+            "t": 6,
+            "ti": 17634
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 24213,
+        "flags2": 8192,
+        "id": 13510,
+        "level": 60,
+        "name": "7Flask of the Titans",
+        "reqlevel": 50,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_62",
+            "n": "Flask of the Titans",
+            "s": 171,
+            "t": 6,
+            "ti": 17635
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 0,
+        "displayid": 21531,
+        "flags2": 8192,
+        "id": 13511,
+        "level": 60,
+        "name": "7Flask of Distilled Wisdom",
+        "reqlevel": 50,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_97",
+            "n": "Flask of Distilled Wisdom",
+            "s": 171,
+            "t": 6,
+            "ti": 17636
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 0,
+        "displayid": 19547,
+        "flags2": 8192,
+        "id": 13512,
+        "level": 60,
+        "name": "7Flask of Supreme Power",
+        "reqlevel": 50,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_41",
+            "n": "Flask of Supreme Power",
+            "s": 171,
+            "t": 6,
+            "ti": 17637
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 0,
+        "displayid": 22191,
+        "flags2": 8192,
+        "id": 13513,
+        "level": 60,
+        "name": "7Flask of Chromatic Resistance",
+        "reqlevel": 50,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_48",
+            "n": "Flask of Chromatic Resistance",
+            "s": 171,
+            "t": 6,
+            "ti": 17638
+          }
+        ],
+        "subclass": 3
+      },
+      {
+        "classs": 0,
+        "displayid": 4136,
+        "flags2": 8192,
+        "id": 17708,
+        "level": 38,
+        "name": "7Elixir of Frost Power",
+        "reqlevel": 28,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_03",
+            "n": "Elixir of Frost Power",
+            "s": 171,
+            "t": 6,
+            "ti": 21923
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 24217,
+        "flags2": 8192,
+        "id": 18253,
+        "level": 60,
+        "name": "7Major Rejuvenation Potion",
+        "reqlevel": 50,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_47",
+            "n": "Major Rejuvenation Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 22732
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 3665,
+        "flags2": 8192,
+        "id": 18294,
+        "level": 45,
+        "name": "7Elixir of Greater Water Breathing",
+        "reqlevel": 35,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_05",
+            "n": "Elixir of Greater Water Breathing",
+            "s": 171,
+            "t": 6,
+            "ti": 22808
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 12,
+        "displayid": 9731,
+        "flags2": 8192,
+        "id": 19931,
+        "level": 1,
+        "name": "5Gurubashi Mojo Madness",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_poison_mindnumbing",
+            "n": "Gurubashi Mojo Madness",
+            "s": 171,
+            "t": 6,
+            "ti": 24266
+          }
+        ],
+        "subclass": 0
+      },
+      {
+        "classs": 0,
+        "displayid": 17403,
+        "flags2": 8192,
+        "id": 20002,
+        "level": 60,
+        "name": "7Greater Dreamless Sleep Potion",
+        "reqlevel": 55,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_83",
+            "n": "Greater Dreamless Sleep Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 24366
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 29353,
+        "flags2": 8192,
+        "id": 20004,
+        "level": 58,
+        "name": "7Major Troll's Blood Potion",
+        "reqlevel": 53,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_80",
+            "n": "Major Troll's Blood Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 24368
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 2
+      },
+      {
+        "classs": 0,
+        "displayid": 32543,
+        "flags2": 8192,
+        "id": 20007,
+        "level": 50,
+        "name": "7Mageblood Potion",
+        "reqlevel": 40,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_45",
+            "n": "Mageblood Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 24365
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 3663,
+        "flags2": 8192,
+        "id": 20008,
+        "level": 57,
+        "name": "7Living Action Potion",
+        "reqlevel": 47,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_07",
+            "n": "Living Action Potion",
+            "s": 171,
+            "t": 6,
+            "ti": 24367
+          }
+        ],
+        "subclass": 1
+      },
+      {
+        "classs": 0,
+        "displayid": 24214,
+        "flags2": 8192,
+        "id": 21546,
+        "level": 50,
+        "name": "7Elixir of Greater Firepower",
+        "reqlevel": 40,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_60",
+            "n": "Elixir of Greater Firepower",
+            "s": 171,
+            "t": 6,
+            "ti": 26277
+          }
+        ],
+        "subclass": 2,
+        "subsubclass": 1
+      },
+      {
+        "classs": 7,
+        "displayid": 7352,
+        "flags2": 8192,
+        "id": 3577,
+        "level": 30,
+        "name": "6Gold Bar",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 20656,
+        "flags2": 8192,
+        "id": 6037,
+        "level": 50,
+        "name": "6Truesilver Bar",
+        "slot": 0,
+        "source": [
+          1,
+          2
+        ],
+        "subclass": 7
+      }
+    ]
+  },
+  {
+    "listId": "spells",
+    "data": [
+      {
+        "cat": 11,
+        "id": 2259,
+        "learnedat": 9999,
+        "level": 0,
+        "name": "@Alchemy",
+        "nskillup": 1,
+        "rank": "Apprentice",
+        "schools": 1,
+        "skill": [
+          171
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 10
+      },
+      {
+        "cat": 11,
+        "id": 3101,
+        "learnedat": 50,
+        "level": 0,
+        "name": "@Alchemy",
+        "nskillup": 1,
+        "rank": "Journeyman",
+        "schools": 1,
+        "skill": [
+          171
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 500
+      },
+      {
+        "cat": 11,
+        "id": 3464,
+        "learnedat": 125,
+        "level": 0,
+        "name": "@Alchemy",
+        "nskillup": 1,
+        "rank": "Expert",
+        "schools": 1,
+        "skill": [
+          171
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 4500
+      },
+      {
+        "cat": 11,
+        "id": 11611,
+        "learnedat": 200,
+        "level": 0,
+        "name": "@Alchemy",
+        "nskillup": 1,
+        "rank": "Artisan",
+        "schools": 1,
+        "skill": [
+          171
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 45000
+      }
+    ]
+  }
+]

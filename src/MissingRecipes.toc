@@ -10,3 +10,4 @@ openButton.lua
 listModal.lua
 core.lua
 main.lua
+test.lua

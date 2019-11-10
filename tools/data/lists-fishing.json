@@ -1,0 +1,110 @@
+[
+  {
+    "listId": "recipe-items",
+    "data": [
+      {
+        "classs": 9,
+        "displayid": 1134,
+        "flags2": 8192,
+        "id": 16082,
+        "level": 45,
+        "name": "7Artisan Fishing - The Way of the Lure",
+        "reqlevel": 35,
+        "skill": 200,
+        "slot": 0,
+        "subclass": 9
+      },
+      {
+        "classs": 9,
+        "displayid": 1155,
+        "flags2": 8192,
+        "id": 16083,
+        "level": 30,
+        "name": "7Expert Fishing - The Bass and You",
+        "reqlevel": 20,
+        "skill": 125,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Old Man Heming",
+            "t": 1,
+            "ti": 2626,
+            "z": 33
+          }
+        ],
+        "subclass": 9
+      }
+    ]
+  },
+  {
+    "listId": "spells",
+    "data": [
+      {
+        "cat": 9,
+        "id": 7620,
+        "learnedat": 9999,
+        "level": 1,
+        "name": "@Fishing",
+        "nskillup": 1,
+        "rank": "Apprentice",
+        "schools": 1,
+        "skill": [
+          356
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 100
+      },
+      {
+        "cat": 9,
+        "id": 7731,
+        "learnedat": 50,
+        "level": 1,
+        "name": "@Fishing",
+        "nskillup": 1,
+        "rank": "Journeyman",
+        "schools": 1,
+        "skill": [
+          356
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 500
+      },
+      {
+        "cat": 9,
+        "id": 7732,
+        "learnedat": 9999,
+        "level": 1,
+        "name": "@Fishing",
+        "nskillup": 1,
+        "rank": "Expert",
+        "schools": 1,
+        "skill": [
+          356
+        ]
+      },
+      {
+        "cat": 9,
+        "id": 18248,
+        "learnedat": 9999,
+        "level": 1,
+        "name": "@Fishing",
+        "nskillup": 1,
+        "rank": "Artisan",
+        "schools": 1,
+        "skill": [
+          356
+        ],
+        "source": [
+          4
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "listId": "spells",
+    "data": [
+      {
+        "cat": 11,
+        "id": 8613,
+        "learnedat": 9999,
+        "level": 0,
+        "name": "@Skinning",
+        "nskillup": 1,
+        "rank": "Apprentice",
+        "schools": 1,
+        "skill": [
+          393
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 10
+      },
+      {
+        "cat": 11,
+        "id": 8617,
+        "learnedat": 50,
+        "level": 0,
+        "name": "@Skinning",
+        "nskillup": 1,
+        "rank": "Journeyman",
+        "schools": 1,
+        "skill": [
+          393
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 500
+      },
+      {
+        "cat": 11,
+        "id": 8618,
+        "learnedat": 125,
+        "level": 0,
+        "name": "@Skinning",
+        "nskillup": 1,
+        "rank": "Expert",
+        "schools": 1,
+        "skill": [
+          393
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 5000
+      },
+      {
+        "cat": 11,
+        "id": 10768,
+        "learnedat": 200,
+        "level": 0,
+        "name": "@Skinning",
+        "nskillup": 1,
+        "rank": "Artisan",
+        "schools": 1,
+        "skill": [
+          393
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 50000
+      }
+    ]
+  }
+]

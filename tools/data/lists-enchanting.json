@@ -1,0 +1,2018 @@
+[
+  {
+    "listId": "recipe-items",
+    "data": [
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 6222,
+        "level": 12,
+        "name": "6Formula: Imbue Chest - Minor Spirit",
+        "skill": 60,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 6342,
+        "level": 12,
+        "name": "6Formula: Enchant Chest - Minor Mana",
+        "skill": 20,
+        "slot": 0,
+        "source": [
+          2,
+          5,
+          21
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 6343,
+        "level": 14,
+        "name": "6Formula: Imbue Chest - Spirit",
+        "skill": 60,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 6344,
+        "level": 17,
+        "name": "6Formula: Enchant Bracer - Minor Spirit",
+        "skill": 60,
+        "slot": 0,
+        "source": [
+          2,
+          21
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 6345,
+        "level": 18,
+        "name": "6Formula: Imbue Cloak - Protection",
+        "skill": 90,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 6346,
+        "level": 19,
+        "name": "6Formula: Enchant Chest - Lesser Mana",
+        "skill": 80,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 6347,
+        "level": 19,
+        "name": "6Formula: Enchant Bracer - Minor Strength",
+        "skill": 80,
+        "slot": 0,
+        "source": [
+          2,
+          21
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 6348,
+        "level": 20,
+        "name": "6Formula: Enchant Weapon - Minor Beastslayer",
+        "skill": 90,
+        "slot": 0,
+        "source": [
+          2,
+          16,
+          21
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 11431,
+        "flags2": 8192,
+        "id": 6349,
+        "level": 20,
+        "name": "7Formula: Enchant 2H Weapon - Lesser Intellect",
+        "skill": 100,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 6375,
+        "level": 24,
+        "name": "6Formula: Enchant Bracer - Lesser Spirit",
+        "skill": 120,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 6376,
+        "level": 25,
+        "name": "6Formula: Enchant Boots - Minor Stamina",
+        "skill": 125,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 6377,
+        "level": 25,
+        "name": "6Formula: Enchant Boots - Minor Agility",
+        "skill": 125,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11038,
+        "level": 22,
+        "name": "6Formula: Enchant 2H Weapon - Lesser Spirit",
+        "skill": 110,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11039,
+        "level": 22,
+        "name": "6Formula: Enchant Cloak - Minor Agility",
+        "skill": 110,
+        "slot": 0,
+        "source": [
+          2,
+          5
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11081,
+        "level": 22,
+        "name": "6Formula: Enchant Shield - Lesser Protection",
+        "skill": 115,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11098,
+        "level": 27,
+        "name": "6Formula: Enchant Cloak - Lesser Shadow Resistance",
+        "skill": 135,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11101,
+        "level": 28,
+        "name": "6Formula: Enchant Bracer - Lesser Strength",
+        "skill": 140,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11150,
+        "level": 29,
+        "name": "6Formula: Enchant Gloves - Mining",
+        "skill": 145,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11151,
+        "level": 29,
+        "name": "6Formula: Enchant Gloves - Herbalism",
+        "skill": 145,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11152,
+        "level": 29,
+        "name": "6Formula: Enchant Gloves - Fishing",
+        "skill": 145,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "z": 267
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11163,
+        "level": 34,
+        "name": "6Formula: Enchant Bracer - Lesser Deflection",
+        "skill": 170,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11164,
+        "level": 35,
+        "name": "6Formula: Enchant Weapon - Lesser Beastslayer",
+        "skill": 175,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11165,
+        "level": 35,
+        "name": "6Formula: Enchant Weapon - Lesser Elemental Slayer",
+        "skill": 175,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11166,
+        "level": 40,
+        "name": "6Formula: Enchant Gloves - Skinning",
+        "skill": 200,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "z": 45
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11167,
+        "level": 38,
+        "name": "6Formula: Enchant Boots - Lesser Spirit",
+        "skill": 190,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11168,
+        "level": 39,
+        "name": "6Formula: Enchant Shield - Lesser Block",
+        "skill": 195,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11202,
+        "level": 42,
+        "name": "6Formula: Enchant Shield - Stamina",
+        "skill": 210,
+        "slot": 0,
+        "source": [
+          2,
+          16
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11203,
+        "level": 43,
+        "name": "6Formula: Enchant Gloves - Advanced Mining",
+        "skill": 215,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Venture Co. Strip Miner",
+            "t": 1,
+            "ti": 674,
+            "z": 33
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11204,
+        "level": 44,
+        "name": "6Formula: Enchant Bracer - Greater Spirit",
+        "skill": 220,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11205,
+        "level": 45,
+        "name": "6Formula: Enchant Gloves - Advanced Herbalism",
+        "skill": 225,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "z": 8
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11206,
+        "level": 45,
+        "name": "6Formula: Enchant Cloak - Lesser Agility",
+        "skill": 225,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11207,
+        "level": 53,
+        "name": "6Formula: Enchant Weapon - Fiery Weapon",
+        "skill": 265,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Pyromancer Loregrain",
+            "t": 1,
+            "ti": 9024
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11208,
+        "level": 46,
+        "name": "6Formula: Enchant Weapon - Demonslaying",
+        "skill": 230,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11223,
+        "level": 47,
+        "name": "6Formula: Enchant Bracer - Deflection",
+        "skill": 235,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11224,
+        "level": 47,
+        "name": "6Formula: Enchant Shield - Frost Resistance",
+        "skill": 235,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11225,
+        "level": 49,
+        "name": "6Formula: Enchant Bracer - Greater Stamina",
+        "skill": 245,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11226,
+        "level": 50,
+        "name": "6Formula: Enchant Gloves - Riding Skill",
+        "skill": 250,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 11813,
+        "level": 53,
+        "name": "6Formula: Smoking Heart of the Mountain",
+        "skill": 265,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Lord Roccor",
+            "t": 1,
+            "ti": 9025
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16214,
+        "level": 51,
+        "name": "6Formula: Enchant Bracer - Greater Intellect",
+        "skill": 255,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Vilebranch Shadowcaster",
+            "t": 1,
+            "ti": 2642,
+            "z": 47
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16215,
+        "level": 52,
+        "name": "6Formula: Enchant Boots - Greater Stamina",
+        "skill": 260,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16216,
+        "level": 53,
+        "name": "6Formula: Enchant Cloak - Greater Resistance",
+        "skill": 265,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Atal'ai Witch Doctor",
+            "t": 1,
+            "ti": 5259,
+            "z": 1477
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 16217,
+        "level": 53,
+        "name": "7Formula: Enchant Shield - Greater Stamina",
+        "skill": 265,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16218,
+        "level": 54,
+        "name": "6Formula: Enchant Bracer - Superior Spirit",
+        "skill": 270,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16219,
+        "level": 54,
+        "name": "6Formula: Enchant Gloves - Greater Agility",
+        "skill": 270,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Legashi Rogue",
+            "t": 1,
+            "ti": 6201,
+            "z": 16
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16220,
+        "level": 55,
+        "name": "6Formula: Enchant Boots - Spirit",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 16221,
+        "level": 55,
+        "name": "7Formula: Enchant Chest - Major Health",
+        "skill": 275,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Qia",
+            "t": 1,
+            "ti": 11189,
+            "z": 618
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16222,
+        "level": 56,
+        "name": "6Formula: Enchant Shield - Superior Spirit",
+        "skill": 280,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Scarlet Warder",
+            "t": 1,
+            "ti": 9447,
+            "z": 139
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16223,
+        "level": 57,
+        "name": "6Formula: Enchant Weapon - Icy Chill",
+        "skill": 285,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Anguished Highborne",
+            "t": 1,
+            "ti": 7524,
+            "z": 618
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 16224,
+        "level": 57,
+        "name": "7Formula: Enchant Cloak - Superior Defense",
+        "skill": 285,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Lorelae Wintersong",
+            "t": 1,
+            "ti": 12022,
+            "z": 493
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16242,
+        "level": 58,
+        "name": "6Formula: Enchant Chest - Major Mana",
+        "skill": 290,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Scarlet Enchanter",
+            "t": 1,
+            "ti": 9452,
+            "z": 139
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 16243,
+        "level": 58,
+        "name": "7Formula: Runed Arcanite Rod",
+        "skill": 290,
+        "slot": 0,
+        "source": [
+          5
+        ],
+        "sourcemore": [
+          {
+            "n": "Lorelae Wintersong",
+            "t": 1,
+            "ti": 12022,
+            "z": 493
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16244,
+        "level": 59,
+        "name": "6Formula: Enchant Gloves - Greater Strength",
+        "skill": 295,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Spirestone Mystic",
+            "t": 1,
+            "ti": 9198,
+            "z": 1583
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16245,
+        "level": 59,
+        "name": "6Formula: Enchant Boots - Greater Agility",
+        "skill": 295,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16246,
+        "level": 59,
+        "name": "6Formula: Enchant Bracer - Superior Strength",
+        "skill": 295,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Deadwind Warlock",
+            "t": 1,
+            "ti": 7372,
+            "z": 41
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16247,
+        "level": 59,
+        "name": "6Formula: Enchant 2H Weapon - Superior Impact",
+        "skill": 295,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Blackhand Elite",
+            "t": 1,
+            "ti": 10317,
+            "z": 1583
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16248,
+        "level": 59,
+        "name": "6Formula: Enchant Weapon - Unholy",
+        "skill": 295,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Thuzadin Shadowcaster",
+            "t": 1,
+            "ti": 10398,
+            "z": 2017
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16249,
+        "level": 60,
+        "name": "6Formula: Enchant 2H Weapon - Major Intellect",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Crimson Sorcerer",
+            "t": 1,
+            "ti": 10422,
+            "z": 2017
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16250,
+        "level": 60,
+        "name": "6Formula: Enchant Weapon - Superior Striking",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Spirestone Warlord",
+            "t": 1,
+            "ti": 9216,
+            "z": 1583
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "commondrop": true,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16251,
+        "level": 60,
+        "name": "6Formula: Enchant Bracer - Superior Stamina",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16252,
+        "level": 61,
+        "name": "6Formula: Enchant Weapon - Crusader",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "n": "Scarlet Spellbinder",
+            "t": 1,
+            "ti": 4494,
+            "z": 28
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16253,
+        "level": 62,
+        "name": "6Formula: Enchant Chest - Greater Stats",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56750,
+        "flags2": 8192,
+        "id": 16254,
+        "level": 62,
+        "name": "5Formula: Enchant Weapon - Lifestealing",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Spectral Researcher",
+            "t": 1,
+            "ti": 10499,
+            "z": 2057
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 16255,
+        "level": 62,
+        "name": "6Formula: Enchant 2H Weapon - Major Spirit",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "dd": -1,
+            "n": "Scholomance Adept",
+            "t": 1,
+            "ti": 10469,
+            "z": 2057
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56741,
+        "flags2": 8192,
+        "id": 17725,
+        "level": 38,
+        "name": "6Formula: Enchant Weapon - Winter's Might",
+        "skill": 190,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56750,
+        "flags2": 8192,
+        "id": 18259,
+        "level": 60,
+        "name": "5Formula: Enchant Weapon - Spell Power",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "z": 2717
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56750,
+        "flags2": 8192,
+        "id": 18260,
+        "level": 60,
+        "name": "5Formula: Enchant Weapon - Healing Power",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "z": 2717
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 19444,
+        "level": 58,
+        "name": "7Formula: Enchant Weapon - Strength",
+        "skill": 290,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 19445,
+        "level": 58,
+        "name": "7Formula: Enchant Weapon - Agility",
+        "skill": 290,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 19446,
+        "level": 58,
+        "name": "7Formula: Enchant Bracer - Mana Regeneration",
+        "skill": 290,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 19447,
+        "level": 64,
+        "name": "7Formula: Enchant Bracer - Healing",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 19448,
+        "level": 66,
+        "name": "7Formula: Enchant Weapon - Mighty Spirit",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 19449,
+        "level": 70,
+        "name": "7Formula: Enchant Weapon - Mighty Intellect",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56750,
+        "flags2": 8192,
+        "id": 20726,
+        "level": 70,
+        "name": "5Formula: Enchant Gloves - Threat",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56750,
+        "flags2": 8192,
+        "id": 20727,
+        "level": 70,
+        "name": "5Formula: Enchant Gloves - Shadow Power",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "z": 3428
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56750,
+        "flags2": 8192,
+        "id": 20728,
+        "level": 70,
+        "name": "5Formula: Enchant Gloves - Frost Power",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56750,
+        "flags2": 8192,
+        "id": 20729,
+        "level": 70,
+        "name": "5Formula: Enchant Gloves - Fire Power",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "z": 3428
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56750,
+        "flags2": 8192,
+        "id": 20730,
+        "level": 70,
+        "name": "5Formula: Enchant Gloves - Healing Power",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56750,
+        "flags2": 8192,
+        "id": 20731,
+        "level": 70,
+        "name": "5Formula: Enchant Gloves - Superior Agility",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 20732,
+        "level": 70,
+        "name": "7Formula: Enchant Cloak - Greater Fire Resistance",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 20733,
+        "level": 70,
+        "name": "7Formula: Enchant Cloak - Greater Nature Resistance",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56750,
+        "flags2": 8192,
+        "id": 20734,
+        "level": 70,
+        "name": "5Formula: Enchant Cloak - Stealth",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56750,
+        "flags2": 8192,
+        "id": 20735,
+        "level": 70,
+        "name": "5Formula: Enchant Cloak - Subtlety",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 56750,
+        "flags2": 8192,
+        "id": 20736,
+        "level": 70,
+        "name": "5Formula: Enchant Cloak - Dodge",
+        "skill": 300,
+        "slot": 0,
+        "source": [
+          2
+        ],
+        "sourcemore": [
+          {
+            "bd": 1,
+            "z": 3428
+          }
+        ],
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 11431,
+        "flags2": 8192,
+        "id": 20752,
+        "level": 30,
+        "name": "7Formula: Minor Mana Oil",
+        "skill": 150,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 11431,
+        "flags2": 8192,
+        "id": 20753,
+        "level": 40,
+        "name": "7Formula: Lesser Wizard Oil",
+        "skill": 200,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 11431,
+        "flags2": 8192,
+        "id": 20754,
+        "level": 50,
+        "name": "7Formula: Lesser Mana Oil",
+        "skill": 250,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 20755,
+        "level": 55,
+        "name": "7Formula: Wizard Oil",
+        "skill": 275,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 20756,
+        "level": 60,
+        "name": "7Formula: Brilliant Wizard Oil",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 20757,
+        "level": 60,
+        "name": "7Formula: Brilliant Mana Oil",
+        "skill": 300,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 11431,
+        "flags2": 8192,
+        "id": 20758,
+        "level": 15,
+        "name": "7Formula: Minor Wizard Oil",
+        "skill": 45,
+        "slot": 0,
+        "subclass": 8
+      },
+      {
+        "classs": 9,
+        "displayid": 7798,
+        "flags2": 8192,
+        "id": 22392,
+        "level": 58,
+        "name": "7Formula: Enchant 2H Weapon - Agility",
+        "skill": 290,
+        "slot": 0,
+        "subclass": 8
+      }
+    ]
+  },
+  {
+    "listId": "crafted-items",
+    "data": [
+      {
+        "classs": 7,
+        "displayid": 21207,
+        "flags2": 8192,
+        "id": 6218,
+        "level": 5,
+        "name": "7Runed Copper Rod",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_staff_goldfeathered_01",
+            "n": "Runed Copper Rod",
+            "s": 333,
+            "t": 6,
+            "ti": 7421
+          }
+        ],
+        "subclass": 12
+      },
+      {
+        "classs": 7,
+        "displayid": 21208,
+        "flags2": 8192,
+        "id": 6339,
+        "level": 20,
+        "name": "7Runed Silver Rod",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_staff_01",
+            "n": "Runed Silver Rod",
+            "s": 333,
+            "t": 6,
+            "ti": 7795
+          }
+        ],
+        "subclass": 12
+      },
+      {
+        "classs": 7,
+        "displayid": 21206,
+        "flags2": 8192,
+        "id": 11130,
+        "level": 30,
+        "name": "7Runed Golden Rod",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_staff_10",
+            "n": "Runed Golden Rod",
+            "s": 333,
+            "t": 6,
+            "ti": 13628
+          }
+        ],
+        "subclass": 12
+      },
+      {
+        "classs": 7,
+        "displayid": 21209,
+        "flags2": 8192,
+        "id": 11145,
+        "level": 40,
+        "name": "7Runed Truesilver Rod",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_staff_11",
+            "n": "Runed Truesilver Rod",
+            "s": 333,
+            "t": 6,
+            "ti": 13702
+          }
+        ],
+        "subclass": 12
+      },
+      {
+        "classs": 2,
+        "displayid": 21096,
+        "dps": 11.33,
+        "flags2": 8192,
+        "id": 11287,
+        "level": 15,
+        "name": "6Lesser Magic Wand",
+        "reqlevel": 5,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_staff_02",
+            "n": "Lesser Magic Wand",
+            "s": 333,
+            "t": 6,
+            "ti": 14293
+          }
+        ],
+        "speed": 1.5,
+        "subclass": 19
+      },
+      {
+        "classs": 2,
+        "displayid": 21097,
+        "dps": 17.5,
+        "flags2": 8192,
+        "id": 11288,
+        "level": 23,
+        "name": "6Greater Magic Wand",
+        "reqlevel": 13,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_staff_07",
+            "n": "Greater Magic Wand",
+            "s": 333,
+            "t": 6,
+            "ti": 14807
+          }
+        ],
+        "speed": 1.8,
+        "subclass": 19
+      },
+      {
+        "classs": 2,
+        "displayid": 21098,
+        "dps": 25.38,
+        "flags2": 8192,
+        "id": 11289,
+        "level": 31,
+        "name": "6Lesser Mystic Wand",
+        "reqlevel": 26,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_staff_02",
+            "n": "Lesser Mystic Wand",
+            "s": 333,
+            "t": 6,
+            "ti": 14809
+          }
+        ],
+        "speed": 1.3,
+        "subclass": 19
+      },
+      {
+        "classs": 2,
+        "displayid": 21101,
+        "dps": 29,
+        "flags2": 8192,
+        "id": 11290,
+        "level": 35,
+        "name": "6Greater Mystic Wand",
+        "reqlevel": 30,
+        "slot": 15,
+        "slotbak": 26,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_wand_07",
+            "n": "Greater Mystic Wand",
+            "s": 333,
+            "t": 6,
+            "ti": 14810
+          }
+        ],
+        "speed": 2,
+        "subclass": 19
+      },
+      {
+        "armor": 150,
+        "classs": 4,
+        "displayid": 21804,
+        "flags2": 8192,
+        "id": 11811,
+        "level": 55,
+        "name": "5Smoking Heart of the Mountain",
+        "reqlevel": 50,
+        "slot": 12,
+        "slotbak": 12,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_gem_bloodstone_01",
+            "n": "Smoking Heart of the Mountain",
+            "s": 333,
+            "t": 6,
+            "ti": 15596
+          }
+        ],
+        "subclass": -4
+      },
+      {
+        "classs": 7,
+        "displayid": 22445,
+        "flags2": 8192,
+        "id": 12655,
+        "level": 55,
+        "name": "7Enchanted Thorium Bar",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_ingot_eternium",
+            "n": "Enchanted Thorium",
+            "s": 333,
+            "t": 6,
+            "ti": 17180
+          }
+        ],
+        "subclass": 7
+      },
+      {
+        "classs": 7,
+        "displayid": 23292,
+        "flags2": 8192,
+        "id": 12810,
+        "level": 55,
+        "name": "7Enchanted Leather",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_misc_rune_05",
+            "n": "Enchanted Leather",
+            "s": 333,
+            "t": 6,
+            "ti": 17181
+          }
+        ],
+        "subclass": 6
+      },
+      {
+        "classs": 7,
+        "displayid": 26775,
+        "flags2": 8192,
+        "id": 16207,
+        "level": 58,
+        "name": "7Runed Arcanite Rod",
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_wand_09",
+            "n": "Runed Arcanite Rod",
+            "s": 333,
+            "t": 6,
+            "ti": 20051
+          }
+        ],
+        "subclass": 12
+      },
+      {
+        "classs": 0,
+        "displayid": 33194,
+        "flags2": 8192,
+        "id": 20744,
+        "level": 15,
+        "name": "7Minor Wizard Oil",
+        "reqlevel": 5,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_poison_mindnumbing",
+            "n": "Minor Wizard Oil",
+            "s": 333,
+            "t": 6,
+            "ti": 25124
+          }
+        ],
+        "subclass": -3
+      },
+      {
+        "classs": 0,
+        "displayid": 33453,
+        "flags2": 8192,
+        "id": 20745,
+        "level": 30,
+        "name": "7Minor Mana Oil",
+        "reqlevel": 20,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_98",
+            "n": "Minor Mana Oil",
+            "s": 333,
+            "t": 6,
+            "ti": 25125
+          }
+        ],
+        "subclass": -3
+      },
+      {
+        "classs": 0,
+        "displayid": 33450,
+        "flags2": 8192,
+        "id": 20746,
+        "level": 40,
+        "name": "7Lesser Wizard Oil",
+        "reqlevel": 30,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_103",
+            "n": "Lesser Wizard Oil",
+            "s": 333,
+            "t": 6,
+            "ti": 25126
+          }
+        ],
+        "subclass": -3
+      },
+      {
+        "classs": 0,
+        "displayid": 33454,
+        "flags2": 8192,
+        "id": 20747,
+        "level": 50,
+        "name": "7Lesser Mana Oil",
+        "reqlevel": 40,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_99",
+            "n": "Lesser Mana Oil",
+            "s": 333,
+            "t": 6,
+            "ti": 25127
+          }
+        ],
+        "subclass": -3
+      },
+      {
+        "classs": 0,
+        "displayid": 33455,
+        "flags2": 8192,
+        "id": 20748,
+        "level": 55,
+        "name": "7Brilliant Mana Oil",
+        "reqlevel": 45,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_100",
+            "n": "Brilliant Mana Oil",
+            "s": 333,
+            "t": 6,
+            "ti": 25130
+          }
+        ],
+        "subclass": -3
+      },
+      {
+        "classs": 0,
+        "displayid": 33452,
+        "flags2": 8192,
+        "id": 20749,
+        "level": 55,
+        "name": "7Brilliant Wizard Oil",
+        "reqlevel": 45,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_105",
+            "n": "Brilliant Wizard Oil",
+            "s": 333,
+            "t": 6,
+            "ti": 25129
+          }
+        ],
+        "subclass": -3
+      },
+      {
+        "classs": 0,
+        "displayid": 33451,
+        "flags2": 8192,
+        "id": 20750,
+        "level": 50,
+        "name": "7Wizard Oil",
+        "reqlevel": 40,
+        "slot": 0,
+        "source": [
+          1
+        ],
+        "sourcemore": [
+          {
+            "c": 11,
+            "icon": "inv_potion_104",
+            "n": "Wizard Oil",
+            "s": 333,
+            "t": 6,
+            "ti": 25128
+          }
+        ],
+        "subclass": -3
+      }
+    ]
+  },
+  {
+    "listId": "spells",
+    "data": [
+      {
+        "cat": 11,
+        "id": 7411,
+        "learnedat": 9999,
+        "level": 0,
+        "name": "@Enchanting",
+        "nskillup": 1,
+        "rank": "Apprentice ",
+        "schools": 1,
+        "skill": [
+          333
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 10
+      },
+      {
+        "cat": 11,
+        "id": 7412,
+        "learnedat": 50,
+        "level": 0,
+        "name": "@Enchanting",
+        "nskillup": 1,
+        "rank": "Journeyman",
+        "schools": 1,
+        "skill": [
+          333
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 500
+      },
+      {
+        "cat": 11,
+        "id": 7413,
+        "learnedat": 125,
+        "level": 0,
+        "name": "@Enchanting",
+        "nskillup": 1,
+        "rank": "Expert",
+        "schools": 1,
+        "skill": [
+          333
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 5000
+      },
+      {
+        "cat": 11,
+        "colors": [
+          0,
+          20,
+          40,
+          60
+        ],
+        "id": 13262,
+        "learnedat": 20,
+        "level": 0,
+        "name": "@Disenchant",
+        "nskillup": 1,
+        "schools": 1,
+        "skill": [
+          333
+        ]
+      },
+      {
+        "cat": 11,
+        "id": 13920,
+        "learnedat": 200,
+        "level": 0,
+        "name": "@Enchanting",
+        "nskillup": 1,
+        "rank": "Artisan",
+        "schools": 1,
+        "skill": [
+          333
+        ],
+        "source": [
+          6
+        ],
+        "trainingcost": 50000
+      }
+    ]
+  }
+]
