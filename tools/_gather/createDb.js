@@ -5,21 +5,36 @@ const { PROFESSIONS } = require('./consts');
 const dbFile = (profName) => path.join(__dirname, '..', '..', 'src', 'db', `${profName}.lua`);
 const dataFile = (profName) => path.join(__dirname, '..', 'data', `${profName}.json`);
 
-function dbItemToLua({ name_enus }) {
-  return `  ["${name_enus}"] = {\n    ["name"] = "${name_enus}"\n  }`;
+function escLua(key) {
+  if (typeof key === 'string') {
+    return key.replace(/"/g, `\\"`);
+  }
+
+  return key;
+}
+
+function objToLua(obj, indent) {
+  const props = Object.entries(obj).map(([key, value]) => `["${escLua(key)}"] = "${escLua(value)}"`);
+
+  return `{\n  ${indent}${props.join(`,\n  ${indent}`)}\n${indent}}`;
+}
+
+function dbItemToLua(spell) {
+  return `  ["${escLua(spell.label)}"] = ${objToLua(spell, '  ')}`;
 }
 
 function dbToLua(db, prof) {
-  const prefix = `local A, NS = ...\n\nNS.DB.${prof} = {\n`;
-  const body = db.sort((a, b) => a.name_enus.localeCompare(b.name_enus)).map(dbItemToLua).join(',\n');
+  const prefix = `local A, NS = ...\n\nNS.DB["${prof}"] = {\n`;
+  const body = db.sort((a, b) => a.id - b.id).map(dbItemToLua).join(',\n');
   const suffix = '\n}';
 
   return prefix + body + suffix;
 }
 
 (async () => {
-  const base = await fs.readFile(dataFile('_base'), 'utf8');
-  const spells = JSON.parse(base)['6:4'].items;
+  const base = require(dataFile('_base'));
+  const spells = base['6:4'].items;
+  const { items } = base['3:4'];
 
   for (const prof of Object.values(PROFESSIONS)) {
     const profListJson = await fs.readFile(dataFile(`lists-${prof}`), 'utf8');
@@ -37,9 +52,21 @@ function dbToLua(db, prof) {
           throw Error(`Unknown spell:\n${JSON.stringify(recipe, null, '  ')}`);
         }
 
-        return spell;
+        if (recipe.creates) {
+          const itemCreated = items[recipe.creates[0]];
+
+          if (!itemCreated) {
+            throw Error(`Unknown item created:\n${JSON.stringify(recipe, null, '  ')}`);
+          }
+        }
+
+        return {
+          id: recipe.id,
+          label: spell.name_enus,
+          icon: spell.icon
+        };
       })
-      .filter((spell) => spell.attainable !== 0);
+      .filter((spell) => spell.cat !== 0);
 
     await fs.writeFile(dbFile(prof), dbToLua(db, prof), 'utf8');
   }

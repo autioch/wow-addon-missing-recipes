@@ -2,8 +2,12 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "glob-promise": "^3.4.0",
+    "lodash": "^4.17.15",
     "recursive-copy": "^2.0.10",
     "request": "^2.88.0"
+  },
+  "scripts": {
+    "to-client": "node tools/copyToClient"
   },
   "devDependencies": {
     "eslint": "^5.16.0",

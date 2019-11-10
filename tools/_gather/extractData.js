@@ -85,7 +85,5 @@ function getWH(base) {
     await fs.writeFile(dataFile(`lists-${prof}`), JSON.stringify(lists, null, '  '), 'utf8');
   }
 
-  // uniqifyBase(base);
-
   await fs.writeFile(dataFile(`_base`), JSON.stringify(base, null, '  '), 'utf8');
 })();

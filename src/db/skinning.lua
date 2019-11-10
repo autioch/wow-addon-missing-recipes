@@ -1,5 +1,5 @@
 local A, NS = ...
 
-NS.DB.skinning = {
+NS.DB["skinning"] = {
 
 }

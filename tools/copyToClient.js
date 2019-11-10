@@ -1,7 +1,6 @@
 const { join } = require('path');
 const fsOld = require('fs');
 const fs = fsOld.promises;
-const glob = require('glob-promise');
 const copy = require('recursive-copy');
 
 const WOW_ADDON_DIR = join('c:', 'Games', 'WoW Classic', 'World of Warcraft', '_classic_', 'Interface', 'AddOns');

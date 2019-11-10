@@ -1,5 +1,5 @@
 local A, NS = ...
 
-NS.DB.fishing = {
+NS.DB["fishing"] = {
 
 }
