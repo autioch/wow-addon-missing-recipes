@@ -1,0 +1,33 @@
+1	Baked Salmon
+2	Basic Campfire
+3	Beer Basted Boar Ribs
+4	Blood Sausage
+5	Clam Chowder
+6	Cooked Crab Claw
+7	Cooking
+8	Crocolisk Gumbo
+9	Crocolisk Steak
+10	Dirge's Kickin' Chimaerok Chops
+11	Egg Nog
+12	Fillet of Frenzy
+13	Gingerbread Cookie
+14	Gooey Spider Cake
+15	Goretusk Liver Pie
+16	Kaldorei Spider Kabob
+17	Lobster Stew
+18	Loch Frenzy Delight
+19	Mightfish Steak
+20	Monster Omelet
+21	Murloc Fin Soup
+22	Redridge Goulash
+23	Roasted Kodo Meat
+24	Runn Tum Tuber Surprise
+25	Savory Deviate Delight
+26	Scorpid Surprise
+27	Seasoned Wolf Kabob
+28	Smoked Desert Dumplings
+29	Succulent Pork Ribs
+30	Tasty Lion Steak
+31	Thistle Tea
+32	Undermine Clam Chowder
+33	Westfall Stew

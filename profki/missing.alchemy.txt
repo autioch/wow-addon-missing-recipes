@@ -1,0 +1,50 @@
+1	Alchemist's Stone
+2	Elixir of Brute Force
+3	Elixir of Dream Vision
+4	Elixir of Frost Power
+5	Elixir of Giants
+6	Elixir of Greater Firepower
+7	Elixir of Lesser Agility
+8	Elixir of Shadow Power
+9	Elixir of Superior Defense
+10	Elixir of the Mongoose
+11	Elixir of the Sages
+12	Flask of Chromatic Resistance
+13	Flask of Distilled Wisdom
+14	Flask of Petrification
+15	Flask of Supreme Power
+16	Flask of the Titans
+17	Ghost Dye
+18	Gift of Arthas
+19	Goblin Rocket Fuel
+20	Greater Arcane Elixir
+21	Greater Arcane Protection Potion
+22	Greater Dreamless Sleep Potion
+23	Greater Fire Protection Potion
+24	Greater Frost Protection Potion
+25	Greater Nature Protection Potion
+26	Greater Shadow Protection Potion
+27	Greater Stoneshield Potion
+28	Gurubashi Mojo Madness
+29	Invisibility Potion
+30	Limited Invulnerability Potion
+31	Living Action Potion
+32	Mageblood Potion
+33	Major Healing Potion
+34	Major Mana Potion
+35	Major Rejuvenation Potion
+36	Major Troll's Blood Potion
+37	Mighty Rage Potion
+38	Purification Potion
+39	Shadow Protection Potion
+40	Swiftness Potion
+41	Transmute: Air to Fire
+42	Transmute: Arcanite
+43	Transmute: Earth to Life
+44	Transmute: Earth to Water
+45	Transmute: Elemental Fire
+46	Transmute: Fire to Earth
+47	Transmute: Life to Earth
+48	Transmute: Undeath to Water
+49	Transmute: Water to Air
+50	Transmute: Water to Undeath

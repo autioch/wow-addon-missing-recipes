@@ -1,0 +1,64 @@
+Arcane Elixir
+Blackmouth Oil
+Catseye Elixir
+Discolored Healing Potion
+Dreamless Sleep Potion
+Elixir of Agility
+Elixir of Defense
+Elixir of Demonslaying
+Elixir of Detect Demon
+Elixir of Detect Lesser Invisibility
+Elixir of Detect Undead
+Elixir of Firepower
+Elixir of Fortitude
+Elixir of Giant Growth
+Elixir of Greater Agility
+Elixir of Greater Defense
+Elixir of Greater Intellect
+Elixir of Greater Water Breathing
+Elixir of Lion's Strength
+Elixir of Minor Agility
+Elixir of Minor Defense
+Elixir of Minor Fortitude
+Elixir of Ogre's Strength
+Elixir of Poison Resistance
+Elixir of Water Breathing
+Elixir of Wisdom
+Fire Oil
+Fire Protection Potion
+Free Action Potion
+Frost Oil
+Frost Protection Potion
+Great Rage Potion
+Greater Healing Potion
+Greater Mana Potion
+Healing Potion
+Holy Protection Potion
+Lesser Healing Potion
+Lesser Invisibility Potion
+Lesser Mana Potion
+Lesser Stoneshield Potion
+Magic Resistance Potion
+Mana Potion
+Mighty Troll's Blood Potion
+Minor Healing Potion
+Minor Magic Resistance Potion
+Minor Mana Potion
+Minor Rejuvenation Potion
+Nature Protection Potion
+Oil of Immolation
+Philosophers' Stone
+Rage Potion
+Reagent
+Restorative Potion
+Shadow Oil
+Stonescale Oil
+Strong Troll's Blood Potion
+Superior Healing Potion
+Superior Mana Potion
+Swim Speed Potion
+Trade Goods
+Transmute: Iron to Gold
+Transmute: Mithril to Truesilver
+Weak Troll's Blood Potion
+Wildvine Potion

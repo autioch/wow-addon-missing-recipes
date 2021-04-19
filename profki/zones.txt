@@ -1,0 +1,70 @@
+15 25 The Deadmines
+	15 25 Ragefire Chasm
+	17 27 Wailing Caverns
+	20 60 Shadowfang Keep
+	22 32 Blackfathom Deeps
+22 32 The Stockade
+26 36 Gnomeregan
+	26 45 Scarlet Monastery
+	32 42 Razorfen Kraul
+	36 46 Maraudon
+	37 47 Razorfen Downs
+	42 52 Uldaman
+44 54 Dire Maul
+44 60 The Temple of Atal'Hakkar
+	46 56 Zul'Farrak
+48 58 Stratholme
+48 60 Blackrock Depths
+58 60 Scholomance
+
+60 60 Molten Core
+60 60 Blackwing Lair
+60 60 Zul'Gurub
+60 60 Naxxramas
+60 60 Ahn'Qiraj
+60 60 Ruins of Ahn'Qiraj
+
+10 60 Warsong Gulch
+20 60 Arathi Basin
+51 60 Alterac Valley
+
+01 10 Elwynn Forest
+01 10 Durotar
+01 10 Mulgore
+01 11 Teldrassil
+	01 12 Tirisfal Glades
+01 12 Dun Morogh
+
+    09 18 Westfall
+    10 18 Loch Modan
+    10 20 Silverpine Forest
+    10 30 Duskwood    18 - 30
+    10 33 The Barrens
+    11 19 Darkshore
+    15 25 Stonetalon Mountains
+    15 25 Redridge Mountains
+    19 30 Ashenvale
+    20 30 Wetlands
+    20 31 Hillsbrad Foothills
+    24 35 Thousand Needles
+    27 39 Alterac Mountains  30 - 40
+    30 39 Desolace
+    30 40 Arathi Highlands
+	30 50 Stranglethorn Vale  30 - 45
+    36 43 Swamp of Sorrows
+    36 45 Badlands
+	36 61 Dustwallow Marsh   35 - 45
+	40 50 Tanaris
+	41 49 The Hinterlands
+41 60 Feralas  40 - 50
+42 55 Azshara  45 - 55
+43 56 Searing Gorge 45 - 50
+46 57 Western Plaguelands  51 - 58
+46 63 Blasted Lands  45 - 55
+47 54 Felwood
+	48 55 Un'Goro Crater
+50 59 Burning Steppes
+50 60 Deadwind Pass  55 - 60
+54 59 Eastern Plaguelands
+55 59 Silithus
+55 60 Winterspring
